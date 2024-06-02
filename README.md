@@ -1,4 +1,4 @@
-# LeetCode-Solution
+# LeetCode-Solutions
 My Personal Leetcode Notebook !
 
 
