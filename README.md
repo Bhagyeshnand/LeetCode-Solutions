@@ -18,3 +18,11 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+# Array
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0051-n-queens) |
+# Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0051-n-queens) |
