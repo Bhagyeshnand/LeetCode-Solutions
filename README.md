@@ -15,6 +15,7 @@ My Personal Leetcode Notebook !
 | ------- |
 | [0409-longest-palindrome](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 # Greedy
 |  |
 | ------- |
@@ -58,3 +59,7 @@ My Personal Leetcode Notebook !
 | ------- |
 | [0213-house-robber-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0403-frog-jump) |
+# Simulation
+|  |
+| ------- |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
