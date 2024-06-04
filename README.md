@@ -21,6 +21,7 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+| [0435-non-overlapping-intervals](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Array
@@ -31,6 +32,7 @@ My Personal Leetcode Notebook !
 | [0051-n-queens](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0213-house-robber-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0403-frog-jump) |
+| [0435-non-overlapping-intervals](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 # Backtracking
@@ -52,6 +54,7 @@ My Personal Leetcode Notebook !
 # Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0561-array-partition) |
 # Counting Sort
 |  |
@@ -63,6 +66,7 @@ My Personal Leetcode Notebook !
 | [0131-palindrome-partitioning](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0213-house-robber-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0403-frog-jump) |
+| [0435-non-overlapping-intervals](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 # Simulation
 |  |
 | ------- |
