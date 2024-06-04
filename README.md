@@ -32,6 +32,7 @@ My Personal Leetcode Notebook !
 | [0213-house-robber-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0403-frog-jump) |
 | [0561-array-partition](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0561-array-partition) |
+| [0643-maximum-average-subarray-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 # Backtracking
 |  |
 | ------- |
@@ -74,3 +75,7 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
+# Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
