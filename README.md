@@ -66,3 +66,11 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
+# Math
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
+# Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
