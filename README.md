@@ -23,6 +23,7 @@ My Personal Leetcode Notebook !
 # Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0051-n-queens) |
 # Backtracking
@@ -33,6 +34,7 @@ My Personal Leetcode Notebook !
 # Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0409-longest-palindrome](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 # Matrix
