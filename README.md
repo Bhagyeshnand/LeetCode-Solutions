@@ -13,6 +13,7 @@ My Personal Leetcode Notebook !
 # String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0409-longest-palindrome](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
@@ -36,6 +37,7 @@ My Personal Leetcode Notebook !
 | ------- |
 | [0037-sudoku-solver](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0051-n-queens) |
+| [0131-palindrome-partitioning](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 # Hash Table
 |  |
 | ------- |
@@ -57,6 +59,7 @@ My Personal Leetcode Notebook !
 # Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0213-house-robber-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0403-frog-jump) |
 # Simulation
