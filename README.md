@@ -35,6 +35,7 @@ My Personal Leetcode Notebook !
 | [0001-two-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0051-n-queens) |
+| [0074-search-a-2d-matrix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0213-house-robber-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -64,6 +65,7 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0074-search-a-2d-matrix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 # Sorting
 |  |
 | ------- |
@@ -99,3 +101,7 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+# Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
