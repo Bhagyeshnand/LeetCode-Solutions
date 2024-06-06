@@ -27,6 +27,7 @@ My Personal Leetcode Notebook !
 | [0561-array-partition](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0876-hand-of-straights](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Array
 |  |
@@ -42,6 +43,7 @@ My Personal Leetcode Notebook !
 | [0643-maximum-average-subarray-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0876-hand-of-straights](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1044-find-common-characters) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 # Backtracking
 |  |
 | ------- |
@@ -56,6 +58,7 @@ My Personal Leetcode Notebook !
 | [0409-longest-palindrome](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0876-hand-of-straights](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1044-find-common-characters) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 # Matrix
 |  |
@@ -67,6 +70,7 @@ My Personal Leetcode Notebook !
 | [0435-non-overlapping-intervals](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0876-hand-of-straights](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 # Counting Sort
 |  |
 | ------- |
