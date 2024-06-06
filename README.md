@@ -110,4 +110,13 @@ My Personal Leetcode Notebook !
 # Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+# Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+# Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
