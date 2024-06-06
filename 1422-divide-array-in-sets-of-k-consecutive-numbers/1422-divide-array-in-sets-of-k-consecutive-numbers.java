@@ -1,14 +1,35 @@
 class Solution {
-    public boolean isPossibleDivide(int[] A, int k) {
+    public boolean findsucessors(int[] hand, int groupSize, int i, int n) {
+        int f = hand[i] + 1;
+        hand[i] = -1;
+        int count = 1;
+        i += 1;
+        while (i < n && count < groupSize) {
+            if (hand[i] == f) {
+                f = hand[i] + 1;
+                hand[i] = -1;
+                count++;
+            }
+            i++;
+        }
+        if (count != groupSize)
+            return false;
+        else
+            return true;
+    }
 
-        Map<Integer, Integer> c = new TreeMap<>();
-        for (int i : A) c.put(i, c.getOrDefault(i, 0)+1);
-        for (int it : c.keySet())
-            if (c.get(it) > 0)
-                for (int i = k - 1; i >= 0; --i) {
-                    if (c.getOrDefault(it + i, 0) < c.get(it)) return false;
-                    c.put(it + i, c.get(it + i) - c.get(it));
-                }
+    public boolean isPossibleDivide(int[] hand, int groupSize) {
+        int n = hand.length;
+        if (n % groupSize != 0)
+            return false;
+        Arrays.sort(hand);
+        int i = 0;
+        for (; i < n; i++) {
+            if (hand[i] >= 0) {
+                if (!findsucessors(hand, groupSize, i, n))
+                    return false;
+            }
+        }
         return true;
     }
 }
