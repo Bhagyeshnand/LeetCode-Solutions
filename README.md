@@ -15,6 +15,7 @@ My Personal Leetcode Notebook !
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0409-longest-palindrome](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1044-find-common-characters](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1044-find-common-characters) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -27,6 +28,7 @@ My Personal Leetcode Notebook !
 | [0561-array-partition](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0876-hand-of-straights](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Array
@@ -105,3 +107,7 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+# Stack
+|  |
+| ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
