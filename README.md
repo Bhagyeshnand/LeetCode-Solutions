@@ -16,6 +16,7 @@ My Personal Leetcode Notebook !
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0409-longest-palindrome](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+| [0648-replace-words](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1044-find-common-characters](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1044-find-common-characters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -47,6 +48,7 @@ My Personal Leetcode Notebook !
 | [0561-array-partition](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0648-replace-words](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1044-find-common-characters) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -62,6 +64,7 @@ My Personal Leetcode Notebook !
 | [0001-two-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0409-longest-palindrome](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+| [0648-replace-words](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1044-find-common-characters) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -124,3 +127,7 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+# Trie
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0648-replace-words) |
