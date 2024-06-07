@@ -137,3 +137,7 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0648-replace-words) |
+# Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
