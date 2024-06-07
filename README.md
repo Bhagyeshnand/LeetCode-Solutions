@@ -9,6 +9,7 @@ My Personal Leetcode Notebook !
 # Two Pointers
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
@@ -16,6 +17,7 @@ My Personal Leetcode Notebook !
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0409-longest-palindrome](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+| [0443-string-compression](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0648-replace-words](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1044-find-common-characters](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1044-find-common-characters) |
