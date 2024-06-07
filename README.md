@@ -12,6 +12,7 @@ My Personal Leetcode Notebook !
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -141,3 +142,4 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
