@@ -75,6 +75,7 @@ My Personal Leetcode Notebook !
 | ------- |
 | [0001-two-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0138-copy-list-with-random-pointer](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0409-longest-palindrome](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -154,6 +155,7 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 # Prefix Sum
