@@ -1,14 +1,24 @@
 class Solution {
     public List<Integer> findDisappearedNumbers(int[] nums) {
-         List<Integer> ans = new ArrayList<>();
+        
+          List<Integer> result = new ArrayList<>();
 
-        for(int i= 0; i< nums.length; ++i){
-            int index = Math.abs(nums[i])-1;
-            nums[index] = nums[index] < 0 ? nums[index] :-nums[index];
+        // Marking the presence of numbers by making the corresponding index negative
+        for (int i = 0; i < nums.length; i++) {
+            int idx = Math.abs(nums[i]) - 1;
+            if (nums[idx] > 0) {
+                nums[idx] = -nums[idx];
+            }
         }
-        for(int i=0; i< nums.length;i++){
-            if(nums[i]>0) ans.add(i+1);
+
+        // Finding the indexes that have positive numbers, which indicates the missing numbers
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] > 0) {
+                result.add(i + 1);
+            }
         }
-        return ans;
+
+        return result;
     }
 }
+    
