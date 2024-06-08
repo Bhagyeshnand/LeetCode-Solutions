@@ -26,6 +26,7 @@ My Personal Leetcode Notebook !
 | [1044-find-common-characters](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1044-find-common-characters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
@@ -86,6 +87,7 @@ My Personal Leetcode Notebook !
 | [1016-subarray-sums-divisible-by-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1044-find-common-characters) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 # Matrix
 |  |
@@ -103,6 +105,7 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0561-array-partition) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 # Dynamic Programming
 |  |
