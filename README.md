@@ -66,6 +66,7 @@ My Personal Leetcode Notebook !
 | [1039-find-the-town-judge](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1044-find-common-characters) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [2448-count-number-of-bad-pairs](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 # Backtracking
 |  |
 | ------- |
@@ -91,6 +92,7 @@ My Personal Leetcode Notebook !
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2448-count-number-of-bad-pairs](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 # Matrix
 |  |
 | ------- |
