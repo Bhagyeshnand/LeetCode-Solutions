@@ -40,6 +40,7 @@ My Personal Leetcode Notebook !
 | [0605-can-place-flowers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0876-hand-of-straights](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Array
@@ -131,6 +132,7 @@ My Personal Leetcode Notebook !
 | [0060-permutation-sequence](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [0523-continuous-subarray-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 # Recursion
 |  |
