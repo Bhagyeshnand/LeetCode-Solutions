@@ -75,6 +75,7 @@ My Personal Leetcode Notebook !
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1848-sum-of-unique-elements](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1925-count-nice-pairs-in-an-array) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 # Backtracking
@@ -107,6 +108,7 @@ My Personal Leetcode Notebook !
 | [1848-sum-of-unique-elements](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1925-count-nice-pairs-in-an-array) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2448-count-number-of-bad-pairs](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
@@ -133,6 +135,7 @@ My Personal Leetcode Notebook !
 | [1848-sum-of-unique-elements](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1925-count-nice-pairs-in-an-array) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 # Dynamic Programming
