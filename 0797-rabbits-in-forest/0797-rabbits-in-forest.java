@@ -1,4 +1,19 @@
 class Solution {
+  public int numRabbits(int[] answers) {
+    int ans = 0;
+    int[] count = new int[1000];
+
+    for (final int answer : answers) {
+      if (count[answer] % (answer + 1) == 0) // add to ans when new group arise
+        ans += answer + 1;      // let for [1 1 1 2] first time when it comes its freq is 0 which satisfy the condition 
+      ++count[answer];          // and its value(Group size(num + 1)) is added and for index 2 for the 3rd 1 , condition again satisfy for
+    }                           // formation of new group
+
+    return ans;
+  }
+}
+
+/*class Solution {
     public int numRabbits(int[] answers) {
          HashMap<Integer, Integer> map = new HashMap<>();
         int totalRabbits = 0;
@@ -19,3 +34,4 @@ class Solution {
         return totalRabbits;
     }
 }
+*/
