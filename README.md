@@ -39,6 +39,7 @@ My Personal Leetcode Notebook !
 | [0435-non-overlapping-intervals](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
+| [0797-rabbits-in-forest](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
@@ -64,6 +65,7 @@ My Personal Leetcode Notebook !
 | [0605-can-place-flowers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0648-replace-words) |
+| [0797-rabbits-in-forest](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
@@ -94,6 +96,7 @@ My Personal Leetcode Notebook !
 | [0523-continuous-subarray-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0648-replace-words) |
+| [0797-rabbits-in-forest](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
@@ -145,6 +148,7 @@ My Personal Leetcode Notebook !
 | ------- |
 | [0060-permutation-sequence](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [0523-continuous-subarray-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0797-rabbits-in-forest](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
