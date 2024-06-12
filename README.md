@@ -82,6 +82,7 @@ My Personal Leetcode Notebook !
 | [1137-height-checker](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1833-find-the-highest-altitude](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -216,6 +217,7 @@ My Personal Leetcode Notebook !
 | [0523-continuous-subarray-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1833-find-the-highest-altitude](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
 # Graph
 |  |
 | ------- |
