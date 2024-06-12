@@ -74,6 +74,7 @@ My Personal Leetcode Notebook !
 | [0605-can-place-flowers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0648-replace-words) |
+| [0724-find-pivot-index](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0797-rabbits-in-forest](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -216,6 +217,7 @@ My Personal Leetcode Notebook !
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1833-find-the-highest-altitude](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
 # Graph
