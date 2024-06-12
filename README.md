@@ -10,6 +10,7 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
@@ -56,6 +57,7 @@ My Personal Leetcode Notebook !
 | [0042-trapping-rain-water](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0213-house-robber-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0403-frog-jump](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0403-frog-jump) |
@@ -124,6 +126,7 @@ My Personal Leetcode Notebook !
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0435-non-overlapping-intervals](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0876-hand-of-straights](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
