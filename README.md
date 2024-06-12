@@ -191,6 +191,7 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 # Design
@@ -228,3 +229,15 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+# Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+# Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+# Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
