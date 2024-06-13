@@ -89,6 +89,7 @@ My Personal Leetcode Notebook !
 | [1848-sum-of-unique-elements](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2211-k-radius-subarray-averages](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2211-k-radius-subarray-averages) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
@@ -188,6 +189,7 @@ My Personal Leetcode Notebook !
 | [0643-maximum-average-subarray-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2211-k-radius-subarray-averages](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2211-k-radius-subarray-averages) |
 # Binary Search
 |  |
 | ------- |
