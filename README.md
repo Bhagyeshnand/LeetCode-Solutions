@@ -50,6 +50,7 @@ My Personal Leetcode Notebook !
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 # Array
@@ -86,6 +87,7 @@ My Personal Leetcode Notebook !
 | [1833-find-the-highest-altitude](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1925-count-nice-pairs-in-an-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
@@ -139,6 +141,7 @@ My Personal Leetcode Notebook !
 | [1137-height-checker](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Counting Sort
 |  |
 | ------- |
