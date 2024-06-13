@@ -224,6 +224,7 @@ My Personal Leetcode Notebook !
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0328-odd-even-linked-list](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 # Prefix Sum
