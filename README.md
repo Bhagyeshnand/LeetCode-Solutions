@@ -81,6 +81,7 @@ My Personal Leetcode Notebook !
 | [1016-subarray-sums-divisible-by-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1044-find-common-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1137-height-checker](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -185,11 +186,13 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 # Binary Search
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [1046-max-consecutive-ones-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 # Stack
 |  |
 | ------- |
@@ -225,6 +228,7 @@ My Personal Leetcode Notebook !
 | [0560-subarray-sum-equals-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
 # Graph
 |  |
