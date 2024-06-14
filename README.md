@@ -33,6 +33,7 @@ My Personal Leetcode Notebook !
 | [1894-merge-strings-alternately](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2470-removing-stars-from-a-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3447-clear-digits) |
@@ -175,6 +176,7 @@ My Personal Leetcode Notebook !
 # Simulation
 |  |
 | ------- |
+| [2470-removing-stars-from-a-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3447-clear-digits) |
 # Math
@@ -213,6 +215,7 @@ My Personal Leetcode Notebook !
 | [0145-binary-tree-postorder-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2470-removing-stars-from-a-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 # Design
 |  |
 | ------- |
