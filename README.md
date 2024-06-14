@@ -51,6 +51,7 @@ My Personal Leetcode Notebook !
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
@@ -91,6 +92,7 @@ My Personal Leetcode Notebook !
 | [1833-find-the-highest-altitude](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2211-k-radius-subarray-averages](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2211-k-radius-subarray-averages) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
