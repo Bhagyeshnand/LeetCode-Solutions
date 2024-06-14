@@ -1,17 +1,37 @@
 class Solution {
+
     public int minIncrementForUnique(int[] nums) {
-        // Sort the array first
-        Arrays.sort(nums);
+        if (nums == null || nums.length == 0)  return 0;
+        
+        int n = nums.length;
+        int max = 0;
+        int minIncrements = 0;
 
-        int numTracker = 0; // Tracks the next unique number that should be set.
-        int minIncrement = 0; // Counts the total increments required.
-
-        for (int num : nums) {
-            numTracker = Math.max(numTracker, num);
-            minIncrement += numTracker - num;
-            numTracker += 1; // Increment the tracker for the next number.
+        // Find maximum value in array to determine range of frequencyCount array
+        for (int val : nums) {
+            max = Math.max(max, val);
         }
 
-        return minIncrement;
+        // Create a frequencyCount array to store the frequency of each value in nums
+        int[] frequencyCount = new int[n + max];
+
+        // Populate frequencyCount array with the frequency of each value in nums
+        for (int val : nums) {
+            frequencyCount[val]++;
+        }
+
+        // Iterate over the frequencyCount array to make all values unique
+        for (int i = 0; i < frequencyCount.length; i++) {
+            if (frequencyCount[i] <= 1) continue;
+
+            // Determine excess occurrences, carry them over to the next value,
+            // ensure single occurrence for current value, and update minIncrements.
+            int duplicates = frequencyCount[i] - 1;
+            frequencyCount[i + 1] += duplicates;
+            // frequencyCount[i] = 1;
+            minIncrements += duplicates;
+        }
+
+        return minIncrements;
     }
 }
