@@ -43,6 +43,7 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0330-patching-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -70,6 +71,7 @@ My Personal Leetcode Notebook !
 | [0074-search-a-2d-matrix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0213-house-robber-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
+| [0330-patching-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0403-frog-jump](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
