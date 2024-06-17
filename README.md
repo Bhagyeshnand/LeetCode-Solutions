@@ -72,6 +72,7 @@ My Personal Leetcode Notebook !
 | [0051-n-queens](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0162-find-peak-element](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0213-house-robber-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0330-patching-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
@@ -226,6 +227,7 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0633-sum-of-square-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
