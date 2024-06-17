@@ -14,6 +14,7 @@ My Personal Leetcode Notebook !
 | [0075-sort-colors](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0443-string-compression) |
+| [0633-sum-of-square-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1894-merge-strings-alternately](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -202,6 +203,7 @@ My Personal Leetcode Notebook !
 | ------- |
 | [0060-permutation-sequence](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [0523-continuous-subarray-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0797-rabbits-in-forest](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
@@ -223,6 +225,7 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0633-sum-of-square-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 # Stack
