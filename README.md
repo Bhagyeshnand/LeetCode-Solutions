@@ -108,6 +108,7 @@ My Personal Leetcode Notebook !
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 # Backtracking
 |  |
@@ -303,3 +304,7 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0502-ipo](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0502-ipo) |
+# Enumeration
+|  |
+| ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
