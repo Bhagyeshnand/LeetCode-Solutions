@@ -15,6 +15,7 @@ My Personal Leetcode Notebook !
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0633-sum-of-square-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0853-most-profit-assigning-work) |
 | [1894-merge-strings-alternately](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -53,6 +54,7 @@ My Personal Leetcode Notebook !
 | [0561-array-partition](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0797-rabbits-in-forest](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
+| [0853-most-profit-assigning-work](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -89,6 +91,7 @@ My Personal Leetcode Notebook !
 | [0648-replace-words](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [0724-find-pivot-index](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0797-rabbits-in-forest](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
+| [0853-most-profit-assigning-work](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -161,6 +164,7 @@ My Personal Leetcode Notebook !
 | [0435-non-overlapping-intervals](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0561-array-partition) |
+| [0853-most-profit-assigning-work](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1137-height-checker) |
@@ -229,6 +233,7 @@ My Personal Leetcode Notebook !
 | [0074-search-a-2d-matrix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0633-sum-of-square-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0853-most-profit-assigning-work) |
 | [1046-max-consecutive-ones-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 # Stack
