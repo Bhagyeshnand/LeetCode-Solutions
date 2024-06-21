@@ -99,6 +99,7 @@ My Personal Leetcode Notebook !
 | [1044-find-common-characters](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1137-height-checker](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1137-height-checker) |
+| [1138-grumpy-bookstore-owner](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -227,6 +228,7 @@ My Personal Leetcode Notebook !
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1138-grumpy-bookstore-owner](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1138-grumpy-bookstore-owner) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2211-k-radius-subarray-averages](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2211-k-radius-subarray-averages) |
