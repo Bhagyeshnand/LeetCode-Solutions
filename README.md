@@ -101,6 +101,7 @@ My Personal Leetcode Notebook !
 | [1137-height-checker](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -143,6 +144,7 @@ My Personal Leetcode Notebook !
 | [1039-find-the-town-judge](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1848-sum-of-unique-elements](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1848-sum-of-unique-elements) |
@@ -217,6 +219,7 @@ My Personal Leetcode Notebook !
 | [0797-rabbits-in-forest](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1925-count-nice-pairs-in-an-array) |
 # Recursion
@@ -229,6 +232,7 @@ My Personal Leetcode Notebook !
 | [0643-maximum-average-subarray-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1138-grumpy-bookstore-owner](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2211-k-radius-subarray-averages](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2211-k-radius-subarray-averages) |
