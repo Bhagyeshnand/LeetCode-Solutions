@@ -5,6 +5,7 @@ My Personal Leetcode Notebook !
 # Bit Manipulation
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [3394-minimum-array-end](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3394-minimum-array-end) |
 # Two Pointers
 |  |
@@ -96,6 +97,7 @@ My Personal Leetcode Notebook !
 | [0876-hand-of-straights](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1039-find-the-town-judge](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -235,6 +237,7 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-max-consecutive-ones-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1138-grumpy-bookstore-owner](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -271,6 +274,7 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Trie
 |  |
@@ -291,6 +295,7 @@ My Personal Leetcode Notebook !
 | [0560-subarray-sum-equals-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-max-consecutive-ones-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
 # Graph
