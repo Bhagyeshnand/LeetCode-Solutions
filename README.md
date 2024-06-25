@@ -313,12 +313,14 @@ My Personal Leetcode Notebook !
 | [0102-binary-tree-level-order-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Binary Tree
 |  |
 | ------- |
@@ -326,6 +328,7 @@ My Personal Leetcode Notebook !
 | [0102-binary-tree-level-order-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -347,3 +350,7 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Binary Search Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
