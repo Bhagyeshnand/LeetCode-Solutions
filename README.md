@@ -60,6 +60,7 @@ My Personal Leetcode Notebook !
 | [0876-hand-of-straights](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1285-balance-a-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
@@ -314,6 +315,7 @@ My Personal Leetcode Notebook !
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
@@ -321,6 +323,7 @@ My Personal Leetcode Notebook !
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
@@ -329,6 +332,7 @@ My Personal Leetcode Notebook !
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -354,3 +358,8 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
+# Divide and Conquer
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
