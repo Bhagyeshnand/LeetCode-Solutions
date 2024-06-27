@@ -303,6 +303,7 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
+| [1916-find-center-of-star-graph](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1916-find-center-of-star-graph) |
 # Monotonic Stack
 |  |
 | ------- |
