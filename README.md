@@ -376,6 +376,7 @@ My Personal Leetcode Notebook !
 | ------- |
 | [1039-find-the-town-judge](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2379-maximum-total-importance-of-roads) |
 ## Sorting
 |  |
@@ -416,4 +417,8 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+## Union Find
+|  |
+| ------- |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 <!---LeetCode Topics End-->
