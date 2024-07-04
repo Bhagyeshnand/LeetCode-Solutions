@@ -423,6 +423,7 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [1542-consecutive-characters](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1542-consecutive-characters) |
 ## Sliding Window
 |  |
 | ------- |
