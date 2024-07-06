@@ -458,6 +458,7 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2645-pass-the-pillow](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2645-pass-the-pillow) |
 ## Matrix
 |  |
 | ------- |
@@ -478,4 +479,8 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0100-same-tree) |
+## Math
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
