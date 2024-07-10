@@ -1,17 +1,17 @@
 class Solution {
     public int minOperations(String[] logs) {
-        Stack<String> paths_stack = new Stack<>();
+        int res = 0;
 
         for (String log : logs) {
             if (log.equals("../")) {
-                if (!paths_stack.isEmpty()) {
-                    paths_stack.pop();
+                if (res > 0) {
+                    res--;
                 }
             } else if (!log.equals("./")) {
-                paths_stack.push(log);
+                res++;
             }
         }
 
-        return paths_stack.size();
+        return res;
     }
 }
