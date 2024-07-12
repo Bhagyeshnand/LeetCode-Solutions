@@ -370,6 +370,7 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2379-maximum-total-importance-of-roads) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Graph
@@ -436,6 +437,7 @@ My Personal Leetcode Notebook !
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1542-consecutive-characters](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1542-consecutive-characters) |
 | [1720-crawler-log-folder](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -509,4 +511,5 @@ My Personal Leetcode Notebook !
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
