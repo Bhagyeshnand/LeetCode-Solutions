@@ -14,23 +14,41 @@
  * }
  */
 class Solution {
-    Set<Integer> to_delete_set;
-    List<TreeNode> res;
-    public List<TreeNode> delNodes(TreeNode root, int[] to_delete) {
-        to_delete_set = new HashSet<>();
-        res = new ArrayList<>();
-        for (int i : to_delete)
-            to_delete_set.add(i);
-        helper(root, true);
-        return res;
+    private TreeNode deleteHelper(TreeNode root, Set<Integer> toDelete, List<TreeNode> result) {
+        if (root == null) {
+            return null;
+        }
+
+        root.left = deleteHelper(root.left, toDelete, result);
+        root.right = deleteHelper(root.right, toDelete, result);
+
+        if (toDelete.contains(root.val)) {
+            if (root.left != null) {
+                result.add(root.left);
+            }
+            if (root.right != null) {
+                result.add(root.right);
+            }
+            return null;
+        } else {
+            return root;
+        }
     }
 
-    private TreeNode helper(TreeNode node, boolean is_root) {
-        if (node == null) return null;
-        boolean deleted = to_delete_set.contains(node.val);
-        if (is_root && !deleted) res.add(node);
-        node.left = helper(node.left, deleted);
-        node.right =  helper(node.right, deleted);
-        return deleted ? null : node;
+     public List<TreeNode> delNodes(TreeNode root, int[] to_delete) {
+        List<TreeNode> result = new ArrayList<>();
+        Set<Integer> toDelete = new HashSet<>();
+
+        for (int num : to_delete) {
+            toDelete.add(num);
+        }
+
+        deleteHelper(root, toDelete, result);
+
+        if (!toDelete.contains(root.val)) {
+            result.add(root);
+        }
+
+        return result;
     }
 }
