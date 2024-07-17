@@ -404,6 +404,7 @@ My Personal Leetcode Notebook !
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
@@ -421,6 +422,7 @@ My Personal Leetcode Notebook !
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1039-find-the-town-judge](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -438,6 +440,7 @@ My Personal Leetcode Notebook !
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0726-number-of-atoms) |
 | [1039-find-the-town-judge](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## String
 |  |
@@ -501,6 +504,7 @@ My Personal Leetcode Notebook !
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
@@ -510,6 +514,7 @@ My Personal Leetcode Notebook !
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Math
