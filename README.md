@@ -405,6 +405,7 @@ My Personal Leetcode Notebook !
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -415,6 +416,7 @@ My Personal Leetcode Notebook !
 | ------- |
 | [0100-same-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
@@ -511,6 +513,7 @@ My Personal Leetcode Notebook !
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -523,6 +526,7 @@ My Personal Leetcode Notebook !
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
