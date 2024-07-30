@@ -477,6 +477,7 @@ My Personal Leetcode Notebook !
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1542-consecutive-characters](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1542-consecutive-characters) |
 | [1720-crawler-log-folder](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2502-sort-the-people) |
@@ -527,6 +528,7 @@ My Personal Leetcode Notebook !
 | [0803-cheapest-flights-within-k-stops](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1511-count-number-of-teams) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Shortest Path
 |  |
 | ------- |
@@ -582,6 +584,7 @@ My Personal Leetcode Notebook !
 | [0726-number-of-atoms](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2846-robot-collisions) |
 ## Binary Search Tree
