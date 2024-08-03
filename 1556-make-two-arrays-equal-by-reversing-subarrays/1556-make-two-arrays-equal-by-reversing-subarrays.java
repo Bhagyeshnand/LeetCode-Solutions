@@ -4,7 +4,7 @@ class Solution {
         int n = target.length;
         int freq[] = new int[1001];
 
-        for(int i = 0; i<n ; i++){
+        for(int i = 0; i<n ; ++i){
             ++freq[target[i]];
             --freq[arr[i]];
         }
