@@ -478,6 +478,7 @@ My Personal Leetcode Notebook !
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0076-minimum-window-substring](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0726-number-of-atoms](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
