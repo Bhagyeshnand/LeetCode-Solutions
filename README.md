@@ -369,6 +369,7 @@ My Personal Leetcode Notebook !
 ## Greedy
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -451,6 +452,7 @@ My Personal Leetcode Notebook !
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0624-maximum-distance-in-arrays](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0837-most-common-word](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0837-most-common-word) |
 | [0890-lemonade-change](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0890-lemonade-change) |
