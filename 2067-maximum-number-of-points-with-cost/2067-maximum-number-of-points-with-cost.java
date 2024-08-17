@@ -1,44 +1,37 @@
 class Solution {
+
     public long maxPoints(int[][] points) {
-        int m = points.length;
-        int n = points[0].length;
-        long[] dp = new long[n];
+        int cols = points[0].length;
+        long[] currentRow = new long[cols], previousRow = new long[cols];
 
-        // Initialize dp with the first row
-        for (int j = 0; j < n; ++j) {
-            dp[j] = points[0][j];
-        }
+        for (int[] row : points) {
+            // runningMax holds the maximum value generated in the previous iteration of each loop
+            long runningMax = 0;
 
-        // Traverse through each row
-        for (int i = 1; i < m; ++i) {
-            long[] leftMax = new long[n];
-            long[] rightMax = new long[n];
-            long[] newDp = new long[n];
-
-            // Calculate left max
-            leftMax[0] = dp[0];
-            for (int j = 1; j < n; ++j) {
-                leftMax[j] = Math.max(leftMax[j - 1], dp[j] + j);
+            // Left to right pass
+            for (int col = 0; col < cols; ++col) {
+                runningMax = Math.max(runningMax - 1, previousRow[col]);
+                currentRow[col] = runningMax;
             }
 
-            // Calculate right max
-            rightMax[n - 1] = dp[n - 1] - (n - 1);
-            for (int j = n - 2; j >= 0; --j) {
-                rightMax[j] = Math.max(rightMax[j + 1], dp[j] - j);
+            runningMax = 0;
+            // Right to left pass
+            for (int col = cols - 1; col >= 0; --col) {
+                runningMax = Math.max(runningMax - 1, previousRow[col]);
+                currentRow[col] = Math.max(currentRow[col], runningMax) +
+                row[col];
             }
 
-            // Calculate new DP for the current row
-            for (int j = 0; j < n; ++j) {
-                newDp[j] = Math.max(leftMax[j] - j, rightMax[j] + j) + points[i][j];
-            }
-
-            dp = newDp;
+            // Update previousRow for next iteration
+            previousRow = currentRow;
         }
 
-        long maxPoints = dp[0];
-        for (int j = 1; j < n; ++j) {
-            maxPoints = Math.max(maxPoints, dp[j]);
+        // Find maximum points in the last row
+        long maxPoints = 0;
+        for (int col = 0; col < cols; ++col) {
+            maxPoints = Math.max(maxPoints, previousRow[col]);
         }
+
         return maxPoints;
     }
 }
