@@ -562,6 +562,7 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -652,6 +653,7 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0273-integer-to-english-words](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
