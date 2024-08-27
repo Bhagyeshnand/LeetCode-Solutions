@@ -382,6 +382,7 @@ My Personal Leetcode Notebook !
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1039-find-the-town-judge](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
+| [1325-path-with-maximum-probability](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -414,6 +415,7 @@ My Personal Leetcode Notebook !
 | [0789-kth-largest-element-in-a-stream](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0948-sort-an-array) |
+| [1325-path-with-maximum-probability](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2379-maximum-total-importance-of-roads) |
 ## Depth-First Search
 |  |
@@ -466,6 +468,7 @@ My Personal Leetcode Notebook !
 | [1240-stone-game-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
+| [1325-path-with-maximum-probability](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -600,6 +603,7 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1325-path-with-maximum-probability](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
