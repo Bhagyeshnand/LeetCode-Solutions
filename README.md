@@ -526,6 +526,7 @@ My Personal Leetcode Notebook !
 | [0008-string-to-integer-atoi](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0076-minimum-window-substring](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0273-integer-to-english-words](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
+| [0520-detect-capital](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [0564-find-the-closest-palindrome](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0664-strange-printer) |
