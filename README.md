@@ -465,6 +465,7 @@ My Personal Leetcode Notebook !
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0837-most-common-word](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0837-most-common-word) |
 | [0890-lemonade-change](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0890-lemonade-change) |
+| [0906-walking-robot-simulation](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0948-sort-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1039-find-the-town-judge](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
@@ -511,6 +512,7 @@ My Personal Leetcode Notebook !
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0726-number-of-atoms) |
 | [0837-most-common-word](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0837-most-common-word) |
+| [0906-walking-robot-simulation](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0999-regions-cut-by-slashes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1039-find-the-town-judge](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
@@ -591,6 +593,7 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
+| [0906-walking-robot-simulation](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
