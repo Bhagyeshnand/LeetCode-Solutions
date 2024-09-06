@@ -505,6 +505,7 @@ My Personal Leetcode Notebook !
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -526,6 +527,7 @@ My Personal Leetcode Notebook !
 | [2306-create-binary-tree-from-descriptions](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
 | ------- |
@@ -590,6 +592,7 @@ My Personal Leetcode Notebook !
 | [0021-merge-two-sorted-lists](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
 |  |
 | ------- |
