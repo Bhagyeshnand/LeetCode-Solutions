@@ -408,6 +408,7 @@ My Personal Leetcode Notebook !
 | [2379-maximum-total-importance-of-roads](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2379-maximum-total-importance-of-roads) |
 | [2502-sort-the-people](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2846-robot-collisions) |
+| [2892-check-if-array-is-good](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2892-check-if-array-is-good) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
@@ -505,6 +506,7 @@ My Personal Leetcode Notebook !
 | [2502-sort-the-people](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2846-robot-collisions) |
+| [2892-check-if-array-is-good](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2892-check-if-array-is-good) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -529,6 +531,7 @@ My Personal Leetcode Notebook !
 | [2163-kth-distinct-string-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2502-sort-the-people) |
+| [2892-check-if-array-is-good](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2892-check-if-array-is-good) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
