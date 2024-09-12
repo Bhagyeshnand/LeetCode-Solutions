@@ -801,4 +801,8 @@ My Personal Leetcode Notebook !
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
