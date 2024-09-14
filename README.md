@@ -506,6 +506,7 @@ My Personal Leetcode Notebook !
 | [2411-spiral-matrix-iv](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2502-sort-the-people) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2727-number-of-senior-citizens](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2727-number-of-senior-citizens) |
@@ -798,6 +799,7 @@ My Personal Leetcode Notebook !
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Number Theory
 |  |
 | ------- |
@@ -809,4 +811,8 @@ My Personal Leetcode Notebook !
 | ------- |
 | [0175-combine-two-tables](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
