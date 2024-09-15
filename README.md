@@ -530,6 +530,7 @@ My Personal Leetcode Notebook !
 | [1207-delete-nodes-and-return-forest](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -554,6 +555,7 @@ My Personal Leetcode Notebook !
 | [0837-most-common-word](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0837-most-common-word) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1542-consecutive-characters](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1542-consecutive-characters) |
 | [1720-crawler-log-folder](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -786,6 +788,7 @@ My Personal Leetcode Notebook !
 | ------- |
 | [1240-stone-game-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
 |  |
@@ -797,6 +800,7 @@ My Personal Leetcode Notebook !
 | [0476-number-complement](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
