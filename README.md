@@ -713,6 +713,7 @@ My Personal Leetcode Notebook !
 | [1642-water-bottles](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2155-find-missing-observations) |
+| [2266-minimum-cost-to-set-cooking-time](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2266-minimum-cost-to-set-cooking-time) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2645-pass-the-pillow](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2645-pass-the-pillow) |
@@ -823,4 +824,8 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Enumeration
+|  |
+| ------- |
+| [2266-minimum-cost-to-set-cooking-time](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2266-minimum-cost-to-set-cooking-time) |
 <!---LeetCode Topics End-->
