@@ -1,23 +1,33 @@
-import java.util.*;
-
 class Solution {
-    public List<Integer> diffWaysToCompute(String expression) {
-        List<Integer> res = new ArrayList<>();
-        for (int i = 0; i < expression.length(); ++i) {
-            char oper = expression.charAt(i);
-            if (oper == '+' || oper == '-' || oper == '*') {
-                List<Integer> s1 = diffWaysToCompute(expression.substring(0, i));
-                List<Integer> s2 = diffWaysToCompute(expression.substring(i + 1));
-                for (int a : s1) {
-                    for (int b : s2) {
-                        if (oper == '+') res.add(a + b);
-                        else if (oper == '-') res.add(a - b);
-                        else if (oper == '*') res.add(a * b);
+    public List<Integer> solve(String s) {
+        List<Integer> result = new ArrayList<>();
+
+        for (int i = 0; i < s.length(); i++) {
+            char curr = s.charAt(i);
+            if (curr == '+' || curr == '-' || curr == '*') {
+                List<Integer> left = solve(s.substring(0, i));
+                List<Integer> right = solve(s.substring(i + 1));
+
+                for (int x : left) {
+                    for (int y : right) {
+                        if (curr == '+') {
+                            result.add(x + y);
+                        } else if (curr == '-') {
+                            result.add(x - y);
+                        } else {
+                            result.add(x * y);
+                        }
                     }
                 }
             }
         }
-        if (res.isEmpty()) res.add(Integer.parseInt(expression));
-        return res;
+        if (result.size() == 0) {
+            result.add(Integer.parseInt(s));
+        }
+        return result;
+    }
+
+    public List<Integer> diffWaysToCompute(String s) {
+        return solve(s);
     }
 }
