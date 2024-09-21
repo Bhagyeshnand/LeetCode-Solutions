@@ -432,6 +432,7 @@ My Personal Leetcode Notebook !
 | [0226-invert-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -866,4 +867,8 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
