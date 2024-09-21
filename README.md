@@ -486,6 +486,7 @@ My Personal Leetcode Notebook !
 | [1319-unique-number-of-occurrences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1325-path-with-maximum-probability](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -616,6 +617,7 @@ My Personal Leetcode Notebook !
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
