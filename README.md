@@ -559,6 +559,7 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0076-minimum-window-substring](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0179-largest-number](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0179-largest-number) |
