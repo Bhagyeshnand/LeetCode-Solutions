@@ -514,6 +514,7 @@ My Personal Leetcode Notebook !
 | [2306-create-binary-tree-from-descriptions](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2411-spiral-matrix-iv](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
@@ -593,6 +594,7 @@ My Personal Leetcode Notebook !
 | [2190-count-common-words-with-one-occurrence](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2235-capitalize-the-title](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2235-capitalize-the-title) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2755-extra-characters-in-a-string) |
@@ -802,6 +804,7 @@ My Personal Leetcode Notebook !
 | [1786-count-the-number-of-consistent-strings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Indexed Tree
 |  |
@@ -885,6 +888,7 @@ My Personal Leetcode Notebook !
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
