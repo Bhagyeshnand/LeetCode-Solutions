@@ -579,6 +579,7 @@ My Personal Leetcode Notebook !
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0076-minimum-window-substring](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0179-largest-number](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
@@ -693,6 +694,7 @@ My Personal Leetcode Notebook !
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0650-2-keys-keyboard) |
@@ -777,6 +779,7 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
