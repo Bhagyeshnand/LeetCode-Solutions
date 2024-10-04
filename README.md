@@ -412,6 +412,7 @@ My Personal Leetcode Notebook !
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2379-maximum-total-importance-of-roads) |
 | [2502-sort-the-people](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2846-robot-collisions](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2846-robot-collisions) |
 | [2892-check-if-array-is-good](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2892-check-if-array-is-good) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -527,6 +528,7 @@ My Personal Leetcode Notebook !
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2727-number-of-senior-citizens](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2846-robot-collisions](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2846-robot-collisions) |
@@ -565,6 +567,7 @@ My Personal Leetcode Notebook !
 | [2190-count-common-words-with-one-occurrence](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2892-check-if-array-is-good](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2892-check-if-array-is-good) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -633,6 +636,7 @@ My Personal Leetcode Notebook !
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
 | ------- |
