@@ -546,6 +546,7 @@ My Personal Leetcode Notebook !
 | [0264-ugly-number-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0432-all-oone-data-structure](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0432-all-oone-data-structure) |
+| [0567-permutation-in-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0726-number-of-atoms) |
 | [0837-most-common-word](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0837-most-common-word) |
 | [0906-walking-robot-simulation](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
@@ -590,6 +591,7 @@ My Personal Leetcode Notebook !
 | [0520-detect-capital](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [0539-minimum-time-difference](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0726-number-of-atoms) |
@@ -623,6 +625,7 @@ My Personal Leetcode Notebook !
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0567-permutation-in-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Union Find
 |  |
@@ -634,6 +637,7 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
