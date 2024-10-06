@@ -1,36 +1,35 @@
 class Solution {
-
-    // Helper function to split a sentence into words
-    private String[] splitWords(String sentence) {
-        return sentence.split(" ");
-    }
-
-    public boolean areSentencesSimilar(String sentence1, String sentence2) {
-        // Split both sentences into arrays of words
-        String[] words1 = splitWords(sentence1);
-        String[] words2 = splitWords(sentence2);
-
-        // Ensure words1 is the longer sentence
-        if (words1.length < words2.length) {
-            String[] temp = words1;
-            words1 = words2;
-            words2 = temp;
+    public boolean areSentencesSimilar(String sent1, String sent2) {
+        String first = sent1;
+        String sec = sent2;
+        if(first.length()==sec.length()){
+            return first.equals(sec);
         }
-
-        int start = 0, end = 0;
-        int n1 = words1.length, n2 = words2.length;
-
-        // Compare from the start
-        while (start < n2 && words1[start].equals(words2[start])) {
-            start++;
+        if(sent2.length()<first.length()){
+            first = sent2;
+            sec = sent1;
         }
+        int i = -1;
+      while(i+1<first.length() && first.charAt(i+1)==sec.charAt(i+1)){
+        i++;
+      }
+        int j = first.length();
+        int last = sec.length();
+      while(j-1>=0 && first.charAt(j-1)==sec.charAt(last-1)){
+        j--;
+        last--;
+      }
 
-        // Compare from the end
-        while (end < n2 && words1[n1 - end - 1].equals(words2[n2 - end - 1])) {
-            end++;
-        }
-
-        // Check if the remaining unmatched part is in the middle
-        return start + end >= n2;
+      if(i==first.length()-1 && sec.charAt(i+1)==' '){
+        return true;
+      } 
+      if(j==0 && sec.charAt(last-1)==' '){
+        return true;
+      }
+       if(i+1>=j && sec.charAt(i)==' ' && sec.charAt(last)==' '){
+            return true;
+       }
+       
+      return false;
     }
 }
