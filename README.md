@@ -510,6 +510,7 @@ My Personal Leetcode Notebook !
 | [1741-sort-array-by-increasing-frequency](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1803-average-waiting-time) |
+| [1923-sentence-similarity-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
@@ -606,6 +607,7 @@ My Personal Leetcode Notebook !
 | [1786-count-the-number-of-consistent-strings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1904-second-largest-digit-in-a-string) |
+| [1923-sentence-similarity-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -641,6 +643,7 @@ My Personal Leetcode Notebook !
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1923-sentence-similarity-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
