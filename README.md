@@ -469,6 +469,7 @@ My Personal Leetcode Notebook !
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0179-largest-number](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -870,6 +871,7 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0282-expression-add-operators](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 ## Prefix Sum
