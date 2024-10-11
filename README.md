@@ -427,6 +427,7 @@ My Personal Leetcode Notebook !
 | [0803-cheapest-flights-within-k-stops](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2379-maximum-total-importance-of-roads) |
 | [2803-modify-graph-edge-weights](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2803-modify-graph-edge-weights) |
 ## Depth-First Search
@@ -518,6 +519,7 @@ My Personal Leetcode Notebook !
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -569,6 +571,7 @@ My Personal Leetcode Notebook !
 | [1741-sort-array-by-increasing-frequency](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1904-second-largest-digit-in-a-string) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
