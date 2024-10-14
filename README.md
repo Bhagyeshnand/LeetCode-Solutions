@@ -381,6 +381,7 @@ My Personal Leetcode Notebook !
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2379-maximum-total-importance-of-roads) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Graph
@@ -435,6 +436,7 @@ My Personal Leetcode Notebook !
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2379-maximum-total-importance-of-roads) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2803-modify-graph-edge-weights](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2803-modify-graph-edge-weights) |
 ## Depth-First Search
 |  |
@@ -544,6 +546,7 @@ My Personal Leetcode Notebook !
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2846-robot-collisions](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2846-robot-collisions) |
