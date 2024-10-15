@@ -1,13 +1,15 @@
 class Solution {
     public long minimumSteps(String s) {
-        long swap = 0;
-        int black = 0; 
-        for (int i = 0; i < s.length(); i++) {
-            if (s.charAt(i) == '0') 
-                swap += (long) black; 
-            else
-                black++; 
+       char[] sarr = s.toCharArray();
+       int zeroes=0;
+       long tot=0;
+       for(int i=0;i<sarr.length;i++){
+        if(sarr[i]=='1'){
+            zeroes++;
+        }else{
+            tot+=zeroes;
         }
-        return swap;
+       }
+       return tot;
     }
 }
