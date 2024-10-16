@@ -1,39 +1,31 @@
-import java.util.PriorityQueue;
-
 class Solution {
     public String longestDiverseString(int a, int b, int c) {
-        // Priority queue to store the characters and their counts.
-        PriorityQueue<int[]> pq = new PriorityQueue<>((x, y) -> y[0] - x[0]);
-        if (a > 0) pq.offer(new int[]{a, 'a'});
-        if (b > 0) pq.offer(new int[]{b, 'b'});
-        if (c > 0) pq.offer(new int[]{c, 'c'});
-
-        StringBuilder result = new StringBuilder();
-
-        while (!pq.isEmpty()) {
-            int[] first = pq.poll();
-
-            // Check if last two characters are the same.
-            if (result.length() >= 2 && result.charAt(result.length() - 1) == first[1] &&
-                result.charAt(result.length() - 2) == first[1]) {
-
-                if (pq.isEmpty()) break;  // No more valid characters.
-
-                // Pick the second character.
-                int[] second = pq.poll();
-                result.append((char) second[1]);
-                second[0]--;
-
-                if (second[0] > 0) pq.offer(second);
-                pq.offer(first);
-            } else {
-                result.append((char) first[1]);
-                first[0]--;
-
-                if (first[0] > 0) pq.offer(first);
+        StringBuilder sb = new StringBuilder();
+        
+        int totalLength = a + b + c;
+        int continuousA = 0, continuousB = 0, continuousC = 0;
+        
+        for(int i = 0; i < totalLength; i++) {
+            if ((a >= b && a >= c && continuousA != 2) || (continuousB == 2 && a > 0) || (continuousC == 2 && a > 0))  {
+                sb.append("a");
+                a--;
+                continuousA++;
+                continuousB = 0;
+                continuousC = 0;  
+            } else if ((b >= a && b >= c && continuousB != 2) || (continuousA == 2 && b > 0) || (continuousC == 2 && b > 0)) {
+                sb.append("b");
+                b--;
+                continuousB++;
+                continuousA = 0;
+                continuousC = 0;
+            } else if ((c >= a && c >= b && continuousC != 2) || (continuousB == 2 && c > 0) || (continuousA == 2 && c > 0)) {
+                sb.append("c");
+                c--;
+                continuousC++;
+                continuousA = 0;
+                continuousB = 0;  
             }
         }
-
-        return result.toString();
+        return sb.toString();
     }
 }
