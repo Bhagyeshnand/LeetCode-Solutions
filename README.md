@@ -538,6 +538,7 @@ My Personal Leetcode Notebook !
 | [2132-convert-1d-array-into-2d-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -908,6 +909,7 @@ My Personal Leetcode Notebook !
 | [0039-combination-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0282-expression-add-operators](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -930,6 +932,7 @@ My Personal Leetcode Notebook !
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Number Theory
@@ -955,6 +958,7 @@ My Personal Leetcode Notebook !
 ## Enumeration
 |  |
 | ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2266-minimum-cost-to-set-cooking-time](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2266-minimum-cost-to-set-cooking-time) |
 ## Memoization
 |  |
