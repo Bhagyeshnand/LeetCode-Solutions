@@ -385,6 +385,7 @@ My Personal Leetcode Notebook !
 | [2379-maximum-total-importance-of-roads](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2379-maximum-total-importance-of-roads) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -569,6 +570,7 @@ My Personal Leetcode Notebook !
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -725,6 +727,7 @@ My Personal Leetcode Notebook !
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2716-prime-subtraction-operation](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
 ## Linked List
 |  |
 | ------- |
@@ -864,6 +867,7 @@ My Personal Leetcode Notebook !
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2645-pass-the-pillow](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2645-pass-the-pillow) |
+| [2716-prime-subtraction-operation](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3568-find-the-key-of-the-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3568-find-the-key-of-the-numbers) |
 ## Recursion
@@ -998,6 +1002,7 @@ My Personal Leetcode Notebook !
 | ------- |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
+| [2716-prime-subtraction-operation](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Database
 |  |
