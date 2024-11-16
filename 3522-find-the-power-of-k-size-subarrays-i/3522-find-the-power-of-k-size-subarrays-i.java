@@ -1,34 +1,33 @@
 class Solution {
-    public int[] resultsArray(int[] nums, int k) {
-            if (nums == null || nums.length < k) {
-            return new int[0];
-        }
-
-        int arr[]=new int[nums.length-k+1];
-        int i=0;
-        int j=k-1;
-        int a=0;
-        while(j<nums.length){
-            if(solved(nums,i,j)){
-                arr[a]=nums[j];
+    public int[] resultsArray(int[] nums, int k) 
+    {
+        int n = nums.length;
+        int subArrCount = n-k+1;
+        int[] subArrPower = new int[n-k+1];
+        int inconsecutiveElementCount = 0;
+        for(int i=1; i<k; i++)
+        {
+            if(nums[i] != nums[i-1]+1)
+            {
+                inconsecutiveElementCount++;
             }
-            else{
-                arr[a]=-1;
-            }
-            i++;
-            j++;
-            a++;
         }
-        return arr;
+        int start =0, end = k-1;
+        while(end<n)
+        {
+            subArrPower[start] = inconsecutiveElementCount == 0 ? nums[end] : -1;
+            if(start<n-1 && nums[start] != nums[start+1]-1)
+            {
+                inconsecutiveElementCount--;
+            }
+            start++;
+            if(end<n-1 && nums[end+1] != nums[end]+1)
+            {
+                inconsecutiveElementCount++;
+            }
+            end++;
+        }
+        return subArrPower;
         
-    }
-
-    private boolean solved(int nums[],int start,int end){
-        for(int i=start;i<end;i++){
-            if(nums[i]+1!=nums[i+1]){
-                return false;
-            }
-        }
-        return true;
     }
 }
