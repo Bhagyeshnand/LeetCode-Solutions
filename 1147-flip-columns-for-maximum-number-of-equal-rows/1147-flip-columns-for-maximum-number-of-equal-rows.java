@@ -1,17 +1,16 @@
 class Solution {
-    public int maxEqualRowsAfterFlips(int[][] mat) {
-        Map<String, Integer> patFreq = new HashMap<>();
-        
-        for (int[] row : mat) {
-            StringBuilder pattern = new StringBuilder();
-            if (row[0] == 0) {
-                for (int bit : row) pattern.append(bit);
-            } else {
-                for (int bit : row) pattern.append(bit ^ 1);
+    public int maxEqualRowsAfterFlips(int[][] matrix) {
+        int n = matrix.length, m = matrix[0].length, res = 0;
+        Map<Integer, Integer> map = new HashMap<>();
+        for(int i=0;i<n;i++){
+            if(matrix[i][m-1] ==1){
+                for(int j=0; j<m;j++){
+                    matrix[i][j] ^=matrix[i][m-1];
+                }
             }
-            patFreq.merge(pattern.toString(), 1, Integer::sum);
+            res = Math.max(res, map.merge(Arrays.hashCode(matrix[i]), 1, Integer::sum));
+            
         }
-        
-        return Collections.max(patFreq.values());
+        return res;
     }
 }
