@@ -1050,6 +1050,7 @@ My Personal Leetcode Notebook !
 | [0577-employee-bonus](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0595-big-countries) |
+| [1161-project-employees-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1161-project-employees-i) |
 | [1258-article-views-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1258-article-views-i) |
 | [1390-average-selling-price](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1415-students-and-examinations) |
