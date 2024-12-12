@@ -1112,6 +1112,7 @@ My Personal Leetcode Notebook !
 | [1801-average-time-of-process-per-machine](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2127-employees-whose-manager-left-the-company) |
 ## Brainteaser
 |  |
 | ------- |
