@@ -1107,6 +1107,7 @@ My Personal Leetcode Notebook !
 | [0595-big-countries](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0596-classes-more-than-5-students) |
 | [0610-triangle-judgement](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0610-triangle-judgement) |
+| [0626-exchange-seats](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0626-exchange-seats) |
 | [1135-customers-who-bought-all-products](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1135-customers-who-bought-all-products) |
 | [1161-project-employees-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1161-project-employees-i) |
 | [1258-article-views-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1258-article-views-i) |
