@@ -914,6 +914,7 @@ My Personal Leetcode Notebook !
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2554-minimum-total-distance-traveled](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2554-minimum-total-distance-traveled) |
+| [2562-count-ways-to-build-good-strings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2562-count-ways-to-build-good-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Shortest Path
