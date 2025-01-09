@@ -479,6 +479,7 @@ My Personal Leetcode Notebook !
 | [0098-validate-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0199-binary-tree-right-side-view](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -508,6 +509,7 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0100-same-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
@@ -952,6 +954,7 @@ My Personal Leetcode Notebook !
 | [0098-validate-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0199-binary-tree-right-side-view](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -979,6 +982,7 @@ My Personal Leetcode Notebook !
 | [0098-validate-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0199-binary-tree-right-side-view](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
