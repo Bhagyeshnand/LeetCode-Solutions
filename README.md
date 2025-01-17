@@ -930,6 +930,7 @@ My Personal Leetcode Notebook !
 | [0010-regular-expression-matching](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0062-unique-paths](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0494-target-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0494-target-sum) |
@@ -1021,6 +1022,7 @@ My Personal Leetcode Notebook !
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
@@ -1306,4 +1308,8 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2201-valid-arrangement-of-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
