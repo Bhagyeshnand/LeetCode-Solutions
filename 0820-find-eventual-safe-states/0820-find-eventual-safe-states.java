@@ -1,45 +1,95 @@
+import java.util.AbstractList;
 class Solution {
-    public boolean DFS(int s, List<List<Integer>> graph, boolean[] visited, boolean[] dfsVisited, boolean[] checkCycle) {
-        visited[s] = dfsVisited[s] = true; // Mark the current node as visited and in the current DFS path
-        for (int it : graph.get(s)) {
-            if (!visited[it]) { // If the adjacent node is not visited
-                if (DFS(it, graph, visited, dfsVisited, checkCycle))
-                    return checkCycle[s] = true; // If a cycle is detected, mark the current node as part of a cycle
-            } else if (dfsVisited[it]) { // If the adjacent node is visited and in the current DFS path
-                return checkCycle[s] = true; // A cycle is detected, mark the current node as part of a cycle
-            }
-        }
-        dfsVisited[s] = false; // Mark the current node as not visited in the current DFS path
-        return false; // No cycle detected, current node is safe
-    }
-
+    List<Integer> safeNodes;
     public List<Integer> eventualSafeNodes(int[][] graph) {
-        int v = graph.length;
-        List<List<Integer>> adjList = new ArrayList<>();
-        for (int i = 0; i < v; i++) {
-            adjList.add(new ArrayList<>());
-        }
-        for (int i = 0; i < v; i++) {
-            for (int j = 0; j < graph[i].length; j++) {
-                adjList.get(i).add(graph[i][j]);
+        // int n = graph.length;
+        // List<List<Integer>> reverseAdj = new ArrayList<>();
+        // List<Integer> safeNodes = new ArrayList<>();
+        // int[] inDegree = new int[n];
+
+        // for(int i = 0; i < n; i++){
+        //     reverseAdj.add(new ArrayList<>());
+        // }
+
+        // for(int i = 0; i < n; i++){
+        //     for(int neighborNode: graph[i]){
+        //         reverseAdj.get(neighborNode).add(i);
+        //         inDegree[i]++;
+        //     }
+        // }
+
+        // Queue<Integer> queue = new LinkedList<Integer>();
+        // for(int i = 0; i < n; i++){
+        //     if(inDegree[i] == 0){
+        //         queue.offer(i);
+        //     }
+        // }
+
+        // while(!queue.isEmpty()){
+        //     int safeNode = queue.poll();
+        //     safeNodes.add(safeNode);
+
+        //     for(int neighbor : reverseAdj.get(safeNode)){
+        //         inDegree[neighbor]--;
+        //         if(inDegree[neighbor] == 0){
+        //             queue.offer(neighbor);
+        //         }
+        //     }
+        // }
+        // Collections.sort(safeNodes);
+        // return safeNodes;
+        return new AbstractList<Integer>(){
+            @Override
+            public Integer get(int index){
+                init();
+                return safeNodes.get(index);
             }
-        }
 
-        boolean[] visited = new boolean[v];
-        boolean[] dfsVisited = new boolean[v];
-        boolean[] checkCycle = new boolean[v];
-        List<Integer> ans = new ArrayList<>();
+            @Override
+            public int size(){
+                init();
+                return safeNodes.size();
+            }
 
-        for (int i = 0; i < v; i++) {
-            if (!visited[i])
-                DFS(i, adjList, visited, dfsVisited, checkCycle);
-        }
+            private void init(){
+                if(safeNodes != null) return;
 
-        for (int i = 0; i < v; i++) {
-            if (!checkCycle[i])
-                ans.add(i); // Add the nodes that are not part of any cycle (eventual safe nodes) to the result
-        }
+                int n = graph.length;
+                List<List<Integer>> reverseAdj = new ArrayList<>();
+                safeNodes = new ArrayList<>();
+                int[] inDegree = new int[n];
 
-        return ans;
+                for(int i = 0; i < n; i++){
+                    reverseAdj.add(new ArrayList<>());
+                }
+
+                for(int i = 0; i < n; i++){
+                    for(int neighborNode: graph[i]){
+                        reverseAdj.get(neighborNode).add(i);
+                        inDegree[i]++;
+                    }
+                }
+
+                Queue<Integer> queue = new LinkedList<Integer>();
+                for(int i = 0; i < n; i++){
+                    if(inDegree[i] == 0){
+                        queue.offer(i);
+                    }
+                }
+
+                while(!queue.isEmpty()){
+                    int safeNode = queue.poll();
+                    safeNodes.add(safeNode);
+
+                    for(int neighbor : reverseAdj.get(safeNode)){
+                        inDegree[neighbor]--;
+                        if(inDegree[neighbor] == 0){
+                            queue.offer(neighbor);
+                        }
+                    }
+                }
+                Collections.sort(safeNodes);
+            }
+        };   
     }
 }
