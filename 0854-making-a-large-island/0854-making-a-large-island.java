@@ -1,60 +1,67 @@
-import java.util.*;
-
-public class Solution {
-    private static final int[][] dirs = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
-
+class Solution {
+    // set each island an value start from 2
+    // change 1 to 2 or 3 or 4. size[2] is the size of island
     public int largestIsland(int[][] grid) {
-        int n = grid.length;
-        List<Integer> key = new ArrayList<>();
-        int id = 2;
+        int[] size = new int[2 + grid.length * grid.length];
+        int numComp = 2;
+        int maxSize = 0;
 
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                if (grid[i][j] == 1) {
-                    int size = dfs(grid, i, j, id);
-                    key.add(size);
-                    id++;
+        for (int row = 0; row < grid.length; ++row) {
+            for (int col = 0; col < grid[row].length; ++col) {
+                if (grid[row][col] == 1) {
+                    size[numComp] = dfs(grid, row, col, numComp);
+                    maxSize = Math.max(maxSize, size[numComp]);
+                    ++numComp;
                 }
             }
         }
 
-        if (key.isEmpty()) return 1;
-
-        int max = 0;
-
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                if (grid[i][j] == 0) {
-                    Set<Integer> seen = new HashSet<>();
-                    int sum = 1;
-                    for (int[] dir : dirs) {
-                        int ni = i + dir[0];
-                        int nj = j + dir[1];
-                        if (ni >= 0 && ni < n && nj >= 0 && nj < n && grid[ni][nj] >= 2) {
-                            int islandId = grid[ni][nj];
-                            if (!seen.contains(islandId)) {
-                                sum += key.get(islandId - 2);
-                                seen.add(islandId);
-                            }
-                        }
-                    }
-                    max = Math.max(max, sum);
+        for (int row = 0; row < grid.length; ++row) {
+            for (int col = 0; col < grid[row].length; ++col) {
+                if (grid[row][col] != 0) {
+                    continue;
                 }
+                int mergedSize = 1;
+                int compA = 0;
+                int compB = 0;
+                int compC = 0;
+                if (row > 0) {
+                    compA = grid[row - 1][col];
+                    mergedSize += size[compA];
+                }
+                if (col + 1 < grid[row].length && grid[row][col + 1] != compA) {
+                    compB = grid[row][col + 1];
+                    mergedSize += size[compB];
+                }
+                if (row + 1 < grid.length && grid[row + 1][col] != compA && grid[row + 1][col] != compB) {
+                    compC = grid[row + 1][col];
+                    mergedSize += size[compC];
+                }
+                if (col > 0 && grid[row][col - 1] != compA && grid[row][col - 1] != compB
+                        && grid[row][col - 1] != compC) {
+                    mergedSize += size[grid[row][col - 1]];
+                }
+                maxSize = Math.max(maxSize, mergedSize);
             }
         }
-
-        return max == 0 ? n * n : max;
+        return maxSize;
     }
 
-    private int dfs(int[][] grid, int i, int j, int id) {
-        if (i < 0 || i >= grid.length || j < 0 || j >= grid[0].length || grid[i][j] != 1) {
-            return 0;
+    private int dfs(int[][] grid, int row, int col, int comp) {
+        grid[row][col] = comp;
+        int size = 1;
+        if (row > 0 && grid[row - 1][col] == 1) {
+            size += dfs(grid, row - 1, col, comp);
         }
-        grid[i][j] = id;
-        int count = 1;
-        for (int[] dir : dirs) {
-            count += dfs(grid, i + dir[0], j + dir[1], id);
+        if (row + 1 < grid.length && grid[row + 1][col] == 1) {
+            size += dfs(grid, row + 1, col, comp);
         }
-        return count;
+        if (col > 0 && grid[row][col - 1] == 1) {
+            size += dfs(grid, row, col - 1, comp);
+        }
+        if (col + 1 < grid.length && grid[row][col + 1] == 1) {
+            size += dfs(grid, row, col + 1, comp);
+        }
+        return size;
     }
 }
