@@ -430,6 +430,7 @@ My Personal Leetcode Notebook !
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -465,6 +466,7 @@ My Personal Leetcode Notebook !
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -578,6 +580,7 @@ My Personal Leetcode Notebook !
 | [0139-word-break](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -1170,6 +1173,7 @@ My Personal Leetcode Notebook !
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -1389,4 +1393,8 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0062-unique-paths) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
