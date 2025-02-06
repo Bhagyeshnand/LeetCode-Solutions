@@ -620,6 +620,7 @@ My Personal Leetcode Notebook !
 | [1325-path-with-maximum-probability](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1364-tuple-with-same-product](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -748,6 +749,7 @@ My Personal Leetcode Notebook !
 | [1256-rank-transform-of-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
+| [1364-tuple-with-same-product](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
@@ -1209,6 +1211,7 @@ My Personal Leetcode Notebook !
 | [0837-most-common-word](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0948-sort-an-array) |
+| [1364-tuple-with-same-product](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
