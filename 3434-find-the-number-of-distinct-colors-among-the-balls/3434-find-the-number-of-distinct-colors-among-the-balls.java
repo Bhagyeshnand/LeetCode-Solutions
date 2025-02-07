@@ -1,50 +1,26 @@
 class Solution {
-
-public int[] queryResults (int limit, int[][] queries) {
-
-int n = queries.length;
-
-int[] result = new int[n];
-
-Map<Integer, Integer> ballColorMap = new HashMap<>();
-    Map<Integer, Integer> colorCountMap  = new HashMap<>(); 
-    Set<Integer> distinctColors = new HashSet<>();
-
-for (int i=0; i < n; i++) {
-
-int ball = queries [i][0];
-
-int newColor = queries [i][1];
-
-if (ballColorMap.containsKey(ball)) {
-
-int oldColor = ballColorMap.get(ball);
-
-ballColorMap.put(ball, newColor);
-
-colorCountMap.put(oldColor, colorCountMap.get(oldColor) - 1);
-
-if (colorCountMap.get(oldColor) == 0) { 
-    colorCountMap.remove(oldColor);
-
-distinctColors.remove(oldColor);
-
-}
-
-} else {
-
-ballColorMap.put(ball, newColor);
-
-}
-
-colorCountMap.put(newColor, colorCountMap.getOrDefault(newColor, 0) + 1); distinctColors.add(newColor);
-
-result[i] = distinctColors.size();
-
-}
-
-return result;
-
-}
-
+    public int[] queryResults(int limit, int[][] queries) {
+        Map<Integer,Integer> node = new HashMap<>();
+        Map<Integer,Integer> color = new HashMap<>();
+        int ans[]=new int[queries.length];
+        for(int i=0;i<queries.length;i++){
+            int it[]=queries[i];
+            if(node.containsKey(it[0])){
+                if(node.get(it[0])==it[1]) {
+                    ans[i]=color.size();continue;
+                }
+                else if (color.get(node.get(it[0]))<=1) color.remove(node.get(it[0]));
+                else
+                color.put(node.get(it[0]),color.get(node.get(it[0]))-1);
+                node.put(it[0],it[1]);
+                color.put(it[1],color.getOrDefault(it[1],0)+1);
+            }
+            else{
+                node.put(it[0],it[1]);
+                color.put(it[1],color.getOrDefault(it[1],0)+1);
+            }
+            ans[i]=color.size();
+        }
+        return ans;
+    }
 }
