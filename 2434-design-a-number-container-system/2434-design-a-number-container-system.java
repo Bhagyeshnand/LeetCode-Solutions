@@ -1,8 +1,7 @@
-import java.util.*;
-
 class NumberContainers {
-    private Map<Integer, PriorityQueue<Integer>> res;
-    private Map<Integer, Integer> index_val;
+
+    HashMap<Integer,PriorityQueue<Integer>> res;
+    HashMap<Integer,Integer> index_val;
 
     public NumberContainers() {
         res = new HashMap<>();
@@ -10,18 +9,34 @@ class NumberContainers {
     }
     
     public void change(int index, int number) {
-        if (index_val.containsKey(index)) {
-            int prevNum = index_val.get(index);
-            if (prevNum == number) return;
-            res.get(prevNum).remove(index);
+
+        if(index_val.containsKey(index)){
+            int num = index_val.get(index);
+            if(num == number){
+                return ;
+            }
+
+            res.get(num).remove(index);
         }
 
-        res.computeIfAbsent(number, k -> new PriorityQueue<>()).offer(index);
+        res.computeIfAbsent(number, k-> new PriorityQueue<>()).offer(index);
         index_val.put(index, number);
     }
     
-    public int find(int number) {
+    public int find(int number) 
+    {
         PriorityQueue<Integer> pq = res.getOrDefault(number, new PriorityQueue<>());
-        return pq.isEmpty() ? -1 : pq.peek();
+        if(pq.size() == 0)
+        {
+            return -1;
+        }
+        return pq.peek();
     }
 }
+
+/**
+ * Your NumberContainers object will be instantiated and called as such:
+ * NumberContainers obj = new NumberContainers();
+ * obj.change(index,number);
+ * int param_2 = obj.find(number);
+ */
