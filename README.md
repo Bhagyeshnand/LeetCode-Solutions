@@ -581,6 +581,7 @@ My Personal Leetcode Notebook !
 | [0054-spiral-matrix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0139-word-break](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -1181,6 +1182,7 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0726-number-of-atoms](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0726-number-of-atoms) |
 | [0739-daily-temperatures](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
@@ -1422,6 +1424,7 @@ My Personal Leetcode Notebook !
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1002-maximum-width-ramp) |
