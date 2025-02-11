@@ -747,6 +747,7 @@ My Personal Leetcode Notebook !
 | [0264-ugly-number-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0432-all-oone-data-structure](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0432-all-oone-data-structure) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0726-number-of-atoms) |
@@ -815,6 +816,7 @@ My Personal Leetcode Notebook !
 | [0241-different-ways-to-add-parentheses](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [0539-minimum-time-difference](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0564-find-the-closest-palindrome) |
@@ -887,6 +889,7 @@ My Personal Leetcode Notebook !
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
