@@ -816,6 +816,7 @@ My Personal Leetcode Notebook !
 | [0241-different-ways-to-add-parentheses](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
+| [0394-decode-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [0539-minimum-time-difference](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
@@ -1181,6 +1182,7 @@ My Personal Leetcode Notebook !
 | [0025-reverse-nodes-in-k-group](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -1198,6 +1200,7 @@ My Personal Leetcode Notebook !
 | [0032-longest-valid-parentheses](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0394-decode-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0726-number-of-atoms](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0726-number-of-atoms) |
 | [0739-daily-temperatures](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
