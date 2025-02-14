@@ -577,6 +577,7 @@ My Personal Leetcode Notebook !
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0054-spiral-matrix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
@@ -918,6 +919,7 @@ My Personal Leetcode Notebook !
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0148-sort-list) |
