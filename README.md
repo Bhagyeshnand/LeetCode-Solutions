@@ -519,6 +519,7 @@ My Personal Leetcode Notebook !
 | [0904-leaf-similar-trees](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
@@ -552,6 +553,7 @@ My Personal Leetcode Notebook !
 | [0820-find-eventual-safe-states](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0999-regions-cut-by-slashes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
@@ -1122,6 +1124,7 @@ My Personal Leetcode Notebook !
 | [0789-kth-largest-element-in-a-stream](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -1149,6 +1152,7 @@ My Personal Leetcode Notebook !
 | [0789-kth-largest-element-in-a-stream](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
