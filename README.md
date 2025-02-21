@@ -1127,6 +1127,7 @@ My Personal Leetcode Notebook !
 | [0543-diameter-of-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
@@ -1156,6 +1157,7 @@ My Personal Leetcode Notebook !
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
@@ -1258,6 +1260,7 @@ My Personal Leetcode Notebook !
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Divide and Conquer
 |  |
