@@ -405,6 +405,7 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
@@ -510,6 +511,7 @@ My Personal Leetcode Notebook !
 | [0386-lexicographical-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0684-redundant-connection](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -548,6 +550,7 @@ My Personal Leetcode Notebook !
 | [0322-coin-change](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0684-redundant-connection](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
@@ -928,6 +931,7 @@ My Personal Leetcode Notebook !
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0999-regions-cut-by-slashes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
