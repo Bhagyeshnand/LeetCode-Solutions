@@ -568,6 +568,7 @@ My Personal Leetcode Notebook !
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -686,6 +687,7 @@ My Personal Leetcode Notebook !
 | [1972-rotating-the-box](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1972-rotating-the-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2089-maximum-matrix-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2089-maximum-matrix-sum) |
@@ -1067,6 +1069,7 @@ My Personal Leetcode Notebook !
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1972-rotating-the-box](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2089-maximum-matrix-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2145-grid-game) |
