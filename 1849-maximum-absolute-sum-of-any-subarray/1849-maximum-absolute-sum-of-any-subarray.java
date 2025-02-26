@@ -1,20 +1,18 @@
 class Solution {
-    public int maxAbsoluteSum(int[] nums) {
-        int n = nums.length;
-        int maxEndingHere = nums[0];
-        int minEndingHere = nums[0];
-        int maxSoFar = nums[0];
-        int minSoFar = nums[0];
-        
-        // Kadane's algorithm to find max and min subarray sums
-        for (int i = 1; i < n; i++) {
-            maxEndingHere = Math.max(nums[i], maxEndingHere + nums[i]);
-            minEndingHere = Math.min(nums[i], minEndingHere + nums[i]);
-            maxSoFar = Math.max(maxSoFar, maxEndingHere);
-            minSoFar = Math.min(minSoFar, minEndingHere);
+    public int maxAbsoluteSum(int[] a) {
+        int n=a.length;
+        int tot=0,sum=0;
+        int s=a[0];
+        int mi=0,ma=0;
+        if(a[0]<mi)mi=a[0];
+        if(a[0]>ma)ma=a[0];
+        for(int i=1;i<n;i++)
+        {
+            s=s+a[i];
+            if(s>ma)ma=s;
+            if(s<mi)mi=s;
         }
-        
-        // The maximum absolute sum is the maximum of the absolute values of maxSoFar and minSoFar
-        return Math.max(Math.abs(maxSoFar), Math.abs(minSoFar));
+
+        return Math.abs(ma-mi);
     }
 }
