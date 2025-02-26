@@ -490,6 +490,7 @@ My Personal Leetcode Notebook !
 | [2300-construct-string-with-repeat-limit](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2379-maximum-total-importance-of-roads) |
+| [2413-smallest-number-in-infinite-set](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -810,6 +811,7 @@ My Personal Leetcode Notebook !
 | [2300-construct-string-with-repeat-limit](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2413-smallest-number-in-infinite-set](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2502-sort-the-people](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2502-sort-the-people) |
@@ -1348,6 +1350,7 @@ My Personal Leetcode Notebook !
 | [0859-design-circular-deque](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0859-design-circular-deque) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2413-smallest-number-in-infinite-set](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 ## Data Stream
 |  |
@@ -1502,6 +1505,7 @@ My Personal Leetcode Notebook !
 | ------- |
 | [0729-my-calendar-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
+| [2413-smallest-number-in-infinite-set](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2868-continuous-subarrays) |
 ## Doubly-Linked List
