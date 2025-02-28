@@ -994,6 +994,7 @@ My Personal Leetcode Notebook !
 | [0240-search-a-2d-matrix-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
@@ -1550,4 +1551,8 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
