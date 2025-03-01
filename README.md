@@ -727,6 +727,7 @@ My Personal Leetcode Notebook !
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
+| [2551-apply-operations-to-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2554-minimum-total-distance-traveled](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2554-minimum-total-distance-traveled) |
@@ -984,6 +985,7 @@ My Personal Leetcode Notebook !
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2551-apply-operations-to-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -1058,6 +1060,7 @@ My Personal Leetcode Notebook !
 | [2299-merge-nodes-in-between-zeros](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
+| [2551-apply-operations-to-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2645-pass-the-pillow](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2645-pass-the-pillow) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
