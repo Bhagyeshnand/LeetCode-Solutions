@@ -628,6 +628,7 @@ My Personal Leetcode Notebook !
 | [0731-my-calendar-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [0837-most-common-word](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0837-most-common-word) |
@@ -1119,6 +1120,7 @@ My Personal Leetcode Notebook !
 | [0650-2-keys-keyboard](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0747-min-cost-climbing-stairs](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1025-minimum-cost-for-tickets](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
