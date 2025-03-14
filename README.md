@@ -511,6 +511,7 @@ My Personal Leetcode Notebook !
 | [0098-validate-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
@@ -553,6 +554,7 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0100-same-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
@@ -1065,6 +1067,7 @@ My Personal Leetcode Notebook !
 | [0086-partition-list](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0148-sort-list) |
@@ -1203,6 +1206,7 @@ My Personal Leetcode Notebook !
 | [0100-same-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -1238,6 +1242,7 @@ My Personal Leetcode Notebook !
 | [0100-same-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
