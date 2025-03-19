@@ -785,6 +785,7 @@ My Personal Leetcode Notebook !
 | [3427-special-array-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -983,6 +984,7 @@ My Personal Leetcode Notebook !
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2868-continuous-subarrays](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2868-continuous-subarrays) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Union Find
@@ -1336,6 +1338,7 @@ My Personal Leetcode Notebook !
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2868-continuous-subarrays](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2868-continuous-subarrays) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Stack
 |  |
 | ------- |
@@ -1486,6 +1489,7 @@ My Personal Leetcode Notebook !
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3427-special-array-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Game Theory
 |  |
@@ -1515,6 +1519,7 @@ My Personal Leetcode Notebook !
 | [3291-find-if-array-can-be-sorted](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3394-minimum-array-end) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Number Theory
 |  |
 | ------- |
