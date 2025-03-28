@@ -1,42 +1,45 @@
 class Solution {
-    public int[] maxPoints(int[][] grid, int[] queries) {
-        int rows = grid.length, cols = grid[0].length;
-        int[][] directions = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
-
-        int n = queries.length;
-        int[] result = new int[n];
-        int[][] visited = new int[rows][cols];
-
-        PriorityQueue<int[]> minHeap = new PriorityQueue<>(Comparator.comparingInt(a -> a[0]));
-        List<int[]> sortedQueries = new ArrayList<>();
-
-        for (int i = 0; i < n; i++) {
-            sortedQueries.add(new int[]{queries[i], i});
+    int count=0;
+    public void bfs(int[][] grid, int val, int x,int y, PriorityQueue<int[]> pq){
+        if(x<0 || y<0 || x==grid.length || y==grid[0].length){
+            return;
         }
-        sortedQueries.sort(Comparator.comparingInt(a -> a[0]));
-
-        minHeap.offer(new int[]{grid[0][0], 0, 0});
-        visited[0][0] = 1;
-        int points = 0;
-
-        for (int[] q : sortedQueries) {
-            int queryVal = q[0], queryIdx = q[1];
-
-            while (!minHeap.isEmpty() && minHeap.peek()[0] < queryVal) {
-                int[] top = minHeap.poll();
-                int row = top[1], col = top[2];
-                points++;
-
-                for (int[] dir : directions) {
-                    int nr = row + dir[0], nc = col + dir[1];
-                    if (nr >= 0 && nr < rows && nc >= 0 && nc < cols && visited[nr][nc] == 0) {
-                        minHeap.offer(new int[]{grid[nr][nc], nr, nc});
-                        visited[nr][nc] = 1;
-                    }
-                }
+        if(grid[x][y]>0){
+            if(grid[x][y]<val){
+                count++;
+                grid[x][y]=-1; // visited
+                bfs(grid,val,x+1,y,pq);
+                bfs(grid,val,x-1,y,pq);
+                bfs(grid,val,x,y+1,pq);
+                bfs(grid,val,x,y-1,pq);
+            }else{
+                pq.add(new int[]{x,y, grid[x][y]});
+                grid[x][y]=0;
             }
-            result[queryIdx] = points;
         }
-        return result;
+        while(!pq.isEmpty()){
+            int[] top = pq.peek();
+            if(top[2]<val){
+                pq.remove();
+                grid[top[0]][top[1]]=top[2];
+                bfs(grid,val,top[0],top[1],pq);
+            }else{
+                break;
+            }
+        }
+    }
+    public int[] maxPoints(int[][] grid, int[] queries) {
+        int[] ans = new int[queries.length];
+        List<int[]> queryIndex = new ArrayList<>();
+        for(int i=0;i<queries.length;i++){
+            queryIndex.add(new int[]{i,queries[i]});
+        }
+        Collections.sort(queryIndex,(a,b)->a[1]-b[1]);
+        PriorityQueue<int[]> pq = new PriorityQueue<>((a,b)->a[2]-b[2]);
+        for(int[] q:queryIndex){
+            bfs(grid,q[1],0,0,pq);
+            ans[q[0]]=count;
+        }
+        return ans;
     }
 }
