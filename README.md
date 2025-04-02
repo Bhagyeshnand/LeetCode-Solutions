@@ -752,6 +752,7 @@ My Personal Leetcode Notebook !
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2262-solving-questions-with-brainpower](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -1244,6 +1245,7 @@ My Personal Leetcode Notebook !
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2262-solving-questions-with-brainpower](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2554-minimum-total-distance-traveled](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2562-count-ways-to-build-good-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2755-extra-characters-in-a-string) |
