@@ -805,6 +805,7 @@ My Personal Leetcode Notebook !
 | [2888-minimum-index-of-a-valid-split](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2892-check-if-array-is-good](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2892-check-if-array-is-good) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
