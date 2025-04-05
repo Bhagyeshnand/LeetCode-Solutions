@@ -667,6 +667,7 @@ My Personal Leetcode Notebook !
 | [0735-asteroid-collision](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
+| [0772-construct-quad-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0772-construct-quad-tree) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [0837-most-common-word](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0837-most-common-word) |
@@ -1184,6 +1185,7 @@ My Personal Leetcode Notebook !
 | [0240-search-a-2d-matrix-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0407-trapping-rain-water-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0772-construct-quad-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0772-construct-quad-tree) |
 | [0787-sliding-puzzle](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0945-snakes-and-ladders) |
@@ -1288,6 +1290,7 @@ My Personal Leetcode Notebook !
 | [0543-diameter-of-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0772-construct-quad-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0772-construct-quad-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -1456,6 +1459,7 @@ My Personal Leetcode Notebook !
 | [0148-sort-list](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0772-construct-quad-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0772-construct-quad-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 ## Merge Sort
