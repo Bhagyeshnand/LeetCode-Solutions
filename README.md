@@ -643,6 +643,7 @@ My Personal Leetcode Notebook !
 | [0088-merge-sorted-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0139-word-break](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -850,6 +851,7 @@ My Personal Leetcode Notebook !
 | [0139-word-break](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
@@ -1365,6 +1367,7 @@ My Personal Leetcode Notebook !
 | [0002-add-two-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [0149-max-points-on-a-line](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0263-ugly-number) |
@@ -1748,4 +1751,8 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
