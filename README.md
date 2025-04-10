@@ -642,6 +642,7 @@ My Personal Leetcode Notebook !
 | [0084-largest-rectangle-in-histogram](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0120-triangle](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -1232,6 +1233,7 @@ My Personal Leetcode Notebook !
 | [0055-jump-game](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0072-edit-distance) |
+| [0120-triangle](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
