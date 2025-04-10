@@ -1,38 +1,34 @@
 class Solution {
-
-    public long numberOfPowerfulInt(long rangeStart, long rangeEnd, int chakraLimit, String clanSymbolSuffix) {
-        return countPowerfulShinobi(rangeEnd, chakraLimit, clanSymbolSuffix)
-             - countPowerfulShinobi(rangeStart - 1, chakraLimit, clanSymbolSuffix);
+    public long numberOfPowerfulInt(long start, long finish, int limit, String s) {
+        long suffix = 0L;
+        for (char c : s.toCharArray())
+            suffix = suffix * 10 + c - '0';
+        if (suffix > finish)
+            return 0;
+        long div = (long) Math.pow(10, s.length()), ps = start / div, pf = finish / div;
+        if (finish % div >= suffix)
+            pf++;
+        if (start % div > suffix)
+            ps++;
+        return getAvailNum(pf, limit) - getAvailNum(ps, limit);
     }
 
-    private long countPowerfulShinobi(long chakraCap, int chakraLimit, String clanSymbol) {
-        String chakraFlow = Long.toString(chakraCap);  // The full chakra path
-        int prefixLength = chakraFlow.length() - clanSymbol.length();
-
-        // If the chakra flow is too short to even hold the clan symbol – mission fails
-        if (prefixLength < 0) return 0;
-
-        long[][] rasenganScroll = new long[prefixLength + 1][2]; // [i][tightMode]
-
-        // Base case: chakra prefix is complete; now check if the suffix meets the clan symbol
-        rasenganScroll[prefixLength][0] = 1; // Not bound to chakraCap
-        rasenganScroll[prefixLength][1] = chakraFlow.substring(prefixLength).compareTo(clanSymbol) >= 0 ? 1 : 0;
-
-        // Iterate backward like a careful strategist
-        for (int i = prefixLength - 1; i >= 0; i--) {
-            int currentChakra = chakraFlow.charAt(i) - '0';
-
-            // If not tight to chakraCap, any digit from 0 to chakraLimit is okay
-            rasenganScroll[i][0] = (chakraLimit + 1) * rasenganScroll[i + 1][0];
-
-            // If we're still under chakraCap, be careful
-            if (currentChakra <= chakraLimit) {
-                rasenganScroll[i][1] = (long) currentChakra * rasenganScroll[i + 1][0] + rasenganScroll[i + 1][1];
-            } else {
-                rasenganScroll[i][1] = (long) (chakraLimit + 1) * rasenganScroll[i + 1][0];
-            }
+    private long getAvailNum(long num, long limit) {
+        if (num == 0)
+            return 0;
+        if (limit == 9)
+            return num;
+        int digits = (int) Math.log10(num);
+        long div = (long) Math.pow(10, digits), res = 0L;
+        for (int i = digits; i >= 0; i--) {
+            int d = (int) (num / div);
+            if (d > limit)
+                return res + (long) Math.pow(limit + 1, i + 1);
+            else
+                res += d * (long) Math.pow(limit + 1, i);
+            num %= div;
+            div /= 10;
         }
-
-        return rasenganScroll[0][1];
+        return res;
     }
 }
