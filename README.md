@@ -638,6 +638,7 @@ My Personal Leetcode Notebook !
 | [0054-spiral-matrix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -1193,6 +1194,7 @@ My Personal Leetcode Notebook !
 | ------- |
 | [0036-valid-sudoku](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0289-game-of-life) |
@@ -1234,6 +1236,7 @@ My Personal Leetcode Notebook !
 | [0032-longest-valid-parentheses](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0139-word-break) |
