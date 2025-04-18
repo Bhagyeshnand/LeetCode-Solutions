@@ -939,6 +939,7 @@ My Personal Leetcode Notebook !
 | [0022-generate-parentheses](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0097-interleaving-string) |
