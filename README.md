@@ -378,6 +378,7 @@ My Personal Leetcode Notebook !
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0797-rabbits-in-forest](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
@@ -676,6 +677,7 @@ My Personal Leetcode Notebook !
 | [0772-construct-quad-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0772-construct-quad-tree) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
+| [0797-rabbits-in-forest](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0837-most-common-word](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0837-most-common-word) |
 | [0854-making-a-large-island](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0859-design-circular-deque) |
@@ -867,6 +869,7 @@ My Personal Leetcode Notebook !
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0837-most-common-word](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0837-most-common-word) |
 | [0906-walking-robot-simulation](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -1396,6 +1399,7 @@ My Personal Leetcode Notebook !
 | [0592-fraction-addition-and-subtraction](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0670-maximum-swap) |
+| [0797-rabbits-in-forest](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1240-stone-game-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1642-water-bottles](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1642-water-bottles) |
