@@ -945,6 +945,7 @@ My Personal Leetcode Notebook !
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0097-interleaving-string) |
@@ -1172,6 +1173,7 @@ My Personal Leetcode Notebook !
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
@@ -1387,6 +1389,7 @@ My Personal Leetcode Notebook !
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0149-max-points-on-a-line](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
