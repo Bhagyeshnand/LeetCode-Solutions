@@ -642,6 +642,7 @@ My Personal Leetcode Notebook !
 | [0059-spiral-matrix-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -1124,6 +1125,7 @@ My Personal Leetcode Notebook !
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
