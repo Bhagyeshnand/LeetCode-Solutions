@@ -524,6 +524,7 @@ My Personal Leetcode Notebook !
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0112-path-sum) |
@@ -1327,6 +1328,7 @@ My Personal Leetcode Notebook !
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -1370,6 +1372,7 @@ My Personal Leetcode Notebook !
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -1486,6 +1489,7 @@ My Personal Leetcode Notebook !
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0394-decode-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0726-number-of-atoms](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0726-number-of-atoms) |
