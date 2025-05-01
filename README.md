@@ -773,6 +773,7 @@ My Personal Leetcode Notebook !
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2262-solving-questions-with-brainpower](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
