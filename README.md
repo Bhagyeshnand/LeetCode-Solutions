@@ -1424,6 +1424,7 @@ My Personal Leetcode Notebook !
 | [0029-divide-two-integers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [0089-gray-code](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
@@ -1622,6 +1623,7 @@ My Personal Leetcode Notebook !
 | [0040-combination-sum-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0052-n-queens-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0077-combinations) |
+| [0089-gray-code](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0216-combination-sum-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0494-target-sum) |
@@ -1666,6 +1668,7 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0089-gray-code](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0222-count-complete-tree-nodes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0476-number-complement) |
