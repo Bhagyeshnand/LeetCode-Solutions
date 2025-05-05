@@ -966,6 +966,7 @@ My Personal Leetcode Notebook !
 | [0072-edit-distance](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0139-word-break) |
@@ -1279,6 +1280,7 @@ My Personal Leetcode Notebook !
 | [0063-unique-paths-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0139-word-break) |
