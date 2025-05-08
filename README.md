@@ -1288,6 +1288,7 @@ My Personal Leetcode Notebook !
 | [0087-scramble-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0139-word-break) |
@@ -1348,6 +1349,7 @@ My Personal Leetcode Notebook !
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -1393,6 +1395,7 @@ My Personal Leetcode Notebook !
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -1437,6 +1440,7 @@ My Personal Leetcode Notebook !
 | [0043-multiply-strings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
@@ -1541,6 +1545,7 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
