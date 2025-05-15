@@ -534,6 +534,7 @@ My Personal Leetcode Notebook !
 | [0100-same-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -1375,6 +1376,7 @@ My Personal Leetcode Notebook !
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -1424,6 +1426,7 @@ My Personal Leetcode Notebook !
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -1673,6 +1676,7 @@ My Personal Leetcode Notebook !
 | [0077-combinations](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0113-path-sum-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0494-target-sum) |
