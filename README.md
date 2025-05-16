@@ -982,6 +982,7 @@ My Personal Leetcode Notebook !
 | [0087-scramble-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0179-largest-number) |
@@ -1306,6 +1307,7 @@ My Personal Leetcode Notebook !
 | [0095-unique-binary-search-trees-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
