@@ -905,6 +905,7 @@ My Personal Leetcode Notebook !
 | [0146-lru-cache](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -1005,6 +1006,7 @@ My Personal Leetcode Notebook !
 | [0126-word-ladder-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -1500,6 +1502,7 @@ My Personal Leetcode Notebook !
 | [0089-gray-code](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0263-ugly-number) |
