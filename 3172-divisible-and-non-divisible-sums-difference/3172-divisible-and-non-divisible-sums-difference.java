@@ -1,5 +1,6 @@
 class Solution {
-    public int differenceOfSums(int n, int m) {
-        return n * (n + 1) / 2 - m * (n / m) * (n / m + 1);
+    public int differenceOfSums(int b, int v) {
+        int k = b / v;
+        return (b *(b + 1))/ 2 - k * (k+ 1)* v;
     }
 }
