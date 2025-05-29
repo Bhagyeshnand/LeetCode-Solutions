@@ -1,43 +1,57 @@
 class Solution {
-    int evenA, oddA, evenB, oddB;
-    List<List<Integer>> buildList(int[][] edges) {
-        int n = edges.length + 1;
-        List<List<Integer>> adj = new ArrayList<>();
-        for (int i = 0; i < n; i++) adj.add(new ArrayList<>());
-        for (int[] e : edges) {
-            adj.get(e[0]).add(e[1]);
-            adj.get(e[1]).add(e[0]);
-        }
-        return adj;
-    }
-    void dfsColor(List<List<Integer>> adj, int u, int parent, int[] color, boolean isA) {
-        if (color[u] == 0) {
-            if (isA) evenA++;
-            else evenB++;
-        } else {
-            if (isA) oddA++;
-            else oddB++;
-        }
-        for (int v : adj.get(u)) if (v != parent) {
-            color[v] = color[u] ^ 1;
-            dfsColor(adj, v, u, color, isA);
-        }
-    }
     public int[] maxTargetNodes(int[][] edges1, int[][] edges2) {
-        List<List<Integer>> adjA = buildList(edges1), adjB = buildList(edges2);
-        int n = adjA.size(), m = adjB.size();
-        int[] colorA = new int[n], colorB = new int[m];
-        Arrays.fill(colorA, -1);
-        Arrays.fill(colorB, -1);
-        evenA = oddA = evenB = oddB = 0;
-        colorA[0] = 0;
-        dfsColor(adjA, 0, -1, colorA, true);
-        colorB[0] = 0;
-        dfsColor(adjB, 0, -1, colorB, false);
-        int maxiB = Math.max(evenB, oddB);
-        int[] res = new int[n];
-        for (int i = 0; i < n; i++)
-            res[i] = (colorA[i] == 0 ? evenA : oddA) + maxiB;
-        return res;
+        final int[] t1 = target(edges1);
+        final int plus = max(target(edges2));
+        for (int i = 0; i < t1.length; i++) {
+            t1[i] += plus;
+        }
+        return t1;
+    }
+
+    static final int max(int[] arr) {
+        int r = 0;
+        for (int a : arr) {
+            r = Math.max(r, a);
+        }
+        return r;
+    }
+
+    static int[] target(int[][] edges) {
+        final int n = edges.length + 1;
+        final int[] degree = new int[n];
+        final int[] parents = new int[n];
+        final int[] balance = new int[n];
+        Arrays.fill(balance, 1);
+        final int[] q = new int[n];
+        for (int[] e : edges) {
+            final int start = e[0];
+            final int end = e[1];
+            degree[start]++;
+            degree[end]++;
+            parents[start] ^= end;
+            parents[end] ^= start;
+        }
+        int len = 0;
+        for (int i = 0; i < n; i++) {
+            if (degree[i] == 1) {
+                q[len++] = i;
+            }
+        }
+        for (int i = 0; i < edges.length; i++) {
+            final int node = q[i];
+            final int parent = parents[node];
+            parents[parent] ^= node;
+            balance[parent] -= balance[node];
+            if (--degree[parent] == 1) {
+                q[len++] = parent;
+            }
+        }
+        final int root = q[n - 1];
+        balance[root] = (n + balance[root]) / 2;
+        for (int i = n - 2; i >= 0; i--) {
+            final int node = q[i];
+            balance[node] = n - balance[parents[node]];
+        }
+        return balance;
     }
 }
