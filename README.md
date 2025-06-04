@@ -459,6 +459,7 @@ My Personal Leetcode Notebook !
 | [0164-maximum-gap](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0220-contains-duplicate-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0274-h-index](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
@@ -690,6 +691,7 @@ My Personal Leetcode Notebook !
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
+| [0220-contains-duplicate-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0274-h-index) |
@@ -1127,6 +1129,7 @@ My Personal Leetcode Notebook !
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0220-contains-duplicate-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
@@ -1673,6 +1676,7 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0164-maximum-gap) |
+| [0220-contains-duplicate-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0948-sort-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -1920,6 +1924,7 @@ My Personal Leetcode Notebook !
 ## Ordered Set
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0729-my-calendar-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
