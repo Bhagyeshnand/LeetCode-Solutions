@@ -1,43 +1,47 @@
-import java.util.*;
-
 class Solution {
-    public String smallestEquivalentString(String s1, String s2, String baseStr) {
-        Map<Character, List<Character>> adj = new HashMap<>();
-        int n = s1.length();
-
-        // Build the adjacency list
-        for (int i = 0; i < n; i++) {
-            char u = s1.charAt(i);
-            char v = s2.charAt(i);
-
-            adj.computeIfAbsent(u, k -> new ArrayList<>()).add(v);
-            adj.computeIfAbsent(v, k -> new ArrayList<>()).add(u);
+    static int parent[];
+    public static int find(int val)
+    {
+        if(parent[val]!=val)
+        {
+            parent[val]=find(parent[val]);
+            
         }
-
-        StringBuilder result = new StringBuilder();
-
-        for (char ch : baseStr.toCharArray()) {
-            boolean[] visited = new boolean[26];
-            char minChar = dfs(adj, ch, visited);
-            result.append(minChar);
-        }
-
-        return result.toString();
+        return parent[val];
     }
+    public static void union(int a,int b)
+    {
+        int leta=find(a);
+        int letb=find(b);
 
-    private char dfs(Map<Character, List<Character>> adj, char ch, boolean[] visited) {
-        visited[ch - 'a'] = true;
-        char minChar = ch;
-
-        for (char neighbor : adj.getOrDefault(ch, new ArrayList<>())) {
-            if (!visited[neighbor - 'a']) {
-                char candidate = dfs(adj, neighbor, visited);
-                if (candidate < minChar) {
-                    minChar = candidate;
-                }
-            }
+        if(leta<letb)
+        {
+            parent[letb]=leta;
+        }
+        else
+        {
+            parent[leta]=letb;
+        }
+    }
+    public String smallestEquivalentString(String s1, String s2, String baseStr) {
+        int n=baseStr.length();
+        parent=new int[26];
+        for(int i=0;i<26;i++)
+        {
+            parent[i]=i;
         }
 
-        return minChar;
+        for(int i=0;i<s1.length();i++)
+        {
+            union(s1.charAt(i)-'a',s2.charAt(i)-'a');
+        }
+
+        StringBuilder res = new StringBuilder();
+        for(int i=0;i<n;i++)
+        {
+            char chh=baseStr.charAt(i);
+            res.append((char)(find(chh-'a')+'a'));
+        }
+        return res.toString();
     }
 }
