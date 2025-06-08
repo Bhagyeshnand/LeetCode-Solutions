@@ -1084,6 +1084,7 @@ My Personal Leetcode Notebook !
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1894-merge-strings-alternately](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -1201,6 +1202,7 @@ My Personal Leetcode Notebook !
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1894-merge-strings-alternately](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1972-rotating-the-box) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
