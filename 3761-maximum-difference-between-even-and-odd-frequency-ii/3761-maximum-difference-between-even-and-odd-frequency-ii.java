@@ -1,91 +1,88 @@
+/* Copyright (c) 2025 by https://leetcode.com/u/brinuke/. All rights reserved. */
 class Solution {
+	private static final int BAD_DIFF = Integer.MAX_VALUE / 2;
 
-    public int maxDifference(String s, int k) {
-        int n = s.length();
-        // Initialize answer to a very small number.
-        int ans = Integer.MIN_VALUE;
-
-        // Step 1: Iterate through all possible pairs of distinct characters (a, b).
-        for (char a = '0'; a <= '4'; ++a) {
-            for (char b = '0'; b <= '4'; ++b) {
-                if (a == b) {
-                    continue;
-                }
-
-                // --- Start of logic for a single (a, b) pair ---
-
-                // best[status] stores the minimum (prev_a - prev_b) for a prefix
-                // with the parity state 'status'. Initialize with a large value.
-                int[] best = new int[4];
-                Arrays.fill(best, Integer.MAX_VALUE);
-
-                // cnt_a, cnt_b: Prefix counts for the 'right' pointer (s[0...right]).
-                int cnt_a = 0, cnt_b = 0;
-                // prev_a, prev_b: Prefix counts for the 'left' pointer (s[0...left]).
-                int prev_a = 0, prev_b = 0;
-                // 'left' tracks the end of the prefix we are recording in the 'best' array.
-                int left = -1;
-
-                // The main loop iterating through the string with the 'right' pointer.
-                for (int right = 0; right < n; ++right) {
-                    // Update prefix counts for the current 'right' position.
-                    cnt_a += (s.charAt(right) == a) ? 1 : 0;
-                    cnt_b += (s.charAt(right) == b) ? 1 : 0;
-
-                    // This loop updates the 'best' array. It advances the 'left' pointer
-                    // and records the state of the prefix ending at 'left'.
-                    // The conditions ensure that any substring starting at 'left + 1'
-                    // will have a length of at least 'k'.
-                    // Also, `cnt_b - prev_b >= 2` since b appears an even number of times in the substring,
-                    // but zero occurrences must be excluded (and 1 must also be excluded since it's odd, obviously)
-                    while (right - left >= k && cnt_b - prev_b >= 2) {
-                        // Get the parity state for the prefix ending at 'left'.
-                        int left_status = getStatus(prev_a, prev_b);
-
-                        // Update the 'best' array with the minimum value of (prev_a - prev_b)
-                        // for this specific state.
-                        best[left_status] = Math.min(
-                                best[left_status],
-                                prev_a - prev_b
-                        );
-
-                        // Advance the left pointer and its corresponding prefix counts.
-                        ++left;
-                        prev_a += (s.charAt(left) == a) ? 1 : 0;
-                        prev_b += (s.charAt(left) == b) ? 1 : 0;
-                    }
-
-                    // Now, calculate the potential answer for the current 'right' pointer.
-                    // 1. Get the parity state for the prefix ending at 'right'.
-                    int right_status = getStatus(cnt_a, cnt_b);
-
-                    // 2. Determine the required state for the start-prefix.
-                    // We need `left_status = right_status XOR 10` (binary).
-                    int required_status = right_status ^ 0b10;
-
-                    // 3. If we have seen a valid starting prefix with the required state...
-                    if (best[required_status] != Integer.MAX_VALUE) {
-                        // Calculate the difference: (cnt_a-cnt_b) - min(prev_a-prev_b).
-                        // This maximizes the expression.
-                        ans = Math.max(
-                                ans,
-                                cnt_a - cnt_b - best[required_status]
-                        );
-                    }
-                }
-            }
-        }
-        return ans;
-    }
-
-    /**
-     * Helper function to calculate the 2-bit parity state.
-     * Bit 1: parity of cnt_a. Bit 0: parity of cnt_b.
-     */
-    private int getStatus(int cnt_a, int cnt_b) {
-        // (cnt_a & 1) is 1 if cnt_a is odd, 0 if even.
-        // << 1 shifts it to the second bit position.
-        // | (cnt_b & 1) puts the parity of cnt_b in the first bit position.
-        return ((cnt_a & 1) << 1) | (cnt_b & 1);
-    }
+	public static int maxDifference(String s, int k) {
+		char[] chars = s.toCharArray();
+		int n = chars.length;
+		int[] mpdAB = new int[4]; // min prefix diff freq(a) - freq(b)
+		int[] mpdBA = new int[4]; // min prefix diff freq(b) - freq(a)
+		boolean[] isAbsent = new boolean[5];
+		int result = Integer.MIN_VALUE;
+		aCharLoop:
+		for (char a = '1'; a <= '4'; a++)
+			bCharLoop:
+			for (char b = '0'; b < a; b++) {
+				if (isAbsent[b - '0'])
+					continue;
+				int right = 0;
+				int arf = 0;
+				int brf = 0;
+				// Initialize the window moving its right side
+				while (right < k || arf + brf < 3 || arf == 0 || brf == 0) {
+					if (right == n) {
+						if (brf == 0)
+							isAbsent[b - '0'] = true;
+						if (arf == 0) {
+							isAbsent[a - '0'] = true;
+							continue aCharLoop;
+						} else
+							continue bCharLoop;
+					}
+					char c = chars[right++];
+					if (c == a)
+						arf++;
+					else if (c == b)
+						brf++;
+				}
+				int left = 0;
+				int alf = 0;
+				int blf = 0;
+				Arrays.fill(mpdAB, BAD_DIFF);
+				Arrays.fill(mpdBA, BAD_DIFF);
+				mpdAB[0] = mpdBA[0] = 0;
+				while (true) {
+					int parityState, freqDiff;
+					// Move left side
+					while (left < right - k) {
+						char c = chars[left++];
+						if (c == a) {
+							if (arf == alf + 1) { // no a would remain in the window
+								left--;
+								break;
+							}
+							alf++;
+						} else if (c == b) {
+							if (brf == blf + 1) { // no b would remain in the window
+								left--;
+								break;
+							}
+							blf++;
+						} else
+							continue;
+						parityState = ((alf & 1) << 1) + (blf & 1);
+						freqDiff = alf - blf;
+						mpdAB[parityState] = Math.min(mpdAB[parityState], freqDiff);
+						mpdBA[parityState] = Math.min(mpdBA[parityState], -freqDiff);
+					}
+					// Update main result
+					parityState = ((arf & 1) << 1) + (brf & 1);
+					freqDiff = arf - brf;
+					result = Math.max(result, freqDiff - mpdAB[parityState ^ 2]); // a odd, b even
+					result = Math.max(result, -freqDiff - mpdBA[parityState ^ 1]); // b odd, a even
+					if (right == n)
+						break;
+					// Move right side
+					char c = chars[right++];
+					if (c == a)
+						arf++;
+					else if (c == b)
+						brf++;
+					else
+						while (right < n && (c = chars[right]) != a && c != b)
+							right++;
+				}
+			}
+		return result;
+	}
 }
