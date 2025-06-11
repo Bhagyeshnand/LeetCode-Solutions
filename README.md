@@ -1145,6 +1145,7 @@ My Personal Leetcode Notebook !
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1172,6 +1173,7 @@ My Personal Leetcode Notebook !
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -1826,6 +1828,7 @@ My Personal Leetcode Notebook !
 | [3639-zero-array-transformation-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3647-zero-array-transformation-iii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Game Theory
 |  |
 | ------- |
@@ -1914,6 +1917,7 @@ My Personal Leetcode Notebook !
 | [2266-minimum-cost-to-set-cooking-time](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2266-minimum-cost-to-set-cooking-time) |
 | [2998-count-symmetric-integers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Memoization
 |  |
 | ------- |
