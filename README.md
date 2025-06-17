@@ -1628,6 +1628,7 @@ My Personal Leetcode Notebook !
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3840-find-x-value-of-array-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3840-find-x-value-of-array-ii) |
 ## Recursion
@@ -2023,6 +2024,7 @@ My Personal Leetcode Notebook !
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 ## Quickselect
 |  |
