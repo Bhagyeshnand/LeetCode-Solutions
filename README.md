@@ -514,6 +514,7 @@ My Personal Leetcode Notebook !
 | [3647-zero-array-transformation-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
+| [3778-transform-array-by-parity](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3778-transform-array-by-parity) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -929,6 +930,7 @@ My Personal Leetcode Notebook !
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3778-transform-array-by-parity](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3778-transform-array-by-parity) |
 | [3840-find-x-value-of-array-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3840-find-x-value-of-array-ii) |
 ## Hash Table
 |  |
@@ -1763,6 +1765,7 @@ My Personal Leetcode Notebook !
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3778-transform-array-by-parity](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3778-transform-array-by-parity) |
 ## Binary Indexed Tree
 |  |
 | ------- |
