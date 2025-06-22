@@ -511,6 +511,7 @@ My Personal Leetcode Notebook !
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3306-mark-elements-on-array-by-performing-queries](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -554,6 +555,7 @@ My Personal Leetcode Notebook !
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2803-modify-graph-edge-weights) |
 | [2868-continuous-subarrays](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2868-continuous-subarrays) |
+| [3306-mark-elements-on-array-by-performing-queries](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -910,6 +912,7 @@ My Personal Leetcode Notebook !
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3306-mark-elements-on-array-by-performing-queries](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
@@ -1028,6 +1031,7 @@ My Personal Leetcode Notebook !
 | [2915-count-of-interesting-subarrays](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3306-mark-elements-on-array-by-performing-queries](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -1357,6 +1361,7 @@ My Personal Leetcode Notebook !
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2846-robot-collisions) |
+| [3306-mark-elements-on-array-by-performing-queries](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3447-clear-digits) |
