@@ -1,62 +1,29 @@
 class Solution {
     public long[] unmarkedSumArray(int[] nums, int[][] queries) {
-        HashSet<Integer> nm = new HashSet<>();
-        PriorityQueue<Integer> pq =new PriorityQueue<>();
-        long val= 0 ;
-        for(int i=0;i<nums.length;i++)
-        {
-            nm.add(i);
-            pq.add(nums[i]);
-            val+=nums[i];
+        long sum = 0;
+        long[] arr = new long[nums.length];
+        for (int i = 0; i < nums.length; i++) {
+            sum += nums[i];
+            arr[i] = 100001l * nums[i] + i;
         }
-        int lent = queries.length;
-        
-        HashMap<Integer,Queue<Integer>> h = new HashMap<>();
-        for(int i=0;i<nums.length;i++){
-            
-            int val1 = nums[i];
-            if(h.get(val1)==null){
-                Queue<Integer> q = new LinkedList<>();
-                q.add(i);
-                h.put(val1,q);
-            }else{
-                Queue<Integer>  q= h.get(val1);
-                q.add(i);
+        Arrays.sort(arr);
+        long[] res = new long[queries.length];
+        int idx = 0;
+        for (int i = 0; i < queries.length; i++) {
+            sum -= nums[queries[i][0]];
+            nums[queries[i][0]] = 0;
+            int j = queries[i][1];
+            while (j > 0 && idx < arr.length) {
+                int num = (int) (arr[idx] / 100001);
+                int idx1 = (int) (arr[idx++] % 100001);
+                if (nums[idx1] == 0)
+                    continue;
+                sum -= num;
+                nums[idx1] = 0;
+                j--;
             }
+            res[i] = sum;
         }
-        long ans[] = new long[lent];
-        for(int i=0;i<lent;i++)
-        {
-            int left = queries[i][0];
-            int right = queries[i][1];   
-            long sum = 0;
-            if(nm.contains(left)){
-                nm.remove(left);
-                val-=nums[left];
-            }
-            
-            while(right>0)
-            {    
-                if(pq.size()>0)
-                {
-                    int val2 = pq.poll();
-                    Queue<Integer> indexes = h.get(val2);
-                    int ind3 = indexes.remove();
-                    
-                    if(nm.contains(ind3))
-                    {
-                        right--;
-                        nm.remove(ind3);
-                        val-=nums[ind3];
-                    }
-                }
-                else
-                {
-                    break;
-                }
-            }
-            ans[i] = val;
-        }
-        return ans;
+        return res;
     }
 }
