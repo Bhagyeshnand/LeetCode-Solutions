@@ -754,6 +754,7 @@ My Personal Leetcode Notebook !
 | [1002-maximum-width-ramp](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1039-find-the-town-judge](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
+| [1041-available-captures-for-rook](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1041-available-captures-for-rook) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
@@ -1350,6 +1351,7 @@ My Personal Leetcode Notebook !
 | [0592-fraction-addition-and-subtraction](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0735-asteroid-collision](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0906-walking-robot-simulation](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
+| [1041-available-captures-for-rook](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1041-available-captures-for-rook) |
 | [1642-water-bottles](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1803-average-waiting-time](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1803-average-waiting-time) |
@@ -1397,6 +1399,7 @@ My Personal Leetcode Notebook !
 | [0854-making-a-large-island](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [0999-regions-cut-by-slashes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
+| [1041-available-captures-for-rook](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1041-available-captures-for-rook) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1396-count-servers-that-communicate](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
