@@ -394,6 +394,7 @@ My Personal Leetcode Notebook !
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2089-maximum-matrix-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
@@ -1139,6 +1140,7 @@ My Personal Leetcode Notebook !
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2107-find-unique-binary-string) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -1794,6 +1796,7 @@ My Personal Leetcode Notebook !
 | [1786-count-the-number-of-consistent-strings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -1863,6 +1866,7 @@ My Personal Leetcode Notebook !
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2107-find-unique-binary-string) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -1978,6 +1982,7 @@ My Personal Leetcode Notebook !
 | ------- |
 | [1656-count-good-triplets](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2266-minimum-cost-to-set-cooking-time](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2266-minimum-cost-to-set-cooking-time) |
