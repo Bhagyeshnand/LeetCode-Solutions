@@ -1,64 +1,67 @@
 class Solution {
- class TrieNode {
-        TrieNode nums[] = new TrieNode[2];
-        int prefixValue;
-    }
-
     public int[] maximizeXor(int[] nums, int[][] queries) {
-        int queriesLength = queries.length;
-        int[] ans = new int[queriesLength];
-        int[][] temp = new int[queriesLength][3];
-        for (int i = 0; i < queriesLength; i++) {
-            temp[i][0] = queries[i][0];
-            temp[i][1] = queries[i][1];
-            temp[i][2] = i;
-        }
-
-        Arrays.sort(temp, (a, b) -> {
-            return a[1] - b[1];
-        });
-        int index = 0;
-        Arrays.sort(nums);
-        TrieNode root = new TrieNode();
-
-        for (int query[] : temp) {
-            while (index < nums.length && nums[index] <= query[1]) {
-                insert(root, nums[index]);
-                index++;
+        final int mask = (1 << 16) - 1;
+        int[] tmpNums = new int[nums.length];
+        int[] hist = new int[mask + 1];
+        for (int shift = 0; shift < 32; shift += 16) {
+            Arrays.fill(hist, 0);
+            for (var val : nums) {
+                hist[(val >>> shift) & mask]++;
             }
-            int tempAns = -1;
-            if (index != 0) {
-                tempAns = search(root, query[0]);
+            int sum = 0;
+            for (int i = 0; i < hist.length; ++i) {
+                var tmp = hist[i];
+                hist[i] = sum;
+                sum += tmp;
             }
-            ans[query[2]] = tempAns;
+            for (var val : nums) {
+                tmpNums[hist[(val >>> shift) & mask]++] = val;
+            }
+            var tmp = tmpNums;
+            tmpNums = nums;
+            nums = tmp;
         }
-
+        int[][] zero = new int[32][nums.length];
+        for (int j = 0; j < 32; ++j) {
+            final int prefMask = ~((2 << j) - 1);
+            int prevPref = nums[0] & prefMask;
+            int prevIdx = 0;
+            for (int i = 1; i < nums.length; ++i) {
+                if ((nums[i] & (1 << j)) == 0) {
+                    prevPref = nums[i] & prefMask;
+                    prevIdx = i;
+                }
+                if ((nums[i] & prefMask) == prevPref && (nums[prevIdx] & (1 << j)) == 0) {
+                    zero[j][i] = prevIdx;
+                } else {
+                    zero[j][i] = i;
+                }
+            }
+        }
+        int[] ans = new int[queries.length];
+        for (int i = 0; i < queries.length; ++i) {
+            int begin = 0;
+            int end = nums.length;
+            while (begin < end) {
+                int mid = begin + (end - begin) / 2;
+                if (nums[mid] <= queries[i][1]) {
+                    begin = mid + 1;
+                } else {
+                    end = mid;
+                }
+            }
+            int idx = begin - 1;
+            if (idx < 0) {
+                ans[i] = -1;
+                continue;
+            }
+            for (int j = 31; j >= 0; --j) {
+                if ((queries[i][0] & (1 << j)) != 0) {
+                    idx = zero[j][idx];
+                }
+            }
+            ans[i] = nums[idx] ^ queries[i][0];
+        }
         return ans;
-    }
-
-    public void insert(TrieNode root, int n) {
-        TrieNode node = root;
-        for (int i = 31; i >= 0; i--) {
-            int bit = (n >> i) & 1;
-            if (node.nums[bit] == null) {
-                node.nums[bit] = new TrieNode();
-            }
-            node = node.nums[bit];
-        }
-        node.prefixValue = n;
-    }
-
-    public int search(TrieNode root, int n) {
-        TrieNode node = root;
-        for (int i = 31; i >= 0; i--) {
-            int bit = (n >> i) & 1;
-            int requiredBit = bit == 1 ? 0 : 1;
-            if (node.nums[requiredBit] != null) {
-                node = node.nums[requiredBit];
-            } else {
-                node = node.nums[bit];
-            }
-        }
-        return node.prefixValue ^ n;
     }
 }
