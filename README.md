@@ -902,6 +902,7 @@ My Personal Leetcode Notebook !
 | [2691-count-vowel-strings-in-ranges](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2703-handling-sum-queries-after-update](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2703-handling-sum-queries-after-update) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
@@ -2058,6 +2059,7 @@ My Personal Leetcode Notebook !
 | [0729-my-calendar-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
+| [2703-handling-sum-queries-after-update](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2703-handling-sum-queries-after-update) |
 | [3840-find-x-value-of-array-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3840-find-x-value-of-array-ii) |
 ## Ordered Set
 |  |
