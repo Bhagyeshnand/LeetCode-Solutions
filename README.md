@@ -460,6 +460,7 @@ My Personal Leetcode Notebook !
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3578-construct-2d-grid-matching-graph-layout](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3578-construct-2d-grid-matching-graph-layout) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3863-power-grid-maintenance](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Sorting
 |  |
 | ------- |
@@ -571,6 +572,7 @@ My Personal Leetcode Notebook !
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3863-power-grid-maintenance](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -627,6 +629,7 @@ My Personal Leetcode Notebook !
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -680,6 +683,7 @@ My Personal Leetcode Notebook !
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
 | ------- |
@@ -970,6 +974,7 @@ My Personal Leetcode Notebook !
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3778-transform-array-by-parity](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3778-transform-array-by-parity) |
 | [3840-find-x-value-of-array-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3840-find-x-value-of-array-ii) |
+| [3863-power-grid-maintenance](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
 |  |
 | ------- |
@@ -1081,6 +1086,7 @@ My Personal Leetcode Notebook !
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3863-power-grid-maintenance](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -1266,6 +1272,7 @@ My Personal Leetcode Notebook !
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3863-power-grid-maintenance](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Two Pointers
 |  |
 | ------- |
@@ -2100,6 +2107,7 @@ My Personal Leetcode Notebook !
 | [2434-design-a-number-container-system](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2868-continuous-subarrays) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3863-power-grid-maintenance](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Doubly-Linked List
 |  |
 | ------- |
