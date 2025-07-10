@@ -423,6 +423,7 @@ My Personal Leetcode Notebook !
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3647-zero-array-transformation-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3647-zero-array-transformation-iii) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Graph
 |  |
@@ -969,6 +970,7 @@ My Personal Leetcode Notebook !
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -2049,6 +2051,7 @@ My Personal Leetcode Notebook !
 | [2266-minimum-cost-to-set-cooking-time](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2266-minimum-cost-to-set-cooking-time) |
 | [2998-count-symmetric-integers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Memoization
 |  |
