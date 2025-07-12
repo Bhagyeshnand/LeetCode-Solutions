@@ -1177,6 +1177,7 @@ My Personal Leetcode Notebook !
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
+| [2008-minimum-cost-to-change-the-final-value-of-expression](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2008-minimum-cost-to-change-the-final-value-of-expression) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -1541,6 +1542,7 @@ My Personal Leetcode Notebook !
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2008-minimum-cost-to-change-the-final-value-of-expression](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2008-minimum-cost-to-change-the-final-value-of-expression) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -1711,6 +1713,7 @@ My Personal Leetcode Notebook !
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2008-minimum-cost-to-change-the-final-value-of-expression](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2008-minimum-cost-to-change-the-final-value-of-expression) |
 | [2050-count-good-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -1797,6 +1800,7 @@ My Personal Leetcode Notebook !
 | [1720-crawler-log-folder](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2008-minimum-cost-to-change-the-final-value-of-expression](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2008-minimum-cost-to-change-the-final-value-of-expression) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
