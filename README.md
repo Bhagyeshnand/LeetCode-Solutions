@@ -1397,6 +1397,7 @@ My Personal Leetcode Notebook !
 | [0432-all-oone-data-structure](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0859-design-circular-deque) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1484-linked-list-in-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -1710,6 +1711,7 @@ My Personal Leetcode Notebook !
 | [0910-nth-magical-number](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0910-nth-magical-number) |
 | [1183-statistics-from-a-large-sample](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1183-statistics-from-a-large-sample) |
 | [1240-stone-game-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1500-count-largest-group](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1500-count-largest-group) |
