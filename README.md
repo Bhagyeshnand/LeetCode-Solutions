@@ -789,6 +789,7 @@ My Personal Leetcode Notebook !
 | [1183-statistics-from-a-large-sample](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1183-statistics-from-a-large-sample) |
 | [1196-filling-bookcase-shelves](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1239-largest-1-bordered-square](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1239-largest-1-bordered-square) |
 | [1240-stone-game-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
@@ -1468,6 +1469,7 @@ My Personal Leetcode Notebook !
 | [0999-regions-cut-by-slashes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1041-available-captures-for-rook](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1041-available-captures-for-rook) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1239-largest-1-bordered-square](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1239-largest-1-bordered-square) |
 | [1396-count-servers-that-communicate](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -1537,6 +1539,7 @@ My Personal Leetcode Notebook !
 | [1105-uncrossed-lines](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1105-uncrossed-lines) |
 | [1170-shortest-common-supersequence](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1196-filling-bookcase-shelves) |
+| [1239-largest-1-bordered-square](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1239-largest-1-bordered-square) |
 | [1240-stone-game-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
