@@ -1,24 +1,17 @@
 class Solution {
     public int maximumLength(int[] nums) {
-        int oddCnt = 0, evenCnt = 0, cnt = 0;
-        boolean flag = nums[0] % 2 == 1;
+        int[] count = new int[2]; 
+        int[] end = new int[2];   
 
         for (int num : nums) {
-            if (num % 2 == 1) {
-                if (flag) {
-                    flag = !flag;
-                    cnt++;
-                }
-                oddCnt++;
-            } else {
-                if (!flag) {
-                    flag = !flag;
-                    cnt++;
-                }
-                evenCnt++;
-            }
+            int parity = num % 2;
+            count[parity]++;
+            end[parity] = end[1 - parity] + 1;
         }
 
-        return Math.max(cnt, Math.max(oddCnt, evenCnt));
+        return Math.max(
+            Math.max(count[0], count[1]),
+            Math.max(end[0], end[1])
+        );
     }
 }
