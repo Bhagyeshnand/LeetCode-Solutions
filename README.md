@@ -420,6 +420,7 @@ My Personal Leetcode Notebook !
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3334-apple-redistribution-into-boxes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3334-apple-redistribution-into-boxes) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -531,6 +532,7 @@ My Personal Leetcode Notebook !
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
+| [3334-apple-redistribution-into-boxes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3334-apple-redistribution-into-boxes) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3430-count-days-without-meetings) |
@@ -963,6 +965,7 @@ My Personal Leetcode Notebook !
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3334-apple-redistribution-into-boxes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3334-apple-redistribution-into-boxes) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
