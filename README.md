@@ -634,6 +634,7 @@ My Personal Leetcode Notebook !
 | [2201-valid-arrangement-of-pairs](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -897,6 +898,7 @@ My Personal Leetcode Notebook !
 | [2358-number-of-ways-to-split-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2411-spiral-matrix-iv](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2448-count-number-of-bad-pairs](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2465-shifting-letters-ii) |
@@ -1657,6 +1659,7 @@ My Personal Leetcode Notebook !
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -2041,6 +2044,7 @@ My Personal Leetcode Notebook !
 | [2308-divide-array-into-equal-pairs](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2478-longest-nice-subarray](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2509-minimize-xor) |
