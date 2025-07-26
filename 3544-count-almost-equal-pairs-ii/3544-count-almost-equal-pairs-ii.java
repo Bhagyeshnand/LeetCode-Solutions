@@ -1,54 +1,49 @@
 class Solution {
+    static final int[] pow = {1, 10, 100, 1000, 10000, 100000, 1000000};
     public int countPairs(int[] nums) {
-        int n = nums.length;
-        int result = 0;
-        for (int i = 0; i < n; i++) {
-            for (int j = i+1; j < n; j++) {
-                result += almostEqual(nums[i], nums[j]) ? 1 : 0;
-            }
-        }
-        return result;
-    }
+        
+        Arrays.sort(nums);
+        int ans = 0;
+        Map<Integer, Integer> count = new HashMap<>(nums.length << 3);
+        int[] digits = new int[7];
 
-    private boolean almostEqual(int a, int b) {
-        int found = 0;
-        // first 4 different digits for a and b
-        int[] ad = new int[4];
-        int[] bd = new int[4];
-        while (a > 0 || b > 0) {
-            if (a%10 != b%10) {
-                ad[found] = a%10;
-                bd[found] = b%10;
-                found++;
-            }
-            a /= 10;
-            b /= 10;
-            if (found == 4) {
-                break;
-            } 
-        }
-
-        if (found <= 1) {
-            return found == 0;
-        }
-        if (found == 2 || found == 3) {
-            Arrays.sort(ad);
-            Arrays.sort(bd);
-            return a == b && Arrays.equals(ad, bd);
-        }
-        // found == 4
-        // need to get a matching pair first with the same indices,
-        // then all digits should match in any order
-        for (int i = 0; i < 3; i++) {
-            for (int j = i+1; j < 4; j++) {
-                if (ad[i] == bd[j] && ad[j] == bd[i]) {
-                    Arrays.sort(ad);
-                    Arrays.sort(bd);
-                    // a == b -> check if the rest digits are equal, found 5+ case
-                    return a == b && Arrays.equals(ad, bd);
+        for (int x : nums) {
+            Set<Integer> set = new HashSet<>();
+            set.add(x); // 不交换
+            ans += count.getOrDefault(x, 0);
+            int m = 0;
+            for (int v = x; v > 0; v /= 10) 
+                digits[m++] = v % 10;
+            
+            for (int i = 0; i < m; i++) {
+                for (int j = i + 1; j < m; j++) {
+                    if (digits[i] == digits[j])  // 小优化
+                        continue;
+                    
+                    int y = x + (digits[j] - digits[i]) * (pow[i] - pow[j]);
+                    if (set.add(y)) 
+                        ans += count.getOrDefault(y, 0); // 交换一次
+                    
+                    swap(digits, i, j);
+                    for (int p = i + 1; p < m; p++) {
+                        for (int q = p + 1; q < m; q++) {
+                            int z = y + (digits[q] - digits[p]) * (pow[p] - pow[q]);
+                            if (set.add(z)) 
+                                ans += count.getOrDefault(z, 0); // 交换两次
+                        }
+                    }
+                    swap(digits, i, j);
                 }
             }
+
+            count.merge(x, 1, Integer::sum);
         }
-        return false;
+        return ans;
+    }
+
+    void swap(int[] nums, int i, int j) {
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;        
     }
 }
