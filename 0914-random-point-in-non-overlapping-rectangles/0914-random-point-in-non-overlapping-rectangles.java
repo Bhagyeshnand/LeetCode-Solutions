@@ -1,38 +1,47 @@
 class Solution {
-    
-    Random random;
-    TreeMap<Integer,int[]> map;
-    int areaSum = 0;
-    
+    int[][] rects;
+    int[] sum;
+    int tot = 0;
+    Random random = new Random();
+
     public Solution(int[][] rects) {
-        this.random = new Random();
-        this.map = new TreeMap<>();
-        
-        for(int i = 0; i < rects.length; i++){
-            int [] rectangeCoordinates = rects[i];
-            int length = rectangeCoordinates[2] - rectangeCoordinates[0] + 1 ; // +1 as we need to consider edges also.
-            int breadth = rectangeCoordinates[3] - rectangeCoordinates[1] + 1 ;
-            
-            areaSum += length * breadth;
-            
-            map.put(areaSum,rectangeCoordinates);
-            
+        this.rects = rects;
+        sum = new int[rects.length];
+        int i = 0;
+        for (int[] x : rects) {
+            tot += (x[2] - x[0] + 1) * (x[3] - x[1] + 1);
+            sum[i++] = tot;
         }
-        
     }
     
     public int[] pick() {
-        int key = map.ceilingKey(random.nextInt(areaSum) + 1); //Don't forget to +1 here, because we need [1,area] while nextInt generates [0,area-1]
+        // find a random num < n
+        int rand = random.nextInt(tot);
+
+        // find which rec the point is in
+        // binary search
+        int l = 0, r = rects.length - 1;
+        while (l != r) {
+            int mid = (l + r) / 2;
+            if (rand >= sum[mid]) {
+                l = mid + 1;
+            } else {
+                r = mid;
+            }
+        }
         
-        int [] rectangle = map.get(key);
-        
-        int length = rectangle[2] - rectangle[0] + 1 ; // +1 as we need to consider edges also.
-        int breadth = rectangle[3] - rectangle[1] + 1 ;
-        
-        int x = rectangle[0] + random.nextInt(length); //return random length from starting position of x
-        int y = rectangle[1] + random.nextInt(breadth); // return random breadth from starting position of y
-        
-        return new int[]{x,y};
-        
+        // return x, y
+        int[] x = rects[l];
+        int width = (x[2] - x[0] + 1);
+        int height = (x[3] - x[1] + 1);
+        int base = sum[l] - (width * height);
+
+        return new int[]{(x[0] + (rand - base) % width), (x[1] + (rand - base) / width)};
     }
 }
+
+/**
+ * Your Solution object will be instantiated and called as such:
+ * Solution obj = new Solution(rects);
+ * int[] param_1 = obj.pick();
+ */
