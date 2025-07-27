@@ -780,6 +780,7 @@ My Personal Leetcode Notebook !
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0945-snakes-and-ladders](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0948-sort-an-array) |
@@ -1385,6 +1386,7 @@ My Personal Leetcode Notebook !
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0910-nth-magical-number](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0910-nth-magical-number) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -1753,6 +1755,7 @@ My Personal Leetcode Notebook !
 | [0670-maximum-swap](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0910-nth-magical-number](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0910-nth-magical-number) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1183-statistics-from-a-large-sample](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1183-statistics-from-a-large-sample) |
 | [1240-stone-game-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -2005,6 +2008,7 @@ My Personal Leetcode Notebook !
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1240-stone-game-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1281-can-make-palindrome-from-substring) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
@@ -2186,6 +2190,7 @@ My Personal Leetcode Notebook !
 | [0220-contains-duplicate-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0729-my-calendar-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2413-smallest-number-in-infinite-set) |
@@ -2252,4 +2257,12 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [1183-statistics-from-a-large-sample](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1183-statistics-from-a-large-sample) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+## Randomized
+|  |
+| ------- |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 <!---LeetCode Topics End-->
