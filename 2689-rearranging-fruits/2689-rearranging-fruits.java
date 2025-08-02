@@ -1,37 +1,53 @@
-import java.util.*;
-
 class Solution {
     public long minCost(int[] basket1, int[] basket2) {
-        Map<Integer, Integer> totalCounts = new HashMap<>();
-        for (int fruit : basket1) totalCounts.put(fruit, totalCounts.getOrDefault(fruit, 0) + 1);
-        for (int fruit : basket2) totalCounts.put(fruit, totalCounts.getOrDefault(fruit, 0) + 1);
-
-        long minVal = Long.MAX_VALUE;
-        for (Map.Entry<Integer, Integer> entry : totalCounts.entrySet()) {
-            if (entry.getValue() % 2 != 0) return -1;
-            minVal = Math.min(minVal, entry.getKey());
+        List<int[]> counter = new ArrayList<>();
+        Arrays.sort(basket1);
+        Arrays.sort(basket2);
+        int p1 = 0, p2 = 0;
+        
+        int totalToSwap = 0;
+        while(p1<basket1.length||p2<basket2.length){
+            if(p1<basket1.length&&p2<basket2.length&&basket1[p1]==basket2[p2]){
+                p1++;
+                p2++;
+                continue;
+            }
+            int curVal = 0;
+            int curCount = 0;
+            if((p1<basket1.length&&p2<basket2.length&&basket1[p1]<basket2[p2])||p2>=basket2.length){
+                curVal = basket1[p1];
+                while(p1<basket1.length&&basket1[p1]==curVal){
+                    curCount++;
+                    p1++;
+                }
+            }
+            else{
+                curVal = basket2[p2];
+                while(p2<basket2.length&&basket2[p2]==curVal){
+                    curCount++;
+                    p2++;
+                }
+            }
+            if(curCount%2!=0) return -1;
+            totalToSwap += curCount/2;
+            counter.add(new int[]{curVal,curCount/2});
         }
-
-        List<Long> fruits_to_swap = new ArrayList<>();
-        Map<Integer, Integer> count1 = new HashMap<>();
-        for (int fruit : basket1) count1.put(fruit, count1.getOrDefault(fruit, 0) + 1);
-
-        for (Map.Entry<Integer, Integer> entry : totalCounts.entrySet()) {
-            int fruit = entry.getKey();
-            int diff = count1.getOrDefault(fruit, 0) - (entry.getValue() / 2);
-            for (int i = 0; i < Math.abs(diff); i++) {
-                fruits_to_swap.add((long)fruit);
+        long ans = 0;
+        int swaped = 0;
+        int minEle = Math.min(basket1[0],basket2[0]);
+        int i = 0;
+        int acc = 0;
+        while(i<counter.size()){
+            int[] pair = counter.get(i);
+            ans+=Math.min(minEle*2,pair[0]);
+            swaped+=2;
+            if(swaped==totalToSwap) break;
+            acc++;
+            if(acc==pair[1]){
+                acc = 0;
+                i++;
             }
         }
-        
-        Collections.sort(fruits_to_swap);
-
-        long totalCost = 0;
-        int swapsToMake = fruits_to_swap.size() / 2;
-        for (int i = 0; i < swapsToMake; i++) {
-            totalCost += Math.min(fruits_to_swap.get(i), 2 * minVal);
-        }
-        
-        return totalCost;
+        return ans;
     }
 }
