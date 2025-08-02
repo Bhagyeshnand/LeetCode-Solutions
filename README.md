@@ -410,6 +410,7 @@ My Personal Leetcode Notebook !
 | [2636-maximum-subsequence-score](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -520,6 +521,7 @@ My Personal Leetcode Notebook !
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2681-put-marbles-in-bags](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2846-robot-collisions](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2846-robot-collisions) |
@@ -937,6 +939,7 @@ My Personal Leetcode Notebook !
 | [2681-put-marbles-in-bags](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
+| [2689-rearranging-fruits](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2689-rearranging-fruits) |
 | [2690-house-robber-iv](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -1102,6 +1105,7 @@ My Personal Leetcode Notebook !
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
+| [2689-rearranging-fruits](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2755-extra-characters-in-a-string) |
