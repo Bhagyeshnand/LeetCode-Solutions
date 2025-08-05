@@ -992,6 +992,7 @@ My Personal Leetcode Notebook !
 | [3429-special-array-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -1128,6 +1129,7 @@ My Personal Leetcode Notebook !
 | [3408-count-the-number-of-special-characters-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3544-count-almost-equal-pairs-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3544-count-almost-equal-pairs-ii) |
@@ -1628,6 +1630,7 @@ My Personal Leetcode Notebook !
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3618-find-the-original-typed-string-ii) |
