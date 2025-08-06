@@ -1019,6 +1019,7 @@ My Personal Leetcode Notebook !
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 | [3840-find-x-value-of-array-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3840-find-x-value-of-array-ii) |
 | [3863-power-grid-maintenance](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
@@ -1433,6 +1434,7 @@ My Personal Leetcode Notebook !
 | [3427-special-array-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -2212,6 +2214,7 @@ My Personal Leetcode Notebook !
 | [2703-handling-sum-queries-after-update](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2703-handling-sum-queries-after-update) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 | [3840-find-x-value-of-array-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3840-find-x-value-of-array-ii) |
 ## Ordered Set
 |  |
@@ -2227,6 +2230,7 @@ My Personal Leetcode Notebook !
 | [2868-continuous-subarrays](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2868-continuous-subarrays) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 | [3863-power-grid-maintenance](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Doubly-Linked List
 |  |
