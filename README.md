@@ -844,6 +844,7 @@ My Personal Leetcode Notebook !
 | [1720-crawler-log-folder](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1751-slowest-key](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1751-slowest-key) |
 | [1755-defuse-the-bomb](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -1215,6 +1216,7 @@ My Personal Leetcode Notebook !
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1720-crawler-log-folder](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1751-slowest-key](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1751-slowest-key) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
