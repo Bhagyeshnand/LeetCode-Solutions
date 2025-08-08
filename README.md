@@ -1597,6 +1597,7 @@ My Personal Leetcode Notebook !
 | [0747-min-cost-climbing-stairs](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0806-domino-and-tromino-tiling) |
+| [0826-soup-servings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0868-push-dominoes) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1025-minimum-cost-for-tickets](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
@@ -1786,6 +1787,7 @@ My Personal Leetcode Notebook !
 | [0650-2-keys-keyboard](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
+| [0826-soup-servings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0826-soup-servings) |
 | [0910-nth-magical-number](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0910-nth-magical-number) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1183-statistics-from-a-large-sample](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1183-statistics-from-a-large-sample) |
@@ -2295,6 +2297,7 @@ My Personal Leetcode Notebook !
 ## Probability and Statistics
 |  |
 | ------- |
+| [0826-soup-servings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0826-soup-servings) |
 | [1183-statistics-from-a-large-sample](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1183-statistics-from-a-large-sample) |
 ## Reservoir Sampling
 |  |
