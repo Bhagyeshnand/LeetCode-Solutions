@@ -1777,6 +1777,7 @@ My Personal Leetcode Notebook !
 | [0166-fraction-to-recurring-decimal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0231-power-of-two](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
@@ -1844,6 +1845,7 @@ My Personal Leetcode Notebook !
 | [0010-regular-expression-matching](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0231-power-of-two](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0394-decode-string) |
@@ -2082,6 +2084,7 @@ My Personal Leetcode Notebook !
 | [0029-divide-two-integers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0222-count-complete-tree-nodes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0476-number-complement) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1281-can-make-palindrome-from-substring) |
