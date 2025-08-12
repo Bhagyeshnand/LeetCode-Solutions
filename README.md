@@ -1637,6 +1637,7 @@ My Personal Leetcode Notebook !
 | [2755-extra-characters-in-a-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2921-count-stepping-numbers-in-range](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2921-count-stepping-numbers-in-range) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
