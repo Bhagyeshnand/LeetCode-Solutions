@@ -1787,6 +1787,7 @@ My Personal Leetcode Notebook !
 | [0264-ugly-number-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
+| [0326-power-of-three](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0564-find-the-closest-palindrome) |
@@ -1853,6 +1854,7 @@ My Personal Leetcode Notebook !
 | [0231-power-of-two](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
