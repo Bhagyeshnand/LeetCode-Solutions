@@ -1082,6 +1082,7 @@ My Personal Leetcode Notebook !
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1611-making-file-names-unique](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1611-making-file-names-unique) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -1217,6 +1218,7 @@ My Personal Leetcode Notebook !
 | [1542-consecutive-characters](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1542-consecutive-characters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1611-making-file-names-unique](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1611-making-file-names-unique) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1720-crawler-log-folder](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
@@ -1617,6 +1619,7 @@ My Personal Leetcode Notebook !
 | [1511-count-number-of-teams](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1511-count-number-of-teams) |
 | [1545-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1545-form-largest-integer-with-digits-that-add-up-to-target) |
 | [1583-paint-house-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1583-paint-house-iii) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -2101,6 +2104,7 @@ My Personal Leetcode Notebook !
 | [1435-xor-queries-of-a-subarray](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
