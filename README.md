@@ -385,6 +385,7 @@ My Personal Leetcode Notebook !
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1304-longest-happy-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
+| [1448-maximum-69-number](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -1809,6 +1810,7 @@ My Personal Leetcode Notebook !
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1448-maximum-69-number](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1500-count-largest-group) |
 | [1642-water-bottles](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
