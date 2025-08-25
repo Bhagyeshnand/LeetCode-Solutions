@@ -761,6 +761,7 @@ My Personal Leetcode Notebook !
 | [0407-trapping-rain-water-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -1491,6 +1492,7 @@ My Personal Leetcode Notebook !
 | [0054-spiral-matrix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0289-game-of-life) |
+| [0498-diagonal-traverse](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0735-asteroid-collision](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0906-walking-robot-simulation](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
@@ -1541,6 +1543,7 @@ My Personal Leetcode Notebook !
 | [0289-game-of-life](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0772-construct-quad-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0772-construct-quad-tree) |
 | [0787-sliding-puzzle](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
