@@ -533,6 +533,7 @@ My Personal Leetcode Notebook !
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -990,6 +991,7 @@ My Personal Leetcode Notebook !
 | [3227-find-missing-and-repeated-values](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -1862,6 +1864,7 @@ My Personal Leetcode Notebook !
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3321-type-of-triangle](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -2223,6 +2226,7 @@ My Personal Leetcode Notebook !
 | [2202-sum-of-k-mirror-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2266-minimum-cost-to-set-cooking-time](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2266-minimum-cost-to-set-cooking-time) |
 | [2998-count-symmetric-integers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2998-count-symmetric-integers) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3544-count-almost-equal-pairs-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3544-count-almost-equal-pairs-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -2347,6 +2351,7 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Bitmask
 |  |
 | ------- |
