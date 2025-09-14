@@ -798,6 +798,7 @@ My Personal Leetcode Notebook !
 | [0954-maximum-sum-circular-subarray](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0999-regions-cut-by-slashes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1002-maximum-width-ramp) |
+| [1006-vowel-spellchecker](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1025-minimum-cost-for-tickets](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1039-find-the-town-judge](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
 | [1041-available-captures-for-rook](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1041-available-captures-for-rook) |
@@ -1077,6 +1078,7 @@ My Personal Leetcode Notebook !
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0999-regions-cut-by-slashes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
+| [1006-vowel-spellchecker](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1039-find-the-town-judge](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
@@ -1216,6 +1218,7 @@ My Personal Leetcode Notebook !
 | [0868-push-dominoes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1006-vowel-spellchecker](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
