@@ -1,41 +1,51 @@
 class Solution {
     public String[] spellchecker(String[] wordlist, String[] queries) {
-        Set<String> exact = new HashSet<>(Arrays.asList(wordlist));
-        Map<String, String> caseMap = new HashMap<>();
-        Map<String, String> vowelMap = new HashMap<>();
-
-        for (String w : wordlist) {
-            String lower = toLower(w);
-            String devowel = deVowel(lower);
-            caseMap.putIfAbsent(lower, w);
-            vowelMap.putIfAbsent(devowel, w);
-        }
-        String[] result = new String[queries.length];
-        for (int i = 0; i < queries.length; i++) {
-            String q = queries[i];
-            if (exact.contains(q)) {
-                result[i] = q;
-            } else {
-                String lower = toLower(q);
-                String devowel = deVowel(lower);
-                if (caseMap.containsKey(lower)) result[i] = caseMap.get(lower);
-                else if (vowelMap.containsKey(devowel)) result[i] = vowelMap.get(devowel);
-                else result[i] = "";
+        int m = wordlist.length, n = queries.length;
+        String[] res = new String[n];
+        Map<String, Integer> caseSense = new HashMap<>();
+        Map<String, Integer> caseInsense = new HashMap<>();
+        Map<String, Integer> vowelErrors = new HashMap<>();
+        for (int i = m - 1; i >= 0; i--) {
+            String word = wordlist[i];
+            caseSense.put(word, i);
+            String lowerCase = word.toLowerCase();
+            char[] vowelRepArr = lowerCase.toCharArray();
+            for (int j = 0; j < vowelRepArr.length; j++) {
+                if (vowelRepArr[j] == 'e' || vowelRepArr[j] == 'i' || vowelRepArr[j] == 'o' || vowelRepArr[j] == 'u') {
+                    vowelRepArr[j] = 'a';
+                }
             }
+            caseInsense.put(lowerCase, i);
+            vowelErrors.put(new String(vowelRepArr), i);
         }
-        return result;
-    }
-    private String toLower(String s) {
-        return s.toLowerCase();
-    }
-    private String deVowel(String s) {
-        char[] ch = s.toCharArray();
-        for (int i = 0; i < ch.length; i++) {
-            if (isVowel(ch[i])) ch[i] = '*';
+        for (int i = 0; i < n; i++) {
+            String word = queries[i];
+            if (caseSense.containsKey(word)) {
+                res[i] = word;
+                continue;
+            }
+
+            String lowerCase = word.toLowerCase();
+            if (caseInsense.containsKey(lowerCase)) {
+                res[i] = wordlist[caseInsense.get(lowerCase)];
+                continue;
+            }
+
+            char[] vowelRepArr = lowerCase.toCharArray();
+            for (int j = 0; j < vowelRepArr.length; j++) {
+                if (vowelRepArr[j] == 'e' || vowelRepArr[j] == 'i' || vowelRepArr[j] == 'o' || vowelRepArr[j] == 'u') {
+                    vowelRepArr[j] = 'a';
+                }
+            }
+            String vowelRepStr = new String(vowelRepArr);
+            if (vowelErrors.containsKey(vowelRepStr)) {
+                res[i] = wordlist[vowelErrors.get(vowelRepStr)];
+                continue;
+            }
+            res[i] = "";
         }
-        return new String(ch);
-    }
-    private boolean isVowel(char c) {
-        return "aeiou".indexOf(Character.toLowerCase(c)) >= 0;
+
+        return res;
+
     }
 }
