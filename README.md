@@ -1047,6 +1047,7 @@ My Personal Leetcode Notebook !
 | [3791-fruits-into-baskets-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3840-find-x-value-of-array-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3840-find-x-value-of-array-ii) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
 |  |
@@ -1697,6 +1698,7 @@ My Personal Leetcode Notebook !
 | [3637-count-number-of-balanced-permutations](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1899,6 +1901,7 @@ My Personal Leetcode Notebook !
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3840-find-x-value-of-array-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3840-find-x-value-of-array-ii) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Recursion
 |  |
 | ------- |
@@ -2196,6 +2199,7 @@ My Personal Leetcode Notebook !
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Number Theory
 |  |
 | ------- |
@@ -2367,6 +2371,7 @@ My Personal Leetcode Notebook !
 | [3637-count-number-of-balanced-permutations](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Quickselect
 |  |
 | ------- |
@@ -2384,6 +2389,7 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Probability and Statistics
 |  |
 | ------- |
