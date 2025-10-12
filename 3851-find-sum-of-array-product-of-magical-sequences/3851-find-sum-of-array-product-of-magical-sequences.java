@@ -1,64 +1,76 @@
+// https://www.youtube.com/@0x3f
 class Solution {
+    private static final int MOD = 1_000_000_007;
+    private static final int MX = 31;
+
+    private static final long[] F = new long[MX]; // F[i] = i!
+    private static final long[] INV_F = new long[MX]; // INV_F[i] = i!^-1
+
+    static {
+        F[0] = 1;
+        for (int i = 1; i < MX; i++) {
+            F[i] = F[i - 1] * i % MOD;
+        }
+
+        INV_F[MX - 1] = pow(F[MX - 1], MOD - 2);
+        for (int i = MX - 1; i > 0; i--) {
+            INV_F[i - 1] = INV_F[i] * i % MOD;
+        }
+    }
+
+    private static long pow(long x, int n) {
+        long res = 1;
+        for (; n > 0; n /= 2) {
+            if (n % 2 > 0) {
+                res = res * x % MOD;
+            }
+            x = x * x % MOD;
+        }
+        return res;
+    }
+
     public int magicalSum(int m, int k, int[] nums) {
-        int MOD = (int) (1e9 + 7);
         int n = nums.length;
-
-        int[][] C = new int[m + 1][m + 1];
-        for (int i = 0; i <= m; i++) {
-            C[i][0] = C[i][i] = 1;
-            for (int j = 1; j < i; j++) {
-                C[i][j] = (C[i-1][j-1] + C[i-1][j]) % MOD;
-            }
-        }
-
-        int[][] pow = new int[n][m + 1];
+        int[][] powV = new int[n][m + 1];
         for (int i = 0; i < n; i++) {
-            pow[i][0] = 1;
-            for (int cnt = 1; cnt <= m; cnt++) {
-                pow[i][cnt] = (int)((long)pow[i][cnt-1] * nums[i] % MOD);
+            powV[i][0] = 1;
+            for (int j = 1; j <= m; j++) {
+                powV[i][j] = (int) ((long) powV[i][j - 1] * nums[i] % MOD);
             }
         }
 
-        int[][][][] dp = new int[n + 1][k + 1][m + 1][m + 1];
-        dp[0][0][0][0] = 1;
-
-        for (int pos = 0; pos < n; pos++) {
-            for (int bits = 0; bits <= k; bits++) {
-                for (int carry = 0; carry <= m; carry++) {
-                    for (int chosen = 0; chosen <= m; chosen++) {
-                        if (dp[pos][bits][carry][chosen] == 0) continue;
-                        
-                        int remaining = m - chosen;
-                        for (int cnt = 0; cnt <= remaining; cnt++) {
-                            int total = carry + cnt;
-                            int new_bits = bits + (total & 1);
-                            int new_carry = total >> 1;
-                            
-                            if (new_bits <= k && new_carry <= m) {
-                                long add = (long)dp[pos][bits][carry][chosen] 
-                                    * C[remaining][cnt] % MOD 
-                                    * pow[pos][cnt] % MOD;
-                                
-                                dp[pos+1][new_bits][new_carry][chosen+cnt] = 
-                                    (dp[pos+1][new_bits][new_carry][chosen+cnt] + (int)add) % MOD;
-                            }
-                        }
-                    }
+        int[][][][] memo = new int[n][m + 1][m / 2 + 1][k + 1];
+        for (int[][][] a : memo) {
+            for (int[][] b : a) {
+                for (int[] c : b) {
+                    Arrays.fill(c, -1);
                 }
             }
         }
+        return (int) (dfs(0, m, 0, k, powV, memo) * F[m] % MOD);
+    }
 
-
-        int res = 0;
-        for (int carry = 0; carry <= m; carry++) {
-            int final_bits = k;
-
-            int carry_bits = Integer.bitCount(carry);
-            if (carry_bits <= k) {
-                res = (res + dp[n][k - carry_bits][carry][m]) % MOD;
+    private long dfs(int i, int leftM, int x, int leftK, int[][] powV, int[][][][] memo) {
+        int c1 = Integer.bitCount(x);
+        if (c1 + leftM < leftK) { // 可行性剪枝
+            return 0;
+        }
+        if (i == powV.length) {
+            return leftM == 0 && c1 == leftK ? 1 : 0;
+        }
+        if (memo[i][leftM][x][leftK] != -1) {
+            return memo[i][leftM][x][leftK];
+        }
+        long res = 0;
+        for (int j = 0; j <= leftM; j++) { // 枚举 I 中有 j 个下标 i
+            // 这 j 个下标 i 对 S 的贡献是 j * pow(2, i)
+            // 由于 x = S >> i，转化成对 x 的贡献是 j
+            int bit = (x + j) & 1; // 取最低位，提前从 leftK 中减去，其余进位到 x 中
+            if (bit <= leftK) {
+                long r = dfs(i + 1, leftM - j, (x + j) >> 1, leftK - bit, powV, memo);
+                res = (res + r * powV[i][j] % MOD * INV_F[j]) % MOD;
             }
         }
-
-        return res;
+        return memo[i][leftM][x][leftK] = (int) res;
     }
 }
