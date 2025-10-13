@@ -499,6 +499,7 @@ My Personal Leetcode Notebook !
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1256-rank-transform-of-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -824,6 +825,7 @@ My Personal Leetcode Notebook !
 | [1333-sort-the-jumbled-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -1096,6 +1098,7 @@ My Personal Leetcode Notebook !
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1281-can-make-palindrome-from-substring) |
 | [1319-unique-number-of-occurrences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -1240,6 +1243,7 @@ My Personal Leetcode Notebook !
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
