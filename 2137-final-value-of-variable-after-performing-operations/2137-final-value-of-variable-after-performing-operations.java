@@ -1,5 +1,15 @@
 class Solution {
     public int finalValueAfterOperations(String[] operations) {
-        return java.util.Arrays.stream(operations).mapToInt(op -> op.charAt(1) == '+' ? 1 : -1).sum();
+        int X = 0;  // start with X = 0
+        
+        for (String op : operations) {
+            if (op.contains("+")) {
+                X++;   
+            } else {
+                X--;  
+            }
+        }
+        
+        return X;
     }
 }
