@@ -1,46 +1,37 @@
 class Solution {
-    public int maxFrequency(int[] nums, int k, int numOperations) {
-        if (nums.length == 1) return 1;
+    public int maxFrequency(int[] nums, int k, int ops) {
+        int res = 0;
         Arrays.sort(nums);
-        int right = Math.min(numOperations, prepareMaxNums(nums, k));
-        int index = 0, left = 0, freq = 0;
-
-        for (int i = 0; i < nums.length; i++) {
-            int n = nums[i];
-
-            freq = (i > 0 && nums[i] == nums[i - 1]) ? freq + 1 : 1;
-
-            int min = n - k, max = n + k;
-
-            while (true) {
-                if (index < nums.length && nums[index] < min) {
-                    index++;
-                } else if (left < nums.length && nums[left] <= max) {
-                    left++;
-                } else {
-                    break;
-                }
-            }
-            
-            right = Math.max(right, Math.min(freq + numOperations, left - index));
-        }
-        return right;
-    }
-
-    public int prepareMaxNums(int[] nums, int k) {
         int left = 0;
         int right = 0;
-        
-        for (int i = 0; i < nums.length; i++) {
-            int target = nums[i] + 2 * k;
-
-            while (left < nums.length && nums[left] <= target) {
+        int n = nums.length;
+        int i = 0;
+        // case 1, num is in the arr
+        while (i < n) {
+            int val = nums[i];
+            int same = 0;
+            while (i < n && nums[i] == val) {
+                same++;
+                i++;
+            }
+            while (right < n && nums[right] <= val + k) {
+                right++;
+            }
+            while (left < n && nums[left] < val - k) {
                 left++;
             }
-
-            right = Math.max(right, left - i);
+            res = Math.max(res, Math.min(same + ops, right - left));
         }
-
-        return right;
+        // case 2, num is not in the arr
+        left = 0;
+        right = 0;
+        while (right < n) {
+            while (right < n && (long) nums[left] + k + k >= nums[right]) {
+                right++;
+            }
+            res = Math.max(res, Math.min(right - left, ops));
+            left++;
+        }
+        return res;
     }
 }
