@@ -1,16 +1,17 @@
 class Solution {
-    public boolean hasSameDigits(String s) {
-        int i = 0;
-        String res = "";
-        while (s.length() > 2 && i < s.length() - 1) {
-            res += (char) ((((s.charAt(i) - '0') + (s.charAt(i + 1) - '0')) % 10) + '0');
-            i++;
-            if (i == s.length() - 1) {
-                s = res;
-                i = 0;
-                res = "";
-            }
-        }
-        return s.length() == 2 && s.charAt(0) == s.charAt(1);
+  public boolean hasSameDigits(String s) {
+    int[] arr = new int[s.length()];
+
+    for (int i = 0; i < arr.length; i++)
+      arr[i] = s.charAt(i) - '0';
+    
+    for (int length = arr.length; length > 2; length--) {
+      for (int i = 0; i < length - 1; i++) {
+        arr[i] = (arr[i] + arr[i + 1]) % 10;
+      }
     }
+
+    return arr[0] == arr[1];
+      
+  }
 }
