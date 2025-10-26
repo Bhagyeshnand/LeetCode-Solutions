@@ -908,6 +908,7 @@ My Personal Leetcode Notebook !
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2169-simple-bank-system](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -1137,6 +1138,7 @@ My Personal Leetcode Notebook !
 | [2107-find-unique-binary-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2169-simple-bank-system](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -1552,6 +1554,7 @@ My Personal Leetcode Notebook !
 | [2132-convert-1d-array-into-2d-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2155-find-missing-observations](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2155-find-missing-observations) |
+| [2169-simple-bank-system](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2169-simple-bank-system) |
 | [2232-adding-spaces-to-a-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -2106,6 +2109,7 @@ My Personal Leetcode Notebook !
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2169-simple-bank-system](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2169-simple-bank-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2678-design-graph-with-shortest-path-calculator) |
