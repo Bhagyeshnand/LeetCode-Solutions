@@ -1,13 +1,22 @@
 class Solution {
     public int countValidSelections(int[] nums) {
-        int len = nums.length, count = 0, left = 0;
-        int right = Arrays.stream(nums).sum();
+
+        int count = 0, len = nums.length;
+        int sum = 0;
+        for (int num : nums) sum += num;
+
+        int halfSum = 0;
+
         for (int i = 0; i < len; i++) {
-            left += nums[i];
-            right -= nums[i];
-            if (nums[i] != 0) continue;
-            if (left == right) count += 2;
-            if (Math.abs(left - right) == 1) count++;
+            halfSum += nums[i];
+            if (nums[i] == 0) {
+
+                if (2 * halfSum == sum) {
+                    count += 2;
+                } else if (Math.abs(sum - 2*halfSum) == 1) {
+                    count++;
+                } 
+            }
         }
         return count;
     }
