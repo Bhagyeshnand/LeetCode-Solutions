@@ -4,7 +4,6 @@ class Solution {
         while ((x & (x + 1)) != 0){
             x++;
         }
-        
         return x;
     }
 }
