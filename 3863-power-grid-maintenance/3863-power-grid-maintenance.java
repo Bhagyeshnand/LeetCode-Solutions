@@ -1,81 +1,91 @@
 class Solution {
-
     static class DSU {
-        int parent[], size[];
+        int[] parent;
+        int[] size;
+        int comps;
 
-        DSU(int n){
-            parent = new int[n+1];
-            size = new int[n+1];
-
-            for(int i=0; i<=n; i++){
+        DSU(int n) {
+            parent = new int[n];
+            size = new int[n];
+            comps = n;
+            for (int i = 0; i < n; i++) {
                 parent[i] = i;
                 size[i] = 1;
             }
         }
 
-        int find(int x){
-            if (parent[x] != x)
-                parent[x] = find(parent[x]);
-            return parent[x];
+        public int find(int u) {
+            if (parent[u] == u)
+                return u;
+            int curParent = parent[u];
+            return parent[u] = find(curParent);
         }
 
-        void union(int a, int b){
-            a = find(a);
-            b = find(b);
-            if(a == b) return;
+        public boolean union(int u, int v) {
+            int pu = find(u), pv = find(v);
+            if (pu == pv)
+                return false;
 
-            if(size[a] < size[b]){
-                int tmp = a;
-                a = b;
-                b = tmp;
+            if (size[pu] > size[pv]) {
+                size[pu] += size[pv];
+                parent[pv] = parent[pu];
+            } else {
+                size[pv] += size[pu];
+                parent[pu] = parent[pv];
             }
-
-            parent[b] = a;
-            size[a] += size[b];
+            comps--;
+            return true;
         }
     }
 
     public int[] processQueries(int c, int[][] connections, int[][] queries) {
+        DSU dsu = new DSU(c + 1);
+        int[] offlineCount = new int[c + 1];
+        int[] min = new int[c + 1];
+        Arrays.fill(min, Integer.MAX_VALUE);
 
-        DSU dsu = new DSU(c);
-
-        for(int[] e : connections){
-            dsu.union(e[0], e[1]);
+        int n = 0;
+        for (int[] con : connections) {
+            dsu.union(con[0], con[1]);
         }
 
-        HashMap<Integer, PriorityQueue<Integer>> map = new HashMap<>();
-        boolean[] onoff = new boolean[c+1];
-        Arrays.fill(onoff,true);
-
-        for(int i=1; i<=c; i++){
-            int par = dsu.find(i);
-            map.computeIfAbsent(par, _ -> new PriorityQueue<>()).add(i);
+        for (int[] query : queries) {
+            if (query[0] == 2) {
+                offlineCount[query[1]]++;
+            } else
+                n++;
         }
 
-        List<Integer> list = new ArrayList<>();
+        for (int node = 1; node <= c; node++) {
+            if (offlineCount[node] == 0) {
+                int root = dsu.find(node);
+                min[root] = Math.min(min[root], node);
+            }
 
-        for(int[] q : queries) {
-            if(q[0] == 1){
-                if(onoff[q[1]]){
-                    list.add(q[1]);
+        }
+
+        int[] res = new int[n];
+
+        for (int i = queries.length - 1; i >= 0; i--) {
+            int first = queries[i][0];
+            int station = queries[i][1];
+            int root = dsu.find(station);
+            if (first == 1) {
+                boolean isOnline = (offlineCount[station] == 0);
+                if (isOnline) {
+                    res[--n] = station;
                 } else {
-                    int par = dsu.find(q[1]);
-                    PriorityQueue<Integer> heap = map.get(par);
-
-                    while(heap != null && !heap.isEmpty() && !onoff[heap.peek()]){
-                        heap.poll();
-                    }
-
-                    int ans = (heap == null || heap.isEmpty()) ? -1 : heap.peek();
-                    list.add(ans);
+                    int minStation = min[root];
+                    res[--n] = minStation == Integer.MAX_VALUE ? -1 : minStation;
                 }
             } else {
-                if(onoff[q[1]]){
-                    onoff[q[1]] = false;
+                offlineCount[station]--;
+                if (offlineCount[station] == 0) {
+                    min[root] = Math.min(station, min[root]);
                 }
+
             }
         }
-
-        return list.stream().mapToInt(Integer::intValue).toArray();   
+        return res;
     }
 }
