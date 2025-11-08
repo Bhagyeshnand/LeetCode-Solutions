@@ -1711,6 +1711,7 @@ My Personal Leetcode Notebook !
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -2233,6 +2234,7 @@ My Personal Leetcode Notebook !
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
@@ -2336,6 +2338,7 @@ My Personal Leetcode Notebook !
 | ------- |
 | [0139-word-break](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Rolling Hash
