@@ -369,6 +369,7 @@ My Personal Leetcode Notebook !
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0179-largest-number) |
@@ -739,6 +740,7 @@ My Personal Leetcode Notebook !
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
@@ -1441,6 +1443,7 @@ My Personal Leetcode Notebook !
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0075-sort-colors) |
