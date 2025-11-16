@@ -521,6 +521,7 @@ My Personal Leetcode Notebook !
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2379-maximum-total-importance-of-roads) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2479-meeting-rooms-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -946,6 +947,7 @@ My Personal Leetcode Notebook !
 | [2358-number-of-ways-to-split-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2411-spiral-matrix-iv](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -1469,6 +1471,7 @@ My Personal Leetcode Notebook !
 | [2232-adding-spaces-to-a-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
@@ -1517,6 +1520,7 @@ My Personal Leetcode Notebook !
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
