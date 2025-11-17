@@ -1103,6 +1103,7 @@ My Personal Leetcode Notebook !
 | [0149-max-points-on-a-line](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0187-repeated-dna-sequences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -1249,6 +1250,7 @@ My Personal Leetcode Notebook !
 | [0166-fraction-to-recurring-decimal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0214-shortest-palindrome](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
@@ -1388,6 +1390,7 @@ My Personal Leetcode Notebook !
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0220-contains-duplicate-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -2252,6 +2255,7 @@ My Personal Leetcode Notebook !
 | ------- |
 | [0029-divide-two-integers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0089-gray-code) |
+| [0187-repeated-dna-sequences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0338-counting-bits) |
@@ -2375,6 +2379,7 @@ My Personal Leetcode Notebook !
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
@@ -2387,6 +2392,7 @@ My Personal Leetcode Notebook !
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
