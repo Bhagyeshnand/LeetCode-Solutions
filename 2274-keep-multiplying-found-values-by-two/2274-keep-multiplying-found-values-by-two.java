@@ -1,13 +1,19 @@
 class Solution {
-    public int findFinalValue(int[] nums, int k) {
-        int bits = 0;
-        for (int num : nums) {
-            if (num % k != 0) continue;
-            int n = num / k;
-            if ((n & (n - 1)) == 0)
-                bits |= n;
+    public int findFinalValue(int[] nums, int original) {
+        boolean x=true;
+        while(x){
+            x=found(nums,original);
+            original*=2;
         }
-        bits++;
-        return k * (bits & -bits);
+        return original/2;
+        
+    }
+    public boolean found(int [] nums,int var){
+        for(int ele:nums){
+            if(ele==var){
+                return true;
+            }
+        }
+        return false;
     }
 }
