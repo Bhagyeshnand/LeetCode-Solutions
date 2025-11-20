@@ -1,37 +1,34 @@
+import java.util.Arrays;
+
 class Solution {
     public int intersectionSizeTwo(int[][] intervals) {
-        Arrays.sort(intervals, (a, b) -> {
-            if (a[1] == b[1]) {
-                return b[0] - a[0];
-            }
-            return a[1] - b[1];
-        });
-
-        List<Integer> nums = new ArrayList<>();
-        int cnt = 0;
-
+        int n = 0;
+        long[] endStartPairs = new long[intervals.length];
         for (int[] interval : intervals) {
-            int start = interval[0];
-            int end = interval[1];
-            int count = 0;
-
-            for (int i = nums.size() - 1; i >= 0; i--) {
-                if (nums.get(i) >= start && nums.get(i) <= end) {
-                    count++;
-                    if (count == 2) break;
-                }
-            }
-
-            if (count == 0) {
-                nums.add(end - 1);
-                nums.add(end);
-                cnt += 2;
-            } else if (count == 1) {
-                nums.add(end);
-                cnt += 1;
-            }
+            endStartPairs[n] = -interval[0] & 0xFFFFFFFFL;
+            endStartPairs[n++] |= (long) (interval[1]) << 32;
         }
-        
-        return cnt;
+        Arrays.sort(endStartPairs);
+        int min = -2;
+        int max = -1;
+        int curStart;
+        int curEnd;
+        int res = 0;
+        for (long endStartPair : endStartPairs) {
+            curStart = -(int) endStartPair;
+            curEnd = (int) (endStartPair >> 32);
+            if (curStart <= min) {
+                continue;
+            }
+            if (curStart <= max) {
+                res += 1;
+                min = max;
+            } else {
+                res += 2;
+                min = curEnd - 1;
+            }
+            max = curEnd;
+        }
+        return res;
     }
 }
