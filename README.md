@@ -378,6 +378,7 @@ My Personal Leetcode Notebook !
 | [0649-dota2-senate](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0649-dota2-senate) |
 | [0670-maximum-swap](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0759-set-intersection-size-at-least-two](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0768-partition-labels](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
@@ -499,6 +500,7 @@ My Personal Leetcode Notebook !
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0726-number-of-atoms) |
+| [0759-set-intersection-size-at-least-two](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0900-reordered-power-of-2](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0948-sort-an-array) |
@@ -802,6 +804,7 @@ My Personal Leetcode Notebook !
 | [0735-asteroid-collision](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
+| [0759-set-intersection-size-at-least-two](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0772-construct-quad-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0772-construct-quad-tree) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
