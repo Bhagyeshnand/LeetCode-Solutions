@@ -387,6 +387,7 @@ My Personal Leetcode Notebook !
 | [1018-largest-perimeter-triangle](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1304-longest-happy-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
 | [1448-maximum-69-number](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
@@ -507,6 +508,7 @@ My Personal Leetcode Notebook !
 | [1018-largest-perimeter-triangle](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1256-rank-transform-of-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -840,6 +842,7 @@ My Personal Leetcode Notebook !
 | [1239-largest-1-bordered-square](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1239-largest-1-bordered-square) |
 | [1240-stone-game-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1281-can-make-palindrome-from-substring) |
 | [1293-three-consecutive-odds](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
@@ -1739,6 +1742,7 @@ My Personal Leetcode Notebook !
 | [1196-filling-bookcase-shelves](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1239-largest-1-bordered-square](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1239-largest-1-bordered-square) |
 | [1240-stone-game-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1511-count-number-of-teams) |
