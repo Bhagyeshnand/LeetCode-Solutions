@@ -1,29 +1,34 @@
 class Solution {
-    public int countCoveredBuildings(int n, int[][] buildings) {
 
-        Map<Integer, TreeSet<Integer>> rowToCol = new HashMap<>();
-        Map<Integer, TreeSet<Integer>> colToRow = new HashMap<>();
-        for (int building[] : buildings) {
-            int x = building[0], y = building[1];
-            rowToCol.computeIfAbsent(x, k -> new TreeSet<>()).add(y);
-            colToRow.computeIfAbsent(y, k -> new TreeSet<>()).add(x);
+    public int countCoveredBuildings(int n, int[][] buildings) {
+        int[] maxRow = new int[n + 1];
+        int[] minRow = new int[n + 1];
+        int[] maxCol = new int[n + 1];
+        int[] minCol = new int[n + 1];
+
+        Arrays.fill(minRow, n + 1);
+        Arrays.fill(minCol, n + 1);
+
+        for (int[] p : buildings) {
+            int x = p[0];
+            int y = p[1];
+            maxRow[y] = Math.max(maxRow[y], x);
+            minRow[y] = Math.min(minRow[y], x);
+            maxCol[x] = Math.max(maxCol[x], y);
+            minCol[x] = Math.min(minCol[x], y);
         }
-        int cnt = 0;
-        for (int building[] : buildings) {
-            int x = building[0], y = building[1];
-            
-            TreeSet<Integer> cols = rowToCol.get(x);
-            TreeSet<Integer> rows = colToRow.get(y);
-            
-            Integer left = cols.lower(y);
-            Integer right = cols.higher(y);
-            Integer up = rows.lower(x);
-            Integer down = rows.higher(x);
-            
-            if ((left != null) && (right != null) && (up != null) && (down != null)) {
-                cnt++;
+
+        int res = 0;
+        for (int[] p : buildings) {
+            int x = p[0];
+            int y = p[1];
+            if (
+                x > minRow[y] && x < maxRow[y] && y > minCol[x] && y < maxCol[x]
+            ) {
+                res++;
             }
         }
-        return cnt;
+
+        return res;
     }
 }
