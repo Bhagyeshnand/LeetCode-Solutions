@@ -558,6 +558,7 @@ My Personal Leetcode Notebook !
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3430-count-days-without-meetings) |
+| [3433-count-mentions-per-user](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3531-count-covered-buildings) |
 | [3544-count-almost-equal-pairs-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3544-count-almost-equal-pairs-ii) |
@@ -1052,6 +1053,7 @@ My Personal Leetcode Notebook !
 | [3429-special-array-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3430-count-days-without-meetings) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3433-count-mentions-per-user) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
@@ -1639,6 +1641,7 @@ My Personal Leetcode Notebook !
 | [2846-robot-collisions](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2846-robot-collisions) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3433-count-mentions-per-user](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3433-count-mentions-per-user) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3447-clear-digits) |
 | [3540-hash-divided-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3540-hash-divided-string) |
@@ -1999,6 +2002,7 @@ My Personal Leetcode Notebook !
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3321-type-of-triangle](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3433-count-mentions-per-user) |
 | [3548-find-the-count-of-good-integers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3568-find-the-key-of-the-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3568-find-the-key-of-the-numbers) |
