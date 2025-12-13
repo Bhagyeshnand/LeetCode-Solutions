@@ -1,46 +1,48 @@
 class Solution {
     public List<String> validateCoupons(String[] code, String[] businessLine, boolean[] isActive) {
-        List<String>res = new ArrayList();
-
-        List<String>e = new ArrayList();
-        List<String>g = new ArrayList();
-        List<String>p = new ArrayList();
-        List<String>r = new ArrayList();
+        List<String> electronics = new ArrayList<>();
+        List<String> grocery = new ArrayList<>();
+        List<String> pharmacy = new ArrayList<>();
+        List<String> restaurant = new ArrayList<>();
         
-        for(int i=0;i<isActive.length;i++){
-            if(isActive[i]){
-                if(businessLine[i].equals("electronics") 
-                    || businessLine[i].equals("grocery")
-                  || businessLine[i].equals("pharmacy")
-                  || businessLine[i].equals("restaurant")){
-                    if(code[i].length() == 0)continue;
-                    boolean found = true;
-                    for(int j=0;j<code[i].length();j++){
-                        char ch = code[i].charAt(j);
-                        if (!Character.isLetterOrDigit(ch) && ch != '_') {
-                            found = false;
-                            break;
-                        }
-                    }
-
-                    if(found){
-                        if(businessLine[i].startsWith("e"))e.add(code[i]);
-                        if(businessLine[i].startsWith("g"))g.add(code[i]);
-                        if(businessLine[i].startsWith("p"))p.add(code[i]);
-                        if(businessLine[i].startsWith("r"))r.add(code[i]);
-                    }
-                  }
+        for (int i = 0; i < code.length; i++) {
+            if (!isActive[i] || code[i].isEmpty()) continue;
+            
+            boolean validCode = true;
+            for (char c : code[i].toCharArray()) {
+                if (!Character.isLetterOrDigit(c) && c != '_') {
+                    validCode = false;
+                    break;
+                }
+            }
+            
+            if (validCode) {
+                if (businessLine[i].equals("electronics")) {
+                    electronics.add(code[i]);
+                }
+                else if (businessLine[i].equals("grocery")){
+                    grocery.add(code[i]);
+                }
+                else if (businessLine[i].equals("pharmacy")){
+                    pharmacy.add(code[i]);
+                }
+                else if (businessLine[i].equals("restaurant")){
+                    restaurant.add(code[i]);
+                }
             }
         }
-        Collections.sort(e);
-        Collections.sort(g);
-        Collections.sort(p);
-        Collections.sort(r);
-        res.addAll(e);
-        res.addAll(g);
-        res.addAll(p);
-        res.addAll(r);
         
-        return res;
+        Collections.sort(electronics);
+        Collections.sort(grocery);
+        Collections.sort(pharmacy);
+        Collections.sort(restaurant);
+        
+        List<String> result = new ArrayList<>();
+        result.addAll(electronics);
+        result.addAll(grocery);
+        result.addAll(pharmacy);
+        result.addAll(restaurant);
+        
+        return result;
     }
 }
