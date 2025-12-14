@@ -1,29 +1,21 @@
 class Solution {
-    int mod = 1000000007;
     public int numberOfWays(String corridor) {
-        int n = corridor.length(); int cnt = 0;
-        for(int i=0; i<n; i++){
-            if(corridor.charAt(i) == 'S') cnt++;
+        final int n = corridor.length();
+        final byte[] corr = new byte[n];
+        corridor.getBytes(0, n, corr, 0);
+        
+        long ways = 1;
+        int seatCount = 0;
+        int prevSeatIdx = -1;
+        for (int i = n - 1; i >= 0; i--) {
+            if (corr[i] == 'P')  continue;
+            if (seatCount != 0)
+                prevSeatIdx = i;
+            else if (prevSeatIdx > 0) 
+                ways = (ways * (prevSeatIdx - i)) % 1_000_000_007L;
+            seatCount ^= 1;
         }
-        if(cnt == 0 || cnt % 2 != 0) return 0;
-        cnt = 0;
-        long ans = 1;
-        int i=0; int p = 0; boolean flag = false;
-        while(i < n){
-            if(corridor.charAt(i) == 'S'){
-                cnt++;
-                if(cnt % 2 == 0){
-                    flag = true;
-                } else if(cnt > 2){
-                    ans = (ans * (p + 1)) % mod;
-                    cnt = 1; flag = false;
-                    p = 0;
-                }
-            } else if(flag){
-                p++;
-            }
-            i++;
-        }
-        return (int)ans;
+        
+        return (prevSeatIdx < 0 || seatCount != 0) ? 0 : (int)ways;
     }
 }
