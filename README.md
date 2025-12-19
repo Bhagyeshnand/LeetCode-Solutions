@@ -458,6 +458,7 @@ My Personal Leetcode Notebook !
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2092-find-all-people-with-secret](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -520,6 +521,7 @@ My Personal Leetcode Notebook !
 | [1741-sort-array-by-increasing-frequency](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2092-find-all-people-with-secret](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -665,6 +667,7 @@ My Personal Leetcode Notebook !
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2035-count-sub-islands](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
+| [2092-find-all-people-with-secret](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -719,6 +722,7 @@ My Personal Leetcode Notebook !
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2035-count-sub-islands](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2092-find-all-people-with-secret](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -1471,6 +1475,7 @@ My Personal Leetcode Notebook !
 | [1396-count-servers-that-communicate](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2035-count-sub-islands](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
+| [2092-find-all-people-with-secret](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [2276-groups-of-strings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2276-groups-of-strings) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
