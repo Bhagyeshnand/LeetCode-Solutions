@@ -834,6 +834,7 @@ My Personal Leetcode Notebook !
 | [0948-sort-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1002-maximum-width-ramp) |
 | [1006-vowel-spellchecker](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
@@ -1309,6 +1310,7 @@ My Personal Leetcode Notebook !
 | [0920-uncommon-words-from-two-sentences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -1766,6 +1768,7 @@ My Personal Leetcode Notebook !
 | [0867-new-21-game](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0868-push-dominoes) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1105-uncrossed-lines](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1105-uncrossed-lines) |
