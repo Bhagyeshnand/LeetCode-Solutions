@@ -522,6 +522,7 @@ My Personal Leetcode Notebook !
 | [1741-sort-array-by-increasing-frequency](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2054-two-best-non-overlapping-events](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -594,6 +595,7 @@ My Personal Leetcode Notebook !
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2054-two-best-non-overlapping-events](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
@@ -926,6 +928,7 @@ My Personal Leetcode Notebook !
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2048-build-array-from-permutation](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2054-two-best-non-overlapping-events](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2089-maximum-matrix-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2089-maximum-matrix-sum) |
@@ -1565,6 +1568,7 @@ My Personal Leetcode Notebook !
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2054-two-best-non-overlapping-events](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -1795,6 +1799,7 @@ My Personal Leetcode Notebook !
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2008-minimum-cost-to-change-the-final-value-of-expression](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2008-minimum-cost-to-change-the-final-value-of-expression) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [2054-two-best-non-overlapping-events](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
