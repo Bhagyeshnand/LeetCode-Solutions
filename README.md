@@ -1158,6 +1158,7 @@ My Personal Leetcode Notebook !
 | [0594-longest-harmonious-subsequence](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0726-number-of-atoms) |
+| [0756-pyramid-transition-matrix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0837-most-common-word](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0837-most-common-word) |
@@ -1318,6 +1319,7 @@ My Personal Leetcode Notebook !
 | [0649-dota2-senate](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0649-dota2-senate) |
 | [0664-strange-printer](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0726-number-of-atoms) |
+| [0756-pyramid-transition-matrix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0837-most-common-word](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0837-most-common-word) |
 | [0868-push-dominoes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0868-push-dominoes) |
@@ -2278,6 +2280,7 @@ My Personal Leetcode Notebook !
 | [0282-expression-add-operators](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [1160-letter-tile-possibilities](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -2349,6 +2352,7 @@ My Personal Leetcode Notebook !
 | [0338-counting-bits](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0476-number-complement) |
+| [0756-pyramid-transition-matrix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1281-can-make-palindrome-from-substring) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
