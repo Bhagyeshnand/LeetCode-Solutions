@@ -829,6 +829,7 @@ My Personal Leetcode Notebook !
 | [0787-sliding-puzzle](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [0797-rabbits-in-forest](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0837-most-common-word](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0837-most-common-word) |
+| [0840-magic-squares-in-grid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0890-lemonade-change) |
@@ -1162,6 +1163,7 @@ My Personal Leetcode Notebook !
 | [0768-partition-labels](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0837-most-common-word](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0837-most-common-word) |
+| [0840-magic-squares-in-grid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [0906-walking-robot-simulation](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -1709,6 +1711,7 @@ My Personal Leetcode Notebook !
 | [0498-diagonal-traverse](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0772-construct-quad-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0772-construct-quad-tree) |
 | [0787-sliding-puzzle](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
+| [0840-magic-squares-in-grid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [0999-regions-cut-by-slashes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
@@ -1998,6 +2001,7 @@ My Personal Leetcode Notebook !
 | [0679-24-game](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0826-soup-servings) |
+| [0840-magic-squares-in-grid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [0910-nth-magical-number](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0910-nth-magical-number) |
