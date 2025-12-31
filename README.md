@@ -675,6 +675,7 @@ My Personal Leetcode Notebook !
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2035-count-sub-islands](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
 | [2092-find-all-people-with-secret](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2201-valid-arrangement-of-pairs) |
@@ -729,6 +730,7 @@ My Personal Leetcode Notebook !
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2035-count-sub-islands](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2092-find-all-people-with-secret](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2092-find-all-people-with-secret) |
@@ -928,6 +930,7 @@ My Personal Leetcode Notebook !
 | [1927-maximum-ascending-subarray-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -1497,6 +1500,7 @@ My Personal Leetcode Notebook !
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2035-count-sub-islands](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
 | [2092-find-all-people-with-secret](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [2276-groups-of-strings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2276-groups-of-strings) |
@@ -1583,6 +1587,7 @@ My Personal Leetcode Notebook !
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2054-two-best-non-overlapping-events](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -1727,6 +1732,7 @@ My Personal Leetcode Notebook !
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
