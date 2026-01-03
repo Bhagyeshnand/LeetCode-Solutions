@@ -1813,6 +1813,7 @@ My Personal Leetcode Notebook !
 | [1240-stone-game-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1511-count-number-of-teams) |
 | [1545-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1545-form-largest-integer-with-digits-that-add-up-to-target) |
