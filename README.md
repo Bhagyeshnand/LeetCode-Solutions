@@ -781,6 +781,7 @@ My Personal Leetcode Notebook !
 | [0075-sort-colors](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
@@ -1717,6 +1718,7 @@ My Personal Leetcode Notebook !
 | [0059-spiral-matrix-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0174-dungeon-game) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0289-game-of-life) |
@@ -1775,6 +1777,7 @@ My Personal Leetcode Notebook !
 | [0062-unique-paths](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
@@ -2132,6 +2135,7 @@ My Personal Leetcode Notebook !
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0394-decode-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0394-decode-string) |
@@ -2568,6 +2572,7 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0937-online-stock-span) |
