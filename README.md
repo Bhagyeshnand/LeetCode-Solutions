@@ -527,6 +527,7 @@ My Personal Leetcode Notebook !
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -942,6 +943,7 @@ My Personal Leetcode Notebook !
 | [1970-last-day-where-you-can-still-cross](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1972-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -1481,6 +1483,7 @@ My Personal Leetcode Notebook !
 | [0940-fruit-into-baskets](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1755-defuse-the-bomb](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
