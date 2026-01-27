@@ -635,6 +635,7 @@ My Personal Leetcode Notebook !
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3647-zero-array-transformation-iii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3863-power-grid-maintenance](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Depth-First Search
@@ -1904,6 +1905,7 @@ My Personal Leetcode Notebook !
 | [2803-modify-graph-edge-weights](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Tree
 |  |
 | ------- |
@@ -2661,4 +2663,8 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
