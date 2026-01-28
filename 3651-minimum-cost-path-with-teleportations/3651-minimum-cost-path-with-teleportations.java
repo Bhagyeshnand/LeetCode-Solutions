@@ -1,4 +1,3 @@
-// https://www.youtube.com/@0x3f
 class Solution {
     public int minCost(int[][] grid, int k) {
         int m = grid.length;
