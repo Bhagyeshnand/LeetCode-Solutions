@@ -1064,6 +1064,7 @@ My Personal Leetcode Notebook !
 | [2888-minimum-index-of-a-valid-split](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2892-check-if-array-is-good](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2892-check-if-array-is-good) |
 | [2915-count-of-interesting-subarrays](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
@@ -1434,6 +1435,7 @@ My Personal Leetcode Notebook !
 | [2755-extra-characters-in-a-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2921-count-stepping-numbers-in-range](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2921-count-stepping-numbers-in-range) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1906,6 +1908,7 @@ My Personal Leetcode Notebook !
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2803-modify-graph-edge-weights) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -2669,5 +2672,6 @@ My Personal Leetcode Notebook !
 ## Graph Theory
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
