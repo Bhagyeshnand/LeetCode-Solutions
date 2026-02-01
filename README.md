@@ -2061,6 +2061,7 @@ My Personal Leetcode Notebook !
 | [1183-statistics-from-a-large-sample](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1183-statistics-from-a-large-sample) |
 | [1240-stone-game-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1390-four-divisors](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
