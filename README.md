@@ -1708,6 +1708,7 @@ My Personal Leetcode Notebook !
 | [2288-count-operations-to-obtain-zero](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2327-number-of-people-aware-of-a-secret](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2402-meeting-rooms-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2411-spiral-matrix-iv](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
@@ -1872,6 +1873,7 @@ My Personal Leetcode Notebook !
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2262-solving-questions-with-brainpower](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2327-number-of-people-aware-of-a-secret](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2504-find-all-good-indices](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2504-find-all-good-indices) |
 | [2554-minimum-total-distance-traveled](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2554-minimum-total-distance-traveled) |
@@ -2158,6 +2160,7 @@ My Personal Leetcode Notebook !
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2327-number-of-people-aware-of-a-secret](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2868-continuous-subarrays](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2868-continuous-subarrays) |
