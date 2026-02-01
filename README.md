@@ -879,6 +879,7 @@ My Personal Leetcode Notebook !
 | [1262-greatest-sum-divisible-by-three](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1281-can-make-palindrome-from-substring) |
 | [1293-three-consecutive-odds](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1319-unique-number-of-occurrences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1325-path-with-maximum-probability](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
@@ -2059,6 +2060,7 @@ My Personal Leetcode Notebook !
 | [1018-largest-perimeter-triangle](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1183-statistics-from-a-large-sample](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1183-statistics-from-a-large-sample) |
 | [1240-stone-game-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1390-four-divisors](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
