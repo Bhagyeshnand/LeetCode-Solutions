@@ -390,6 +390,7 @@ My Personal Leetcode Notebook !
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1304-longest-happy-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
+| [1382-balance-a-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -676,6 +677,7 @@ My Personal Leetcode Notebook !
 | [1207-delete-nodes-and-return-forest](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1382-balance-a-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -1967,6 +1969,7 @@ My Personal Leetcode Notebook !
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1382-balance-a-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -2020,6 +2023,7 @@ My Personal Leetcode Notebook !
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1382-balance-a-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -2225,6 +2229,7 @@ My Personal Leetcode Notebook !
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1382-balance-a-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -2239,6 +2244,7 @@ My Personal Leetcode Notebook !
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
+| [1382-balance-a-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Merge Sort
 |  |
