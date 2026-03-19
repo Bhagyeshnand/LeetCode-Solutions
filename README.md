@@ -1082,6 +1082,7 @@ My Personal Leetcode Notebook !
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
@@ -1796,6 +1797,7 @@ My Personal Leetcode Notebook !
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3578-construct-2d-grid-matching-graph-layout](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3578-construct-2d-grid-matching-graph-layout) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -2405,6 +2407,7 @@ My Personal Leetcode Notebook !
 | [2625-increment-submatrices-by-one](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3427-special-array-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3427-special-array-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
