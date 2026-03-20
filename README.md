@@ -578,6 +578,7 @@ My Personal Leetcode Notebook !
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3531-count-covered-buildings) |
 | [3544-count-almost-equal-pairs-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3544-count-almost-equal-pairs-ii) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -1120,6 +1121,7 @@ My Personal Leetcode Notebook !
 | [3544-count-almost-equal-pairs-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3544-count-almost-equal-pairs-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-construct-2d-grid-matching-graph-layout](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3578-construct-2d-grid-matching-graph-layout) |
@@ -1799,6 +1801,7 @@ My Personal Leetcode Notebook !
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3578-construct-2d-grid-matching-graph-layout](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3578-construct-2d-grid-matching-graph-layout) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
