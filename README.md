@@ -1113,6 +1113,7 @@ My Personal Leetcode Notebook !
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
+| [3454-separate-squares-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -1656,6 +1657,7 @@ My Personal Leetcode Notebook !
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3427-special-array-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3427-special-array-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3454-separate-squares-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
@@ -2614,6 +2616,7 @@ My Personal Leetcode Notebook !
 | [0731-my-calendar-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2703-handling-sum-queries-after-update](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2703-handling-sum-queries-after-update) |
+| [3454-separate-squares-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
@@ -2723,4 +2726,8 @@ My Personal Leetcode Notebook !
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Sweep Line
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
