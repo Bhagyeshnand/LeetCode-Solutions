@@ -848,6 +848,7 @@ My Personal Leetcode Notebook !
 | [0840-magic-squares-in-grid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0859-design-circular-deque) |
+| [0874-walking-robot-simulation](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [0890-lemonade-change](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
@@ -1205,6 +1206,7 @@ My Personal Leetcode Notebook !
 | [0797-rabbits-in-forest](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0837-most-common-word](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0837-most-common-word) |
 | [0840-magic-squares-in-grid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
+| [0874-walking-robot-simulation](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [0900-reordered-power-of-2](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [0906-walking-robot-simulation](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -1708,6 +1710,7 @@ My Personal Leetcode Notebook !
 | [0592-fraction-addition-and-subtraction](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0657-robot-return-to-origin](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [0874-walking-robot-simulation](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [0906-walking-robot-simulation](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [1041-available-captures-for-rook](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1041-available-captures-for-rook) |
 | [1642-water-bottles](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1642-water-bottles) |
