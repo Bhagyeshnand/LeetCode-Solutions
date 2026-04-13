@@ -939,6 +939,7 @@ My Personal Leetcode Notebook !
 | [1813-maximum-erasure-value](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
