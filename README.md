@@ -1028,6 +1028,7 @@ My Personal Leetcode Notebook !
 | [2502-sort-the-people](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2504-find-all-good-indices](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2504-find-all-good-indices) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2529-range-product-queries-of-powers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -1459,6 +1460,7 @@ My Personal Leetcode Notebook !
 | [2483-minimum-penalty-for-a-shop](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2502-sort-the-people) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2580-circular-sentence](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
