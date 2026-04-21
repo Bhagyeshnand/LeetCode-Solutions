@@ -687,6 +687,7 @@ My Personal Leetcode Notebook !
 | [1484-linked-list-in-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2035-count-sub-islands](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
@@ -930,6 +931,7 @@ My Personal Leetcode Notebook !
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1751-slowest-key](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1751-slowest-key) |
@@ -2757,4 +2759,8 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
+## Union-Find
+|  |
+| ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->
