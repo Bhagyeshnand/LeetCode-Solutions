@@ -1168,6 +1168,7 @@ My Personal Leetcode Notebook !
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -1332,6 +1333,7 @@ My Personal Leetcode Notebook !
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3713-longest-balanced-substring-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -2303,6 +2305,7 @@ My Personal Leetcode Notebook !
 | [2280-count-good-triplets-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -2475,6 +2478,7 @@ My Personal Leetcode Notebook !
 | [3643-zero-array-transformation-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -2659,6 +2663,7 @@ My Personal Leetcode Notebook !
 | [2280-count-good-triplets-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2703-handling-sum-queries-after-update](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2703-handling-sum-queries-after-update) |
 | [3454-separate-squares-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
