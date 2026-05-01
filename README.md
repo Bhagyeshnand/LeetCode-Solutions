@@ -822,6 +822,7 @@ My Personal Leetcode Notebook !
 | [0368-largest-divisible-subset](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0396-rotate-function](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
@@ -1881,6 +1882,7 @@ My Personal Leetcode Notebook !
 | [0322-coin-change](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0494-target-sum) |
@@ -2113,6 +2115,7 @@ My Personal Leetcode Notebook !
 | [0326-power-of-three](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0539-minimum-time-difference](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
