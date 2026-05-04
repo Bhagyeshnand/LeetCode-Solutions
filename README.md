@@ -785,6 +785,7 @@ My Personal Leetcode Notebook !
 | [0037-sudoku-solver](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0056-merge-intervals) |
@@ -1794,6 +1795,7 @@ My Personal Leetcode Notebook !
 | ------- |
 | [0036-valid-sudoku](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
@@ -2099,6 +2101,7 @@ My Personal Leetcode Notebook !
 | [0007-reverse-integer](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0089-gray-code) |
