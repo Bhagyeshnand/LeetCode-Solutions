@@ -927,6 +927,7 @@ My Personal Leetcode Notebook !
 | [1628-count-submatrices-with-all-ones](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1656-count-good-triplets) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1694-make-sum-divisible-by-p](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
@@ -1254,6 +1255,7 @@ My Personal Leetcode Notebook !
 | [1611-making-file-names-unique](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1611-making-file-names-unique) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1694-make-sum-divisible-by-p](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -2455,6 +2457,7 @@ My Personal Leetcode Notebook !
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1694-make-sum-divisible-by-p](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
