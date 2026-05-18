@@ -737,6 +737,7 @@ My Personal Leetcode Notebook !
 | [0999-regions-cut-by-slashes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1345-jump-game-iv](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1345-jump-game-iv) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -895,6 +896,7 @@ My Personal Leetcode Notebook !
 | [1325-path-with-maximum-probability](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1345-jump-game-iv](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1345-jump-game-iv) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -1243,6 +1245,7 @@ My Personal Leetcode Notebook !
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1281-can-make-palindrome-from-substring) |
 | [1319-unique-number-of-occurrences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
+| [1345-jump-game-iv](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1345-jump-game-iv) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
