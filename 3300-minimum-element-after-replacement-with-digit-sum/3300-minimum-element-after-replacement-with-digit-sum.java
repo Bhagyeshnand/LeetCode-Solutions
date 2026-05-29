@@ -1,9 +1,22 @@
 class Solution {
     public int minElement(int[] nums) {
-        int res = 36;
-        for (int n : nums)
-            res = Math.min(res, n - 9 * ((n/10) + (n/100) + (n/1000) + (n/10000)));
-        
-        return res;
+
+        int min = Integer.MAX_VALUE;
+
+        for(int num : nums) {
+
+            int sum = 0;
+
+            while(num > 0) {
+
+                int rem = num % 10;
+                sum = sum + rem;
+                num = num / 10;
+            }
+
+            min = Math.min(sum, min);
+        }
+
+        return min;
     }
 }
