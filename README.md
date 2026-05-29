@@ -1111,6 +1111,7 @@ My Personal Leetcode Notebook !
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -2195,6 +2196,7 @@ My Personal Leetcode Notebook !
 | [3227-find-missing-and-repeated-values](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3433-count-mentions-per-user) |
