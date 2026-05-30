@@ -1100,6 +1100,7 @@ My Personal Leetcode Notebook !
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3161-block-placement-queries](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3161-block-placement-queries) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
@@ -1693,6 +1694,7 @@ My Personal Leetcode Notebook !
 | [2699-count-the-number-of-fair-pairs](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3161-block-placement-queries](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3161-block-placement-queries) |
 | [3427-special-array-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3427-special-array-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3454-separate-squares-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
@@ -2394,6 +2396,7 @@ My Personal Leetcode Notebook !
 | ------- |
 | [1511-count-number-of-teams](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1511-count-number-of-teams) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
+| [3161-block-placement-queries](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3161-block-placement-queries) |
 ## Strongly Connected Component
 |  |
 | ------- |
@@ -2682,6 +2685,7 @@ My Personal Leetcode Notebook !
 | [0731-my-calendar-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2703-handling-sum-queries-after-update](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2703-handling-sum-queries-after-update) |
+| [3161-block-placement-queries](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3161-block-placement-queries) |
 | [3454-separate-squares-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
