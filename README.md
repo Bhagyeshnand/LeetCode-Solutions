@@ -582,6 +582,7 @@ My Personal Leetcode Notebook !
 | [3433-count-mentions-per-user](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3531-count-covered-buildings) |
+| [3536-maximum-product-of-two-digits](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3544-count-almost-equal-pairs-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3544-count-almost-equal-pairs-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
@@ -2208,6 +2209,7 @@ My Personal Leetcode Notebook !
 | [3321-type-of-triangle](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3433-count-mentions-per-user) |
+| [3536-maximum-product-of-two-digits](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3548-find-the-count-of-good-integers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3568-find-the-key-of-the-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3568-find-the-key-of-the-numbers) |
