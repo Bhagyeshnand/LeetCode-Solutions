@@ -834,6 +834,7 @@ My Personal Leetcode Notebook !
 | [0407-trapping-rain-water-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -1907,6 +1908,7 @@ My Personal Leetcode Notebook !
 | [0396-rotate-function](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0664-strange-printer) |
@@ -2141,6 +2143,7 @@ My Personal Leetcode Notebook !
 | [0342-power-of-four](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
@@ -2244,6 +2247,7 @@ My Personal Leetcode Notebook !
 | [0326-power-of-three](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1197-parsing-a-boolean-expression](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -2521,6 +2525,7 @@ My Personal Leetcode Notebook !
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1240-stone-game-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 ## Bit Manipulation
 |  |
