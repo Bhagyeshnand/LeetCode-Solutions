@@ -863,6 +863,7 @@ My Personal Leetcode Notebook !
 | [0854-making-a-large-island](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0859-design-circular-deque) |
 | [0874-walking-robot-simulation](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0890-lemonade-change](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
@@ -1922,6 +1923,7 @@ My Personal Leetcode Notebook !
 | [0826-soup-servings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0868-push-dominoes) |
+| [0877-stone-game](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
@@ -2156,6 +2158,7 @@ My Personal Leetcode Notebook !
 | [0826-soup-servings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0826-soup-servings) |
 | [0840-magic-squares-in-grid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0867-new-21-game) |
+| [0877-stone-game](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [0910-nth-magical-number](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0910-nth-magical-number) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0914-random-point-in-non-overlapping-rectangles) |
@@ -2526,6 +2529,7 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1240-stone-game-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 ## Bit Manipulation
 |  |
