@@ -404,6 +404,7 @@ My Personal Leetcode Notebook !
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
+| [2029-stone-game-ix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2089-maximum-matrix-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -978,6 +979,7 @@ My Personal Leetcode Notebook !
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2029-stone-game-ix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2035-count-sub-islands](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2048-build-array-from-permutation](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
@@ -2191,6 +2193,7 @@ My Personal Leetcode Notebook !
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2008-minimum-cost-to-change-the-final-value-of-expression](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2008-minimum-cost-to-change-the-final-value-of-expression) |
+| [2029-stone-game-ix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2050-count-good-numbers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -2390,6 +2393,7 @@ My Personal Leetcode Notebook !
 | [1786-count-the-number-of-consistent-strings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2029-stone-game-ix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -2539,6 +2543,7 @@ My Personal Leetcode Notebook !
 | [0486-predict-the-winner](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1240-stone-game-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -2838,4 +2843,16 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
