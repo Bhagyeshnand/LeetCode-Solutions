@@ -403,6 +403,7 @@ My Personal Leetcode Notebook !
 | [1818-maximum-score-from-removing-substrings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
+| [1927-sum-game](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [1975-maximum-matrix-sum](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2029-stone-game-ix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
@@ -1464,6 +1465,7 @@ My Personal Leetcode Notebook !
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
+| [1927-sum-game](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2008-minimum-cost-to-change-the-final-value-of-expression](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2008-minimum-cost-to-change-the-final-value-of-expression) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -2190,6 +2192,7 @@ My Personal Leetcode Notebook !
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
+| [1927-sum-game](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2008-minimum-cost-to-change-the-final-value-of-expression](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2008-minimum-cost-to-change-the-final-value-of-expression) |
@@ -2544,6 +2547,7 @@ My Personal Leetcode Notebook !
 | [0486-predict-the-winner](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1240-stone-game-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
+| [1927-sum-game](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Bit Manipulation
 |  |
