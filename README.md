@@ -1544,6 +1544,7 @@ My Personal Leetcode Notebook !
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3713-longest-balanced-substring-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -1663,6 +1664,7 @@ My Personal Leetcode Notebook !
 | [3195-separate-black-and-white-balls](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -2670,6 +2672,7 @@ My Personal Leetcode Notebook !
 | [3544-count-almost-equal-pairs-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3544-count-almost-equal-pairs-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3713-longest-balanced-substring-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
