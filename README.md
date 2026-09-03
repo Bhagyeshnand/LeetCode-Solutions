@@ -1215,6 +1215,7 @@ My Personal Leetcode Notebook !
 | [3840-find-x-value-of-array-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3840-find-x-value-of-array-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -2259,6 +2260,7 @@ My Personal Leetcode Notebook !
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3840-find-x-value-of-array-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3840-find-x-value-of-array-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
 |  |
 | ------- |
