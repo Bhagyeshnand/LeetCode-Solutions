@@ -583,6 +583,7 @@ My Personal Leetcode Notebook !
 | [3334-apple-redistribution-into-boxes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3334-apple-redistribution-into-boxes) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3430-count-days-without-meetings](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3430-count-days-without-meetings) |
 | [3433-count-mentions-per-user](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -1142,6 +1143,7 @@ My Personal Leetcode Notebook !
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3379-transformed-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3379-transformed-array) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3427-special-array-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3429-special-array-i) |
@@ -1725,6 +1727,7 @@ My Personal Leetcode Notebook !
 | [2716-prime-subtraction-operation](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3161-block-placement-queries](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3161-block-placement-queries) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3427-special-array-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3427-special-array-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3454-separate-squares-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
@@ -2002,6 +2005,7 @@ My Personal Leetcode Notebook !
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
