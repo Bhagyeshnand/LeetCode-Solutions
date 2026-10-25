@@ -1,22 +1,35 @@
 class Solution {
-    private int[][] grid;
-    private int m, n;
-
-    private boolean closed(int i, int j) {  // flood the island through (i, j); true if it never reaches the border
-        if (i < 0 || i >= m || j < 0 || j >= n) return false;  // stepped off the grid: the island touches the border
-        if (grid[i][j] == 1) return true;  // water, or land we already flooded
-        grid[i][j] = 1;  // visited: turn it into water
-        return closed(i + 1, j) & closed(i - 1, j) & closed(i, j + 1) & closed(i, j - 1);  // & (not &&) floods all 4 sides
+    private boolean dfs(int[][] grid,int r,int c){
+        //out of bounds cond
+        if(r<0 || c<0 || r>= grid.length || 
+        c>=grid[0].length ) return false;
+        if(grid[r][c]==1) return true;
+        //if(grid[r][c]==1) return true;
+        //visited cell marking 
+        grid[r][c]=1;
+        
+        boolean up = dfs(grid,r-1,c);
+        boolean down = dfs(grid, r+1, c);
+        boolean left = dfs(grid, r, c-1);
+        boolean right = dfs(grid, r, c+1);
+        //check all four adj cells
+        return  up && down && left && right;
     }
 
+        
     public int closedIsland(int[][] grid) {
-        this.grid = grid;
-        m = grid.length;
-        n = grid[0].length;
-        int count = 0;
-        for (int i = 0; i < m; i++)
-            for (int j = 0; j < n; j++)
-                if (grid[i][j] == 0 && closed(i, j)) count++;
-        return count;
+        int n = grid.length;
+        int m = grid[0].length;
+        int closedIsl = 0;
+        for(int i=0; i<n; i++){
+            for(int j=0; j<m; j++){
+                if(grid[i][j]==0){
+                    if(dfs(grid,i,j)){
+                        closedIsl++;
+                    }
+                }
+            }
+        }
+        return closedIsl;
     }
 }
