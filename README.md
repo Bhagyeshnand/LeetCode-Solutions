@@ -718,6 +718,7 @@ My Personal Leetcode Notebook !
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-power-grid-maintenance](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
@@ -1220,6 +1221,7 @@ My Personal Leetcode Notebook !
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3840-find-x-value-of-array-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3840-find-x-value-of-array-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -1563,6 +1565,7 @@ My Personal Leetcode Notebook !
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -2105,6 +2108,7 @@ My Personal Leetcode Notebook !
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -2384,6 +2388,7 @@ My Personal Leetcode Notebook !
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -2455,6 +2460,7 @@ My Personal Leetcode Notebook !
 | [1511-count-number-of-teams](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1511-count-number-of-teams) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [3161-block-placement-queries](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3161-block-placement-queries) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Strongly Connected Component
 |  |
 | ------- |
@@ -2624,6 +2630,7 @@ My Personal Leetcode Notebook !
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Number Theory
 |  |
@@ -2758,6 +2765,7 @@ My Personal Leetcode Notebook !
 | [3790-fruits-into-baskets-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 | [3840-find-x-value-of-array-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3840-find-x-value-of-array-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Ordered Set
 |  |
 | ------- |
