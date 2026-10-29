@@ -940,6 +940,7 @@ My Personal Leetcode Notebook !
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1583-paint-house-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1583-paint-house-iii) |
 | [1611-making-file-names-unique](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1611-making-file-names-unique) |
@@ -1978,6 +1979,7 @@ My Personal Leetcode Notebook !
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1511-count-number-of-teams) |
 | [1545-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1545-form-largest-integer-with-digits-that-add-up-to-target) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1583-paint-house-iii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1583-paint-house-iii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1632-number-of-good-ways-to-split-a-string) |
@@ -2098,6 +2100,7 @@ My Personal Leetcode Notebook !
 | [1382-balance-a-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -2153,6 +2156,7 @@ My Personal Leetcode Notebook !
 | [1382-balance-a-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -2216,6 +2220,7 @@ My Personal Leetcode Notebook !
 | [1500-count-largest-group](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1500-count-largest-group) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -2374,6 +2379,7 @@ My Personal Leetcode Notebook !
 | [0783-search-in-a-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1382-balance-a-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -2389,6 +2395,7 @@ My Personal Leetcode Notebook !
 | [0948-sort-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -2716,6 +2723,7 @@ My Personal Leetcode Notebook !
 | ------- |
 | [0139-word-break](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -2830,6 +2838,7 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -2887,6 +2896,7 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Minimax
@@ -2901,4 +2911,8 @@ My Personal Leetcode Notebook !
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
