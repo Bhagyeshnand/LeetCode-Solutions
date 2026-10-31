@@ -1,23 +1,24 @@
 class Solution {
-    static final int[][][] mat = {{{1, 1}, {1, 1}}, {{0, 1}, {1, 0}}};
-    static final int MOD = 1000000007;
+    public int uniquePaths(int[][] grid) {
+        int m = 1_000_000_007;
+        int n = grid[0].length;
+        int[] r = new int[n + 1];
+        int[] d = new int[n + 1];
+        r[0] = 1;
 
-    public int uniquePaths(int[][] A) {
-        int n = A[0].length, left = 0;
-        int[] dp = new int[n];
-
-        dp[0] = 1;
-
-        for (int[] row : A) {
-            left = 0;
+        for (int[] row : grid) {
             for (int j = 0; j < n; j++) {
-                int top = dp[j], c = row[j];
-
-                dp[j] = (left * mat[c][1][0] + top * mat[c][1][1]) % MOD;
-                left  = (left * mat[c][0][0] + top * mat[c][0][1]) % MOD;
+                if (row[j] == 0) {
+                    int c = (d[j + 1] + r[j]) % m;
+                    d[j + 1] = c;
+                    r[j + 1] = c;
+                } else {
+                    r[j + 1] = d[j + 1];
+                    d[j + 1] = r[j];
+                }
             }
+            r[0] = 0;
         }
-
-        return left;
+        return r[n];
     }
 }
