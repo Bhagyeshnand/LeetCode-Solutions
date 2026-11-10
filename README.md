@@ -1208,6 +1208,7 @@ My Personal Leetcode Notebook !
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3665-twisted-mirror-path-count](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3693-climbing-stairs-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -2041,6 +2042,7 @@ My Personal Leetcode Notebook !
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3665-twisted-mirror-path-count](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Bhagyeshnand/LeetCode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
